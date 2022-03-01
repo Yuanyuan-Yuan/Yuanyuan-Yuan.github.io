@@ -34,20 +34,20 @@ In *ACM Sigmetrics/Performance* (**SIGMETRICS**), 2022.
 
 - [**Automated Side Channel Analysis of Media Software with Manifold Learning**](https://www.usenix.org/conference/usenixsecurity22/presentation/yuan).  
 **Yuanyuan Yuan**, Qi Pang, and Shuai Wang.  
-In *USENIX Security Symposium (**USENIX Security**)*, 2022. [[extended version]](https://arxiv.org/pdf/2112.04947.pdf), [[code]](https://github.com/Yuanyuan-Yuan/Manifold-SCA)  
+In *USENIX Security Symposium* (**USENIX Security**), 2022. [[extended version]](https://arxiv.org/pdf/2112.04947.pdf), [[code]](https://github.com/Yuanyuan-Yuan/Manifold-SCA)  
 😬 Artifact Evaluated, **Badges: Available, Functional, Reproduced**.
 
 - [**SoK: Demystifying Binary Lifters Through the Lens of Downstream Applications**](https://www.computer.org/csdl/proceedings-article/sp/2022/131600a453/1wKCev3wlbO).  
 Zhibo Liu, **Yuanyuan Yuan**, Shuai Wang, and Yuyan Bao.  
-In *EEE Symposium on Security and Privacy (**IEEE S&P**)*, 2022.
+In *EEE Symposium on Security and Privacy* (**IEEE S&P**), 2022.
 
 - [**Perception Matters: Detecting Perception Failures of VQA Models Using Metamorphic Testing**](https://openaccess.thecvf.com/content/CVPR2021/html/Yuan_Perception_Matters_Detecting_Perception_Failures_of_VQA_Models_Using_Metamorphic_CVPR_2021_paper.html).  
 **Yuanyuan Yuan**, Shuai Wang, Mingyue Jiang, Tsong Yueh Chen.  
-In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)*, 2021. [[code]](https://github.com/MetaVQA/MetaVQA)
+In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**CVPR**), 2021. [[code]](https://github.com/MetaVQA/MetaVQA)
 
 - [**Private Image Reconstruction from System Side Channels Using Generative Models**](https://openreview.net/forum?id=y06VOYLcQXa).  
 **Yuanyuan Yuan**, Shuai Wang, Junping Zhang.  
-In *International Conference on Learning Representations (**ICLR**)*, 2021. [[code]](https://github.com/genSCA/genSCA)
+In *International Conference on Learning Representations* (**ICLR**), 2021. [[code]](https://github.com/genSCA/genSCA)
 
 ## Talks
 
@@ -66,5 +66,5 @@ In *International Conference on Learning Representations (**ICLR**)*, 2021. [[co
 
 
 <p align="center">
-  <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=58fqm6u2ofs&amp;m=0&amp;c=007eff&amp;cr1=00fff6&amp;f=arial&amp;l=33" async="async"></script>
+  <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=58fqm6u2ofs&amp;m=0&amp;c=ff8a00&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
 </p>
