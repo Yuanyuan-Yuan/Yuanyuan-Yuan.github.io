@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Welcome to Yuanyuan' homepage!  
-*<font size="2"><u>Updated on 26 Feb. 2022</u></font>*
+<!-- *<font size="2"><u>Updated on 26 Feb. 2022</u></font>* -->
 
 Yuanyuan Yuan is currently a second-year Ph.D. student at HKUST, supervised by Prof. [Shuai Wang](https://www.cse.ust.hk/~shuaiw/). Before joining HKUST, he received his B.S. from Fudan University. His research focuses on *Security (particularly side channel analysis)*, *Reliability of AI Systems*, and *Software Engineering*.
 
@@ -19,6 +19,10 @@ Yuanyuan Yuan is currently a second-year Ph.D. student at HKUST, supervised by P
 - **B.S. in Computer Science**. Fudan University. *Sep. 2016 - July 2020*.
 
 ## Publications
+
+- **<u>MDPFuzz: Testing Models Solving Markov Decision Processes.</u>**.  
+Qi Pang, **Yuanyuan Yuan**, and Shuai Wang.  
+In *International Symposium on Software Testing and Analysis* (**ISSTA**), 2022.
 
 - **<u>NeuralD: Detecting Indistinguishability Violations of Oblivious RAM with Neural Distinguishers</u>**.  
 Pingchuan Ma, Zhibo Liu, **Yuanyuan Yuan**, and Shuai Wang.  
