@@ -20,7 +20,7 @@ Yuanyuan Yuan is currently a second-year Ph.D. student at HKUST, supervised by P
 
 ## Publications
 
-- **<u>MDPFuzz: Testing Models Solving Markov Decision Processes.</u>**.  
+- **<u>MDPFuzz: Testing Models Solving Markov Decision Processes</u>**.  
 Qi Pang, **Yuanyuan Yuan**, and Shuai Wang.  
 In *International Symposium on Software Testing and Analysis* (**ISSTA**), 2022.
 
