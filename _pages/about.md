@@ -62,7 +62,8 @@ In *International Conference on Learning Representations* (**ICLR**), 2021. [[co
 
 - **Program Committee**: USENIX OSDI 2022 and ATC 2022 (Artifact Evaluation), ISSTA 2022 (Artifact Evaluation).
 
-- **External-/Sub-reviewer**: CCS 2022, POPL 2020 Artifact Evaluation, ICICS 2020, ICICS 2021, AsiaCCS 2021, AsiaCCS 2022, Journal of System and Software. 
+- **Sub-reviewer**: ASE 2022, CCS 2022.
+<!-- POPL 2020 Artifact Evaluation, ICICS 2020, ICICS 2021, AsiaCCS 2021, AsiaCCS 2022, Journal of System and Software.  -->
 
 ## Teaching Experience
 
