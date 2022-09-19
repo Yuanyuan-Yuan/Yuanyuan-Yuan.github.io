@@ -21,7 +21,7 @@ Yuanyuan Yuan is a third-year Ph.D. student at HKUST, supervised by Prof. [Shuai
 
 ## Publications
 
-- [USENIX Security] <u>Decompiling x86 Deep Neural Network Executables</u>.  
+- [**USENIX Security**] <u>Decompiling x86 Deep Neural Network Executables</u>.  
 Zhibo Liu, **Yuanyuan Yuan**, Shuai Wang, Xiaofei Xie, and Lei Ma.  
 In *32nd USENIX Security Symposium*, 2023.
 
