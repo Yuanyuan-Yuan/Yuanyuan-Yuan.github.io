@@ -11,7 +11,9 @@ redirect_from:
 Welcome to Yuanyuan' homepage!  
 *<font size="2"><u>Updated on 19 Sep. 2023</u></font>*
 
-Yuanyuan Yuan is a third-year Ph.D. student at HKUST, supervised by Prof. [Shuai Wang](https://www.cse.ust.hk/~shuaiw/). Before joining HKUST, he received his B.S. from Fudan University. His research focuses on software security. Yuanyuan is now visiting at the [AST lab](https://ast.ethz.ch/), ETH Zurich, under the supervision of Prof. [Zhendong Su](https://people.inf.ethz.ch/suz/).
+Yuanyuan Yuan is a third-year Ph.D. student at HKUST, supervised by Prof. [Shuai Wang](https://www.cse.ust.hk/~shuaiw/). Before joining HKUST, he received his B.S. from Fudan University. His research focuses on software security.
+
+I'm currently a visiting student at the [AST lab](https://ast.ethz.ch/), ETH Zurich, under the supervision of Prof. [Zhendong Su](https://people.inf.ethz.ch/suz/).
 
 ## Education & Experience
 
