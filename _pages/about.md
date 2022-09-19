@@ -9,16 +9,25 @@ redirect_from:
 ---
 
 Welcome to Yuanyuan' homepage!  
-<!-- *<font size="2"><u>Updated on 26 Feb. 2022</u></font>* -->
+*<font size="2"><u>Updated on 19 Sep. 2023</u></font>*
 
-Yuanyuan Yuan is currently a second-year Ph.D. student at HKUST, supervised by Prof. [Shuai Wang](https://www.cse.ust.hk/~shuaiw/). Before joining HKUST, he received his B.S. from Fudan University. His research focuses on *Security (particularly side channel analysis)*, *Reliability of AI Systems*, and *Software Engineering*.
+Yuanyuan Yuan is a third-year Ph.D. student at HKUST, supervised by Prof. [Shuai Wang](https://www.cse.ust.hk/~shuaiw/). Before joining HKUST, he received his B.S. from Fudan University. His research focuses on software security. Yuanyuan is now visiting as the [AST lab](https://ast.ethz.ch/), ETH Zurich, under the supervision of Prof. [Zhendong Su](https://people.inf.ethz.ch/suz/).
 
-## Education
+## Education \& Experience
 
+- **Visiting Ph.D. at the AST Lab**. ETH Zurich. *Sep. 2022 - present*.
 - **Ph.D. in Computer Science and Engineering**. The Hong Kong University of Science and Technology. *Sep. 2020 - present*.
 - **B.S. in Computer Science**. Fudan University. *Sep. 2016 - July 2020*.
 
 ## Publications
+
+- **<u>Decompiling x86 Deep Neural Network Executables.</u>**.  
+Zhibo Liu, **Yuanyuan Yuan**, Shuai Wang, Xiaofei Xie, and Lei Ma.  
+In *32nd USENIX Security Symposium * (**USENIX Security**), 2023.
+
+- **<u>Unveiling the Hidden Defection of DNN Testing with Decision-Based Metamorphic Oracle.</u>**.  
+**Yuanyuan Yuan**, Qi Pang, and Shuai Wang.  
+In *37th IEEE/ACM International Conference on Automated Software Engineering* (**ASE**), 2022.
 
 - **<u>MDPFuzz: Testing Models Solving Markov Decision Processes</u>**.  
 Qi Pang, **Yuanyuan Yuan**, and Shuai Wang.  
@@ -53,16 +62,16 @@ In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recogn
 **Yuanyuan Yuan**, Shuai Wang, Junping Zhang.  
 In *International Conference on Learning Representations* (**ICLR**), 2021. [[code]](https://github.com/genSCA/genSCA)
 
-## Talks
+<!-- ## Talks
 
 - Private Image Reconstruction from System Side Channels Using Generative Models.  
-[AI Time](http://www.aitime.cn/). 26 May 2021. 
+[AI Time](http://www.aitime.cn/). 26 May 2021.  -->
 
 ## Academic Services
 
 - **Program Committee**: USENIX OSDI 2022 and ATC 2022 (Artifact Evaluation), ISSTA 2022 (Artifact Evaluation).
 
-- **Sub-reviewer**: ASE 2022, CCS 2022.
+- **Sub-reviewer**: USENIX Security 2023, ASE 2022, CCS 2022.
 <!-- POPL 2020 Artifact Evaluation, ICICS 2020, ICICS 2021, AsiaCCS 2021, AsiaCCS 2022, Journal of System and Software.  -->
 
 ## Teaching Experience
