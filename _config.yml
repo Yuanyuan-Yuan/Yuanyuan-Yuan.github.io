@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yuanyuan Yuan"
 title_separator          : "-"
 name                     : &name "Yuanyuan Yuan"
-description              : &description "Second-year Ph.D. Student at HKUST"
+description              : &description "Ph.D. at HKUST"
 url                      : https://Yuanyuan-Yuan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Yuanyuan-Yuan/Yuanyuan-Yuan.github.io"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yuanyuan Yuan"
+  name             : "Yuanyuan Yuan (袁渊源)"
   avatar           : "yuanyuan2.png"
   bio              : "🤔"
   location         : "Hong Kong, China"
