@@ -21,7 +21,7 @@ Yuanyuan Yuan is a third-year Ph.D. student at HKUST, supervised by Prof. [Shuai
 
 ## Publications
 
-- [**Security**] <u>Decompiling x86 Deep Neural Network Executables</u>.  
+- [**USENIX Security**] <u>Decompiling x86 Deep Neural Network Executables</u>.  
 Zhibo Liu, **Yuanyuan Yuan**, Shuai Wang, Xiaofei Xie, and Lei Ma.  
 In *32nd USENIX Security Symposium*, 2023.
 
@@ -45,7 +45,7 @@ In *IEEE Transactions on Software Engineering*, 2022.
 Dongwei Xiao, Zhibo Liu, **Yuanyuan Yuan**, Qi Pang, and Shuai Wang.  
 In *ACM Sigmetrics/Performance*, 2022.
 
-- [**Security**] [Automated Side Channel Analysis of Media Software with Manifold Learning](https://www.usenix.org/conference/usenixsecurity22/presentation/yuan).  
+- [**USENIX Security**] [Automated Side Channel Analysis of Media Software with Manifold Learning](https://www.usenix.org/conference/usenixsecurity22/presentation/yuan).  
 **Yuanyuan Yuan**, Qi Pang, and Shuai Wang.  
 In *USENIX Security Symposium*, 2022. [[extended version]](https://arxiv.org/pdf/2112.04947.pdf), [[code]](https://github.com/Yuanyuan-Yuan/Manifold-SCA)  
 💡 Artifact Evaluated, **Badges: Available, Functional, Reproduced**.
