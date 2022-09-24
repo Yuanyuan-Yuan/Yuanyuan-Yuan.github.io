@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Welcome to Yuanyuan' homepage!  
-*<font size="2"><u>Updated on 19 Sep. 2023</u></font>*
+*<font size="2"><u>Updated on 19 Sep. 2022</u></font>*
 
 Yuanyuan Yuan is a third-year Ph.D. student at HKUST, supervised by Prof. [Shuai Wang](https://www.cse.ust.hk/~shuaiw/). Before joining HKUST, he received his B.S. from Fudan University. His research focuses on software security.
 
