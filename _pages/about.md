@@ -35,12 +35,12 @@ In *32nd USENIX Security Symposium*, 2023.
 **Yuanyuan Yuan**, Qi Pang, and Shuai Wang.  
 In *37th IEEE/ACM International Conference on Automated Software Engineering*, 2022.
 
-- [**ISSTA**] <u>MDPFuzz: Testing Models Solving Markov Decision Processes</u>.  
+- [**ISSTA**] [MDPFuzz: Testing Models Solving Markov Decision Processes](https://dl.acm.org/doi/abs/10.1145/3533767.3534388).  
 Qi Pang, **Yuanyuan Yuan**, and Shuai Wang.  
 In *31st International Symposium on Software Testing and Analysis*, 2022.  
 [[code]](https://github.com/Qi-Pang/MDPFuzz)
 
-- [**TIFS**] <u>NeuralD: Detecting Indistinguishability Violations of Oblivious RAM with Neural Distinguishers</u>.  
+- [**TIFS**] [NeuralD: Detecting Indistinguishability Violations of Oblivious RAM with Neural Distinguishers](https://ieeexplore.ieee.org/document/9722877).  
 Pingchuan Ma, Zhibo Liu, **Yuanyuan Yuan**, and Shuai Wang.  
 In *IEEE Transactions on Information Forensics and Security*, 2022.
 
@@ -48,7 +48,7 @@ In *IEEE Transactions on Information Forensics and Security*, 2022.
 Huaijin Wang, Pingchuan Ma, **Yuanyuan Yuan**, Zhibo Liu, Shuai Wang, Qiyi Tang, Sen Nie, and Shi Wu.  
 In *IEEE Transactions on Software Engineering*, 2022.
 
-- [**SIGMETRICS**] <u>Metamorphic Testing of Deep Learning Compilers</u>.  
+- [**SIGMETRICS**] [Metamorphic Testing of Deep Learning Compilers](https://dl.acm.org/doi/abs/10.1145/3508035).  
 Dongwei Xiao, Zhibo Liu, **Yuanyuan Yuan**, Qi Pang, and Shuai Wang.  
 In *ACM Sigmetrics/Performance*, 2022.  
 [[code]](https://github.com/Wilbur-Django/Testing-DNN-Compilers)
