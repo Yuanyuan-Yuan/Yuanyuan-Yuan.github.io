@@ -53,7 +53,8 @@ In *ACM Sigmetrics/Performance*, 2022.
 
 - [**USENIX Security**] [Automated Side Channel Analysis of Media Software with Manifold Learning](https://www.usenix.org/conference/usenixsecurity22/presentation/yuan).  
 **Yuanyuan Yuan**, Qi Pang, and Shuai Wang.  
-In *31st USENIX Security Symposium*, 2022. [[extended version]](https://arxiv.org/pdf/2112.04947.pdf), [[code]](https://github.com/Yuanyuan-Yuan/Manifold-SCA)  
+In *31st USENIX Security Symposium*, 2022.  
+[[extended version]](https://arxiv.org/pdf/2112.04947.pdf), [[code]](https://github.com/Yuanyuan-Yuan/Manifold-SCA)  
 💡 Artifact Evaluated, **Badges: Available, Functional, Reproduced**.
 
 - [**S&P**] [SoK: Demystifying Binary Lifters Through the Lens of Downstream Applications](https://www.computer.org/csdl/proceedings-article/sp/2022/131600a453/1wKCev3wlbO).  
@@ -62,11 +63,13 @@ In *43rd IEEE Symposium on Security and Privacy*, 2022.
 
 - [**CVPR**] [Perception Matters: Detecting Perception Failures of VQA Models Using Metamorphic Testing](https://openaccess.thecvf.com/content/CVPR2021/html/Yuan_Perception_Matters_Detecting_Perception_Failures_of_VQA_Models_Using_Metamorphic_CVPR_2021_paper.html).  
 **Yuanyuan Yuan**, Shuai Wang, Mingyue Jiang, Tsong Yueh Chen.  
-In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition*, 2021. [[code]](https://github.com/MetaVQA/MetaVQA)
+In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition*, 2021.  
+[[code]](https://github.com/MetaVQA/MetaVQA)
 
 - [**ICLR**] [**Private Image Reconstruction from System Side Channels Using Generative Models**](https://openreview.net/forum?id=y06VOYLcQXa).  
 **Yuanyuan Yuan**, Shuai Wang, Junping Zhang.  
-In *International Conference on Learning Representations*, 2021. [[code]](https://github.com/genSCA/genSCA)
+In *International Conference on Learning Representations*, 2021.  
+[[code]](https://github.com/genSCA/genSCA)
 
 <!-- ## Talks
 
