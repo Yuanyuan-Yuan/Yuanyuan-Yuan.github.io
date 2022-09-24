@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Welcome to Yuanyuan' homepage!  
-*<font size="2"><u>Updated on 19 Sep. 2022</u></font>*
+*<font size="2"><u>Updated on 24 Sep. 2022</u></font>*
 
 Yuanyuan Yuan is a third-year Ph.D. student at HKUST, supervised by Prof. [Shuai Wang](https://www.cse.ust.hk/~shuaiw/). Before joining HKUST, he received his B.S. from Fudan University. His research focuses on software security.
 
@@ -22,6 +22,10 @@ I'm currently a visiting student at the [AST lab](https://ast.ethz.ch/), ETH Zur
 - **B.S. in Computer Science**. Fudan University. *Sep. 2016 - July 2020*.
 
 ## Publications
+
+- [**USENIX Security**] <u>CacheQL: Quantifying and Localizing Cache Side-Channel Vulnerabilities in Production Software<u>.
+**Yuanyuan Yuan**, Zhibo Liu, Shuai Wang.
+In *32nd USENIX Security Symposium*, 2023.
 
 - [**USENIX Security**] <u>Decompiling x86 Deep Neural Network Executables</u>.  
 Zhibo Liu, **Yuanyuan Yuan**, Shuai Wang, Xiaofei Xie, and Lei Ma.  
