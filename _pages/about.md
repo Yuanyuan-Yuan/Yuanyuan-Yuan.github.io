@@ -23,8 +23,8 @@ I'm currently a visiting student at the [AST lab](https://ast.ethz.ch/), ETH Zur
 
 ## Publications
 
-- [**USENIX Security**] <u>CacheQL: Quantifying and Localizing Cache Side-Channel Vulnerabilities in Production Software<u>.
-**Yuanyuan Yuan**, Zhibo Liu, Shuai Wang.
+- [**USENIX Security**] <u>CacheQL: Quantifying and Localizing Cache Side-Channel Vulnerabilities in Production Software</u>.  
+**Yuanyuan Yuan**, Zhibo Liu, Shuai Wang.  
 In *32nd USENIX Security Symposium*, 2023.
 
 - [**USENIX Security**] <u>Decompiling x86 Deep Neural Network Executables</u>.  
