@@ -17,7 +17,7 @@ I'm currently a visiting student at the [AST lab](https://ast.ethz.ch/), ETH Zur
 
 ## Education & Experience
 
-- **Visiting Ph.D. at the AST Lab**. ETH Zurich. *Sep. 2022 - present*.
+- **Visiting Ph.D.**. AST Lab, ETH Zurich. *Sep. 2022 - present*.
 - **Ph.D. in Computer Science and Engineering**. The Hong Kong University of Science and Technology. *Sep. 2020 - present*.
 - **B.S. in Computer Science**. Fudan University. *Sep. 2016 - July 2020*.
 
