@@ -37,7 +37,7 @@ In *37th IEEE/ACM International Conference on Automated Software Engineering*, 2
 
 - [**ISSTA**] <u>MDPFuzz: Testing Models Solving Markov Decision Processes</u>.  
 Qi Pang, **Yuanyuan Yuan**, and Shuai Wang.  
-In *International Symposium on Software Testing and Analysis*, 2022.
+In *31st International Symposium on Software Testing and Analysis*, 2022.
 
 - [**TIFS**] <u>NeuralD: Detecting Indistinguishability Violations of Oblivious RAM with Neural Distinguishers</u>.  
 Pingchuan Ma, Zhibo Liu, **Yuanyuan Yuan**, and Shuai Wang.  
@@ -53,12 +53,12 @@ In *ACM Sigmetrics/Performance*, 2022.
 
 - [**USENIX Security**] [Automated Side Channel Analysis of Media Software with Manifold Learning](https://www.usenix.org/conference/usenixsecurity22/presentation/yuan).  
 **Yuanyuan Yuan**, Qi Pang, and Shuai Wang.  
-In *USENIX Security Symposium*, 2022. [[extended version]](https://arxiv.org/pdf/2112.04947.pdf), [[code]](https://github.com/Yuanyuan-Yuan/Manifold-SCA)  
+In *31st USENIX Security Symposium*, 2022. [[extended version]](https://arxiv.org/pdf/2112.04947.pdf), [[code]](https://github.com/Yuanyuan-Yuan/Manifold-SCA)  
 💡 Artifact Evaluated, **Badges: Available, Functional, Reproduced**.
 
 - [**S&P**] [SoK: Demystifying Binary Lifters Through the Lens of Downstream Applications](https://www.computer.org/csdl/proceedings-article/sp/2022/131600a453/1wKCev3wlbO).  
 Zhibo Liu, **Yuanyuan Yuan**, Shuai Wang, and Yuyan Bao.  
-In *EEE Symposium on Security and Privacy*, 2022.
+In *43rd IEEE Symposium on Security and Privacy*, 2022.
 
 - [**CVPR**] [Perception Matters: Detecting Perception Failures of VQA Models Using Metamorphic Testing](https://openaccess.thecvf.com/content/CVPR2021/html/Yuan_Perception_Matters_Detecting_Perception_Failures_of_VQA_Models_Using_Metamorphic_CVPR_2021_paper.html).  
 **Yuanyuan Yuan**, Shuai Wang, Mingyue Jiang, Tsong Yueh Chen.  
