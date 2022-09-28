@@ -42,11 +42,13 @@ In *31st International Symposium on Software Testing and Analysis*, 2022.
 
 - [**TIFS**] [NeuralD: Detecting Indistinguishability Violations of Oblivious RAM with Neural Distinguishers](https://ieeexplore.ieee.org/document/9722877).  
 Pingchuan Ma, Zhibo Liu, **Yuanyuan Yuan**, and Shuai Wang.  
-In *IEEE Transactions on Information Forensics and Security*, 2022.
+In *IEEE Transactions on Information Forensics and Security*, 2022.  
+[[code]](https://github.com/pckennethma/NeuralD)
 
 - [**TSE**] [Enhancing DNN-Based Binary Code Function Search With Low-Cost Equivalence Checking](https://ieeexplore.ieee.org/document/9707874).  
 Huaijin Wang, Pingchuan Ma, **Yuanyuan Yuan**, Zhibo Liu, Shuai Wang, Qiyi Tang, Sen Nie, and Shi Wu.  
-In *IEEE Transactions on Software Engineering*, 2022.
+In *IEEE Transactions on Software Engineering*, 2022.  
+[[code]](https://github.com/computer-analysis/BinUSE)
 
 - [**SIGMETRICS**] [Metamorphic Testing of Deep Learning Compilers](https://dl.acm.org/doi/abs/10.1145/3508035).  
 Dongwei Xiao, Zhibo Liu, **Yuanyuan Yuan**, Qi Pang, and Shuai Wang.  
