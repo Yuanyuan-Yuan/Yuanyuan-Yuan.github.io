@@ -35,7 +35,7 @@ Zhibo Liu, **Yuanyuan Yuan**, Shuai Wang, Xiaofei Xie, and Lei Ma.
 In *32nd USENIX Security Symposium*, 2023.  
 [[preprint]](https://arxiv.org/pdf/2210.01075.pdf)
 
-- [**ASE**] <u>Unveiling the Hidden Defection of DNN Testing with Decision-Based Metamorphic Oracle</u>.  
+- [**ASE**] <u>Unveiling Hidden DNN Defects with Decision-Based Metamorphic Testing</u>.  
 **Yuanyuan Yuan**, Qi Pang, and Shuai Wang.  
 In *37th IEEE/ACM International Conference on Automated Software Engineering*, 2022.  
 [[preprint]](https://arxiv.org/pdf/2210.04942.pdf), [[code]](https://github.com/Yuanyuan-Yuan/Decision-Oracle)
