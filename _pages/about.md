@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Welcome to Yuanyuan' homepage!  
-*<font size="2"><u>Updated on 24 Sep. 2022</u></font>*
+*<font size="2"><u>Updated on 12 Oct. 2022</u></font>*
 
 Yuanyuan Yuan is a third-year Ph.D. student at HKUST, supervised by Prof. [Shuai Wang](https://www.cse.ust.hk/~shuaiw/). Before joining HKUST, he received his B.S. from Fudan University. His research focuses on software security.
 
@@ -37,7 +37,8 @@ In *32nd USENIX Security Symposium*, 2023.
 
 - [**ASE**] <u>Unveiling the Hidden Defection of DNN Testing with Decision-Based Metamorphic Oracle</u>.  
 **Yuanyuan Yuan**, Qi Pang, and Shuai Wang.  
-In *37th IEEE/ACM International Conference on Automated Software Engineering*, 2022.
+In *37th IEEE/ACM International Conference on Automated Software Engineering*, 2022.  
+[[preprint]](https://arxiv.org/pdf/2210.04942.pdf), [[code]](https://github.com/Yuanyuan-Yuan/Decision-Oracle)
 
 - [**ISSTA**] [MDPFuzz: Testing Models Solving Markov Decision Processes](https://dl.acm.org/doi/abs/10.1145/3533767.3534388).  
 Qi Pang, **Yuanyuan Yuan**, and Shuai Wang.  
