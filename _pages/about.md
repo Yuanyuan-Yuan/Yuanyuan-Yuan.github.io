@@ -76,7 +76,7 @@ In *43rd IEEE Symposium on Security and Privacy*, 2022.
 In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition*, 2021.  
 [[code]](https://github.com/MetaVQA/MetaVQA)
 
-- [**ICLR**] [**Private Image Reconstruction from System Side Channels Using Generative Models**](https://openreview.net/forum?id=y06VOYLcQXa).  
+- [**ICLR**] [Private Image Reconstruction from System Side Channels Using Generative Models](https://openreview.net/forum?id=y06VOYLcQXa).  
 **Yuanyuan Yuan**, Shuai Wang, Junping Zhang.  
 In *International Conference on Learning Representations*, 2021.  
 [[code]](https://github.com/genSCA/genSCA)
