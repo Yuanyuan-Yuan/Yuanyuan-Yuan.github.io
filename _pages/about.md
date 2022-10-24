@@ -33,7 +33,7 @@ In *32nd USENIX Security Symposium*, 2023.
 - [**USENIX Security**] <u>Decompiling x86 Deep Neural Network Executables</u>.  
 Zhibo Liu, **Yuanyuan Yuan**, Shuai Wang, Xiaofei Xie, and Lei Ma.  
 In *32nd USENIX Security Symposium*, 2023.  
-[[preprint]](https://arxiv.org/pdf/2210.01075.pdf)
+[[preprint]](https://arxiv.org/pdf/2210.01075.pdf), [[code]](https://github.com/monkbai/DNN-decompiler)
 
 - [**ASE**] <u>Unveiling Hidden DNN Defects with Decision-Based Metamorphic Testing</u>.  
 **Yuanyuan Yuan**, Qi Pang, and Shuai Wang.  
