@@ -25,15 +25,15 @@ I'm currently a visiting student at the [AST lab](https://ast.ethz.ch/), ETH Zur
 
 ## Publications
 
-- [**USENIX Security**] <u>CacheQL: Quantifying and Localizing Cache Side-Channel Vulnerabilities in Production Software</u>.  
+- [**USENIX Security**] [CacheQL: Quantifying and Localizing Cache Side-Channel Vulnerabilities in Production Software](https://www.usenix.org/conference/usenixsecurity23/presentation/yuanyuanyuan).  
 **Yuanyuan Yuan**, Zhibo Liu, Shuai Wang.  
 In *32nd USENIX Security Symposium*, 2023.  
-[[preprint]](https://arxiv.org/pdf/2209.14952.pdf), [[findings]](https://sites.google.com/view/cache-ql#h.pgsarsaxsdsv)
+[[extended version]](https://arxiv.org/pdf/2209.14952.pdf), [[findings]](https://sites.google.com/view/cache-ql#h.pgsarsaxsdsv)
 
-- [**USENIX Security**] <u>Decompiling x86 Deep Neural Network Executables</u>.  
+- [**USENIX Security**] [Decompiling x86 Deep Neural Network Executables](https://www.usenix.org/conference/usenixsecurity23/presentation/liuzhibo).  
 Zhibo Liu, **Yuanyuan Yuan**, Shuai Wang, Xiaofei Xie, and Lei Ma.  
 In *32nd USENIX Security Symposium*, 2023.  
-[[preprint]](https://arxiv.org/pdf/2210.01075.pdf), [[code]](https://github.com/monkbai/DNN-decompiler)
+[[extended version]](https://arxiv.org/pdf/2210.01075.pdf), [[code]](https://github.com/monkbai/DNN-decompiler)
 
 - [**ASE**] <u>Unveiling Hidden DNN Defects with Decision-Based Metamorphic Testing</u>.  
 **Yuanyuan Yuan**, Qi Pang, and Shuai Wang.  
