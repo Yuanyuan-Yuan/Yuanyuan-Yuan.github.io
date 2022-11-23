@@ -33,7 +33,7 @@ In *32nd USENIX Security Symposium*, 2023.
 - [**USENIX Security**] [Decompiling x86 Deep Neural Network Executables](https://www.usenix.org/conference/usenixsecurity23/presentation/liuzhibo).  
 Zhibo Liu, **Yuanyuan Yuan**, Shuai Wang, Xiaofei Xie, and Lei Ma.  
 In *32nd USENIX Security Symposium*, 2023.  
-🌟 **Artifact Evaluation**: Available, Functional, Reproduced.  
+🌟 **Artifact Evaluation Badges**: Available; Functional; Reproduced.  
 [[extended version]](https://arxiv.org/pdf/2210.01075.pdf), [[code]](https://github.com/monkbai/DNN-decompiler)
 
 - [**ASE**] <u>Unveiling Hidden DNN Defects with Decision-Based Metamorphic Testing</u>.  
