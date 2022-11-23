@@ -64,7 +64,7 @@ In *ACM Sigmetrics/Performance*, 2022.
 - [**USENIX Security**] [Automated Side Channel Analysis of Media Software with Manifold Learning](https://www.usenix.org/conference/usenixsecurity22/presentation/yuan).  
 **Yuanyuan Yuan**, Qi Pang, and Shuai Wang.  
 In *31st USENIX Security Symposium*, 2022.  
-🌟 USENIX Security Artifact Evaluation: Available, Functional, Reproduced.  
+🌟 **Artifact Evaluation Badges**: Available; Functional; Reproduced.    
 [[extended version]](https://arxiv.org/pdf/2112.04947.pdf), [[code]](https://github.com/Yuanyuan-Yuan/Manifold-SCA)
 
 - [**S&P**] [SoK: Demystifying Binary Lifters Through the Lens of Downstream Applications](https://www.computer.org/csdl/proceedings-article/sp/2022/131600a453/1wKCev3wlbO).  
