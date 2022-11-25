@@ -102,7 +102,6 @@ In *International Conference on Learning Representations*, 2021.
 
 
 <p align="center">
-  <!-- <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=58fqm6u2ofs&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script> -->
-  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=JA6J_kEcKMgq4qmQeLtG_lpG-LdNPq65TCrLot3teM0&cl=ffffff&w=a"></script>
+  <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=58fqm6u2ofs&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
 </p>
 
