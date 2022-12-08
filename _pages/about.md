@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Welcome to Yuanyuan' homepage!  
-*<font size="2"><u>Updated on 23 Nov. 2022</u></font>*
+*<font size="2"><u>Updated on 8 Dec. 2022</u></font>*
 
 Yuanyuan Yuan is a third-year Ph.D. student at HKUST, supervised by Prof. [Shuai Wang](https://www.cse.ust.hk/~shuaiw/). Before joining HKUST, he received his B.S. from Fudan University. His research focuses on software security.
 
@@ -24,6 +24,15 @@ I'm currently a visiting student at the [AST lab](https://ast.ethz.ch/), ETH Zur
 - **B.S. in Computer Science**. Fudan University. *Sep. 2016 - July 2020*.
 
 ## Publications
+
+- [**ICSE**] <u>CC: Causality-Aware Coverage Criterion for Deep Neural Networks</u>.  
+Zhenlan Ji, Pingchuan Ma, **Yuanyuan Yuan**, and Shuai Wang.  
+In *45th IEEE/ACM International Conference on Software Engineering*, 2023.
+
+- [**ICSE**] <u>Revisiting Neuron Coverage for DNN Testing: A Layer-Wise and
+  Distribution-Aware Criterion</u>.  
+**Yuanyuan Yuan**, Qi Pang, and Shuai Wang.  
+In *45th IEEE/ACM International Conference on Software Engineering*, 2023.
 
 - [**USENIX Security**] [CacheQL: Quantifying and Localizing Cache Side-Channel Vulnerabilities in Production Software](https://www.usenix.org/conference/usenixsecurity23/presentation/yuanyuanyuan).  
 **Yuanyuan Yuan**, Zhibo Liu, Shuai Wang.  
