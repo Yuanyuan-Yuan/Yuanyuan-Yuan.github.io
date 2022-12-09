@@ -74,8 +74,8 @@ In *ACM Sigmetrics/Performance*, 2022.
 - [**USENIX Security**] [Automated Side Channel Analysis of Media Software with Manifold Learning](https://www.usenix.org/conference/usenixsecurity22/presentation/yuan).  
 **Yuanyuan Yuan**, Qi Pang, and Shuai Wang.  
 In *31st USENIX Security Symposium*, 2022.  
-🌟 <a href="https://github.com/Yuanyuan-Yuan/Manifold-SCA" target="_blank"><img src="https://img.shields.io/github/stars/Yuanyuan-Yuan/Manifold-SCA.svg?style=social&label=Star&maxAge=180"></img></a> **Artifact Evaluation Badges**: Available; Functional; Reproduced.    
-[[extended version]](https://arxiv.org/pdf/2112.04947.pdf), [[code]](https://github.com/Yuanyuan-Yuan/Manifold-SCA)
+🌟 **Artifact Evaluation Badges**: Available; Functional; Reproduced.    
+[[extended version]](https://arxiv.org/pdf/2112.04947.pdf), [[code]](https://github.com/Yuanyuan-Yuan/Manifold-SCA) <a href="https://github.com/Yuanyuan-Yuan/Manifold-SCA" target="_blank"><img src="https://img.shields.io/github/stars/Yuanyuan-Yuan/Manifold-SCA.svg?style=social&label=Star&maxAge=180"></a>
 
 - [**S&P**] [SoK: Demystifying Binary Lifters Through the Lens of Downstream Applications](https://www.computer.org/csdl/proceedings-article/sp/2022/131600a453/1wKCev3wlbO).  
 Zhibo Liu, **Yuanyuan Yuan**, Shuai Wang, and Yuyan Bao.  
