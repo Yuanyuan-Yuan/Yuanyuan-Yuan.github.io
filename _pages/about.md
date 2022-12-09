@@ -36,7 +36,7 @@ In *45th IEEE/ACM International Conference on Software Engineering*, 2023.
 In *45th IEEE/ACM International Conference on Software Engineering*, 2023.
 
 - [**USENIX Security**] [CacheQL: Quantifying and Localizing Cache Side-Channel Vulnerabilities in Production Software](https://www.usenix.org/conference/usenixsecurity23/presentation/yuanyuanyuan).  
-**Yuanyuan Yuan**, Zhibo Liu, Shuai Wang.  
+**Yuanyuan Yuan**, Zhibo Liu, and Shuai Wang.  
 In *32nd USENIX Security Symposium*, 2023.  
 [[extended version]](https://arxiv.org/pdf/2209.14952.pdf), [[findings]](https://sites.google.com/view/cache-ql#h.pgsarsaxsdsv)
 
@@ -83,12 +83,12 @@ In *43rd IEEE Symposium on Security and Privacy*, 2022.
 [[code]](https://github.com/monkbai/ir_lifting_data)
 
 - [**CVPR**] [Perception Matters: Detecting Perception Failures of VQA Models Using Metamorphic Testing](https://openaccess.thecvf.com/content/CVPR2021/html/Yuan_Perception_Matters_Detecting_Perception_Failures_of_VQA_Models_Using_Metamorphic_CVPR_2021_paper.html).  
-**Yuanyuan Yuan**, Shuai Wang, Mingyue Jiang, Tsong Yueh Chen.  
+**Yuanyuan Yuan**, Shuai Wang, Mingyue Jiang, and Tsong Yueh Chen.  
 In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition*, 2021.  
 [[code]](https://github.com/MetaVQA/MetaVQA)
 
 - [**ICLR**] [Private Image Reconstruction from System Side Channels Using Generative Models](https://openreview.net/forum?id=y06VOYLcQXa).  
-**Yuanyuan Yuan**, Shuai Wang, Junping Zhang.  
+**Yuanyuan Yuan**, Shuai Wang, and Junping Zhang.  
 In *International Conference on Learning Representations*, 2021.  
 [[code]](https://github.com/genSCA/genSCA)
 
