@@ -44,7 +44,7 @@ In *32nd USENIX Security Symposium*, 2023.
 Zhibo Liu, **Yuanyuan Yuan**, Shuai Wang, Xiaofei Xie, and Lei Ma.  
 In *32nd USENIX Security Symposium*, 2023.  
 🌟 **Artifact Evaluation Badges**: Available; Functional; Reproduced.  
-[[extended version]](https://arxiv.org/pdf/2210.01075.pdf), [[code]](https://github.com/monkbai/DNN-decompiler)
+[[extended version]](https://arxiv.org/pdf/2210.01075.pdf), [[code]](https://github.com/monkbai/DNN-decompiler) <a href="https://github.com/monkbai/DNN-decompiler" target="_blank"><img src="https://img.shields.io/github/stars/monkbai/DNN-decompiler.svg?style=social&label=Star&maxAge=180"></a>
 
 - [**ASE**] <u>Unveiling Hidden DNN Defects with Decision-Based Metamorphic Testing</u>.  
 **Yuanyuan Yuan**, Qi Pang, and Shuai Wang.  
