@@ -26,7 +26,7 @@ I'm currently a visiting student at the [AST lab](https://ast.ethz.ch/), ETH Zur
 ## Publications
 
 - [**ICSE**] <u>CC: Causality-Aware Coverage Criterion for Deep Neural Networks</u>.  
-Zhenlan Ji, Pingchuan Ma\*, **Yuanyuan Yuan\***, and Shuai Wang.  
+Zhenlan Ji, Pingchuan Ma\*, **Yuanyuan Yuan**\*, and Shuai Wang.  
 In *45th IEEE/ACM International Conference on Software Engineering*, 2023.  
 \* Corresponding author.
 
