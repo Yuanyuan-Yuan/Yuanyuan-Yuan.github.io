@@ -33,7 +33,8 @@ $^\dagger$ Corresponding author.
 - [**ICSE**] <u>Revisiting Neuron Coverage for DNN Testing: A Layer-Wise and
   Distribution-Aware Criterion</u>.  
 **Yuanyuan Yuan**, Qi Pang, and Shuai Wang.  
-In *45th IEEE/ACM International Conference on Software Engineering*, 2023.
+In *45th IEEE/ACM International Conference on Software Engineering*, 2023.  
+[[preprint]](https://arxiv.org/abs/2112.01955)
 
 - [**USENIX Security**] [CacheQL: Quantifying and Localizing Cache Side-Channel Vulnerabilities in Production Software](https://www.usenix.org/conference/usenixsecurity23/presentation/yuanyuanyuan).  
 **Yuanyuan Yuan**, Zhibo Liu, and Shuai Wang.  
