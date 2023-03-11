@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Welcome to Yuanyuan' homepage!  
-*<font size="2"><u>Updated on 22 Dec. 2022</u></font>*
+*<font size="2"><u>Updated on 11 Mar. 2023</u></font>*
 
 Yuanyuan Yuan is a third-year Ph.D. student at HKUST, supervised by Prof. [Shuai Wang](https://www.cse.ust.hk/~shuaiw/). Before joining HKUST, he received his B.S. from Fudan University. His research focuses on software security.
 
@@ -33,7 +33,7 @@ In *44th IEEE Symposium on Security and Privacy*, 2023.
 Yanzuo Chen, **Yuanyuan Yuan**$^\dagger$, and Shuai Wang$^\dagger$.  
 In *30th Network and Distributed System Security Symposium*, 2023.  
 $^\dagger$ Corresponding author.  
-[[project]](https://sites.google.com/view/oob-sanitizer/), [[code]](https://github.com/yanzuochen/obsan)
+[[project page]](https://sites.google.com/view/oob-sanitizer/), [[code]](https://github.com/yanzuochen/obsan)
 
 - [**ICSE**] <u>CC: Causality-Aware Coverage Criterion for Deep Neural Networks</u>.  
 Zhenlan Ji, Pingchuan Ma$^\dagger$, **Yuanyuan Yuan**$^\dagger$, and Shuai Wang.  
