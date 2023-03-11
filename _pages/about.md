@@ -25,6 +25,10 @@ I'm currently a visiting student at the [AST lab](https://ast.ethz.ch/), ETH Zur
 
 ## Publications
 
+- [**IEEE S&P**] <u>ADI: Adversarial Dominating Inputs in Vertical Federated Learning Systems.</u>.  
+Qi Pang, **Yuanyuan Yuan**, Shuai Wang, and Wenting Zheng.  
+In *44th IEEE Symposium on Security and Privacy*, 2023.  
+
 - [**NDSS**] <u>OBSan: An Out-Of-Bound Sanitizer to Harden DNN Executables</u>.  
 Yanzuo Chen, **Yuanyuan Yuan**$^\dagger$, and Shuai Wang$^\dagger$.  
 In *30th Network and Distributed System Security Symposium*, 2023.  
@@ -83,7 +87,7 @@ In *31st USENIX Security Symposium*, 2022.
 🌟 **Artifact Evaluation Badges**: Available; Functional; Reproduced.    
 [[extended version]](https://arxiv.org/pdf/2112.04947.pdf), [[code]](https://github.com/Yuanyuan-Yuan/Manifold-SCA) <a href="https://github.com/Yuanyuan-Yuan/Manifold-SCA" target="_blank"><img src="https://img.shields.io/github/stars/Yuanyuan-Yuan/Manifold-SCA.svg?style=social&label=Star&maxAge=180"></a>
 
-- [**S&P**] [SoK: Demystifying Binary Lifters Through the Lens of Downstream Applications](https://www.computer.org/csdl/proceedings-article/sp/2022/131600a453/1wKCev3wlbO).  
+- [**IEEE S&P**] [SoK: Demystifying Binary Lifters Through the Lens of Downstream Applications](https://www.computer.org/csdl/proceedings-article/sp/2022/131600a453/1wKCev3wlbO).  
 Zhibo Liu, **Yuanyuan Yuan**, Shuai Wang, and Yuyan Bao.  
 In *43rd IEEE Symposium on Security and Privacy*, 2022.  
 [[code]](https://github.com/monkbai/ir_lifting_data)
