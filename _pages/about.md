@@ -25,7 +25,7 @@ I'm currently a visiting student at the [AST lab](https://ast.ethz.ch/), ETH Zur
 
 ## Publications
 
-- [**IEEE S&P**] <u>ADI: Adversarial Dominating Inputs in Vertical Federated Learning Systems.</u>.  
+- [**IEEE S&P**] <u>ADI: Adversarial Dominating Inputs in Vertical Federated Learning Systems</u>.  
 Qi Pang, **Yuanyuan Yuan**, Shuai Wang, and Wenting Zheng.  
 In *44th IEEE Symposium on Security and Privacy*, 2023.  
 
