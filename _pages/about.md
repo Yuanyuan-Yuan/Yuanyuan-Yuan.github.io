@@ -29,10 +29,11 @@ I'm currently a visiting student at the [AST lab](https://ast.ethz.ch/), ETH Zur
 Qi Pang, **Yuanyuan Yuan**, Shuai Wang, and Wenting Zheng.  
 In *44th IEEE Symposium on Security and Privacy*, 2023.  
 
-- [**NDSS**] <u>OBSan: An Out-Of-Bound Sanitizer to Harden DNN Executables</u>.  
+- [**NDSS**] [OBSan: An Out-Of-Bound Sanitizer to Harden DNN Executables](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f103_paper.pdf).  
 Yanzuo Chen, **Yuanyuan Yuan**$^\dagger$, and Shuai Wang$^\dagger$.  
 In *30th Network and Distributed System Security Symposium*, 2023.  
-$^\dagger$ Corresponding author.
+$^\dagger$ Corresponding author.  
+[[project]](https://sites.google.com/view/oob-sanitizer/), [[code]](https://github.com/yanzuochen/obsan)
 
 - [**ICSE**] <u>CC: Causality-Aware Coverage Criterion for Deep Neural Networks</u>.  
 Zhenlan Ji, Pingchuan Ma$^\dagger$, **Yuanyuan Yuan**$^\dagger$, and Shuai Wang.  
