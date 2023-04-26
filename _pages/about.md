@@ -28,6 +28,7 @@ I'm currently a visiting student at the [AST lab](https://ast.ethz.ch/), ETH Zur
 - [**IEEE S&P**] <u>ADI: Adversarial Dominating Inputs in Vertical Federated Learning Systems</u>.  
 Qi Pang, **Yuanyuan Yuan**, Shuai Wang, and Wenting Zheng.  
 In *44th IEEE Symposium on Security and Privacy*, 2023.  
+[[preprint]](https://arxiv.org/pdf/2201.02775.pdf)
 
 - [**NDSS**] [OBSan: An Out-Of-Bound Sanitizer to Harden DNN Executables](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f103_paper.pdf).  
 Yanzuo Chen, **Yuanyuan Yuan**$^\dagger$, and Shuai Wang$^\dagger$.  
