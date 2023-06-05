@@ -25,6 +25,10 @@ I'm currently a visiting student at the [AST lab](https://ast.ethz.ch/), ETH Zur
 
 ## Publications
 
+- [**Black Hat USA**] <u>BTD: Unleashing the Power of Decompilation for x86 Deep Neural Network Executables</u>.  
+Zhibo Liu, **Yuanyuan Yuan**, Xiaofei Xie, Tianxiang Li, Wenqiang Li, and Shuai Wang.  
+In *26th Black Hat USA*, 2023.
+
 - [**IEEE S&P**] <u>ADI: Adversarial Dominating Inputs in Vertical Federated Learning Systems</u>.  
 Qi Pang, **Yuanyuan Yuan**, Shuai Wang, and Wenting Zheng.  
 In *44th IEEE Symposium on Security and Privacy*, 2023.  
@@ -35,6 +39,21 @@ Yanzuo Chen, **Yuanyuan Yuan**$^\dagger$, and Shuai Wang$^\dagger$.
 In *30th Network and Distributed System Security Symposium*, 2023.  
 $^\dagger$ Corresponding author.  
 [[project page]](https://sites.google.com/view/oob-sanitizer/), [[code]](https://github.com/yanzuochen/obsan)
+
+- [**USENIX Security**] <u>Precise and Generalized Robustness Certification for Neural Networks</u>.  
+**Yuanyuan Yuan**, Shuai Wang, and Zhendong Su.  
+In *32nd USENIX Security Symposium*, 2023.
+
+- [**USENIX Security**] [CacheQL: Quantifying and Localizing Cache Side-Channel Vulnerabilities in Production Software](https://www.usenix.org/conference/usenixsecurity23/presentation/yuanyuanyuan).  
+**Yuanyuan Yuan**, Zhibo Liu, and Shuai Wang.  
+In *32nd USENIX Security Symposium*, 2023.  
+[[extended version]](https://arxiv.org/pdf/2209.14952.pdf), [[findings]](https://sites.google.com/view/cache-ql#h.pgsarsaxsdsv)
+
+- [**USENIX Security**] [Decompiling x86 Deep Neural Network Executables](https://www.usenix.org/conference/usenixsecurity23/presentation/liuzhibo).  
+Zhibo Liu, **Yuanyuan Yuan**, Shuai Wang, Xiaofei Xie, and Lei Ma.  
+In *32nd USENIX Security Symposium*, 2023.  
+🌟 **Artifact Evaluation Badges**: Available; Functional; Reproduced.  
+[[extended version]](https://arxiv.org/pdf/2210.01075.pdf), [[code]](https://github.com/monkbai/DNN-decompiler) <a href="https://github.com/monkbai/DNN-decompiler" target="_blank"><img src="https://img.shields.io/github/stars/monkbai/DNN-decompiler.svg?style=social&label=Star&maxAge=180"></a>
 
 - [**ICSE**] <u>CC: Causality-Aware Coverage Criterion for Deep Neural Networks</u>.  
 Zhenlan Ji, Pingchuan Ma$^\dagger$, **Yuanyuan Yuan**$^\dagger$, and Shuai Wang.  
@@ -47,17 +66,6 @@ $^\dagger$ Corresponding author.
 **Yuanyuan Yuan**, Qi Pang, and Shuai Wang.  
 In *45th IEEE/ACM International Conference on Software Engineering*, 2023.  
 [[preprint]](https://arxiv.org/abs/2112.01955), [[code]](https://github.com/Yuanyuan-Yuan/NeuraL-Coverage) <a href="https://github.com/Yuanyuan-Yuan/NeuraL-Coverage" target="_blank"><img src="https://img.shields.io/github/stars/Yuanyuan-Yuan/NeuraL-Coverage.svg?style=social&label=Star&maxAge=180"></a>
-
-- [**USENIX Security**] [CacheQL: Quantifying and Localizing Cache Side-Channel Vulnerabilities in Production Software](https://www.usenix.org/conference/usenixsecurity23/presentation/yuanyuanyuan).  
-**Yuanyuan Yuan**, Zhibo Liu, and Shuai Wang.  
-In *32nd USENIX Security Symposium*, 2023.  
-[[extended version]](https://arxiv.org/pdf/2209.14952.pdf), [[findings]](https://sites.google.com/view/cache-ql#h.pgsarsaxsdsv)
-
-- [**USENIX Security**] [Decompiling x86 Deep Neural Network Executables](https://www.usenix.org/conference/usenixsecurity23/presentation/liuzhibo).  
-Zhibo Liu, **Yuanyuan Yuan**, Shuai Wang, Xiaofei Xie, and Lei Ma.  
-In *32nd USENIX Security Symposium*, 2023.  
-🌟 **Artifact Evaluation Badges**: Available; Functional; Reproduced.  
-[[extended version]](https://arxiv.org/pdf/2210.01075.pdf), [[code]](https://github.com/monkbai/DNN-decompiler) <a href="https://github.com/monkbai/DNN-decompiler" target="_blank"><img src="https://img.shields.io/github/stars/monkbai/DNN-decompiler.svg?style=social&label=Star&maxAge=180"></a>
 
 - [**ASE**] [Unveiling Hidden DNN Defects with Decision-Based Metamorphic Testing](https://dl.acm.org/doi/abs/10.1145/3551349.3561157).  
 **Yuanyuan Yuan**, Qi Pang, and Shuai Wang.  
