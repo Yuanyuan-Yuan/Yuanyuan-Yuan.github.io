@@ -48,7 +48,7 @@ In *32nd USENIX Security Symposium*, 2023.
 - [**USENIX Security**] [CacheQL: Quantifying and Localizing Cache Side-Channel Vulnerabilities in Production Software](https://www.usenix.org/conference/usenixsecurity23/presentation/yuanyuanyuan).  
 **Yuanyuan Yuan**, Zhibo Liu, and Shuai Wang.  
 In *32nd USENIX Security Symposium*, 2023.  
-[[extended version]](https://arxiv.org/pdf/2209.14952.pdf), [[code]](https://github.com/Yuanyuan-Yuan/CacheQL), [[findings]](https://sites.google.com/view/cache-ql#h.pgsarsaxsdsv)
+[[extended version]](https://arxiv.org/pdf/2209.14952.pdf), [[findings]](https://sites.google.com/view/cache-ql#h.pgsarsaxsdsv), [[code]](https://github.com/Yuanyuan-Yuan/CacheQL)
 
 - [**USENIX Security**] [Decompiling x86 Deep Neural Network Executables](https://www.usenix.org/conference/usenixsecurity23/presentation/liuzhibo).  
 Zhibo Liu, **Yuanyuan Yuan**, Shuai Wang, Xiaofei Xie, and Lei Ma.  
