@@ -29,10 +29,10 @@ I'm currently a visiting student at the [AST lab](https://ast.ethz.ch/), ETH Zur
 Zhibo Liu, **Yuanyuan Yuan**, Xiaofei Xie, Tianxiang Li, Wenqiang Li, and Shuai Wang.  
 In *26th Black Hat USA*, 2023.
 
-- [**IEEE S&P**] <u>ADI: Adversarial Dominating Inputs in Vertical Federated Learning Systems</u>.  
+- [**IEEE S&P**] [ADI: Adversarial Dominating Inputs in Vertical Federated Learning Systems](https://www.computer.org/csdl/proceedings-article/sp/2023/933600b875/1NrbZgBwxa0).  
 Qi Pang, **Yuanyuan Yuan**, Shuai Wang, and Wenting Zheng.  
 In *44th IEEE Symposium on Security and Privacy*, 2023.  
-[[preprint]](https://arxiv.org/pdf/2201.02775.pdf)
+[[extended version]](https://arxiv.org/pdf/2201.02775.pdf)
 
 - [**NDSS**] [OBSan: An Out-Of-Bound Sanitizer to Harden DNN Executables](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f103_paper.pdf).  
 Yanzuo Chen, **Yuanyuan Yuan**$^\dagger$, and Shuai Wang$^\dagger$.  
