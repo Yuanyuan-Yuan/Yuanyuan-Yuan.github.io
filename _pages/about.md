@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Welcome to Yuanyuan' homepage!  
-*<font size="2"><u>Updated on 5 June 2023</u></font>*
+*<font size="2"><u>Updated on 21 June 2023</u></font>*
 
 Yuanyuan Yuan is a third-year Ph.D. student at HKUST, supervised by Prof. [Shuai Wang](https://www.cse.ust.hk/~shuaiw/). Before joining HKUST, he received his B.S. from Fudan University. His research focuses on software security.
 
@@ -42,12 +42,13 @@ $^\dagger$ Corresponding author.
 
 - [**USENIX Security**] <u>Precise and Generalized Robustness Certification for Neural Networks</u>.  
 **Yuanyuan Yuan**, Shuai Wang, and Zhendong Su.  
-In *32nd USENIX Security Symposium*, 2023.
+In *32nd USENIX Security Symposium*, 2023.  
+[[preprint]](https://arxiv.org/pdf/2306.06747.pdf), [[code]](https://github.com/Yuanyuan-Yuan/GCert)
 
 - [**USENIX Security**] [CacheQL: Quantifying and Localizing Cache Side-Channel Vulnerabilities in Production Software](https://www.usenix.org/conference/usenixsecurity23/presentation/yuanyuanyuan).  
 **Yuanyuan Yuan**, Zhibo Liu, and Shuai Wang.  
 In *32nd USENIX Security Symposium*, 2023.  
-[[extended version]](https://arxiv.org/pdf/2209.14952.pdf), [[findings]](https://sites.google.com/view/cache-ql#h.pgsarsaxsdsv)
+[[extended version]](https://arxiv.org/pdf/2209.14952.pdf), [[code]](https://github.com/Yuanyuan-Yuan/CacheQL), [[findings]](https://sites.google.com/view/cache-ql#h.pgsarsaxsdsv)
 
 - [**USENIX Security**] [Decompiling x86 Deep Neural Network Executables](https://www.usenix.org/conference/usenixsecurity23/presentation/liuzhibo).  
 Zhibo Liu, **Yuanyuan Yuan**, Shuai Wang, Xiaofei Xie, and Lei Ma.  
