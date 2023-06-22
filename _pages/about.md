@@ -25,6 +25,10 @@ I'm currently a visiting student at the [AST lab](https://ast.ethz.ch/), ETH Zur
 
 ## Publications
 
+- [**NDSS**] <u>MPCDiff: Testing and Repairing MPC-Hardened Deep Learning Models</u>.  
+Qi Pang, **Yuanyuan Yuan**, and Shuai Wang.  
+In *31st Network and Distributed System Security Symposium*, 2024.
+
 - [**Black Hat USA**] <u>BTD: Unleashing the Power of Decompilation for x86 Deep Neural Network Executables</u>.  
 Zhibo Liu, **Yuanyuan Yuan**, Xiaofei Xie, Tianxiang Li, Wenqiang Li, and Shuai Wang.  
 In *26th Black Hat USA*, 2023.
