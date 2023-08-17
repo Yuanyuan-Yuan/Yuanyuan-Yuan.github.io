@@ -60,17 +60,16 @@ In *32nd USENIX Security Symposium*, 2023.
 🌟 **Artifact Evaluation Badges**: Available; Functional; Reproduced.  
 [[extended version]](https://arxiv.org/pdf/2210.01075.pdf), [[code]](https://github.com/monkbai/DNN-decompiler) <a href="https://github.com/monkbai/DNN-decompiler" target="_blank"><img src="https://img.shields.io/github/stars/monkbai/DNN-decompiler.svg?style=social&label=Star&maxAge=180"></a>
 
-- [**ICSE**] <u>CC: Causality-Aware Coverage Criterion for Deep Neural Networks</u>.  
+- [**ICSE**] [CC: Causality-Aware Coverage Criterion for Deep Neural Networks](https://dl.acm.org/doi/pdf/10.1109/ICSE48619.2023.00153).  
 Zhenlan Ji, Pingchuan Ma$^\dagger$, **Yuanyuan Yuan**$^\dagger$, and Shuai Wang.  
 In *45th IEEE/ACM International Conference on Software Engineering*, 2023.  
 $^\dagger$ Corresponding author.  
 [[code]](https://github.com/ZhenlanJi/DL_CC)
 
-- [**ICSE**] <u>Revisiting Neuron Coverage for DNN Testing: A Layer-Wise and
-  Distribution-Aware Criterion</u>.  
+- [**ICSE**] [Revisiting Neuron Coverage for DNN Testing: A Layer-Wise and Distribution-Aware Criterion](https://dl.acm.org/doi/pdf/10.1109/ICSE48619.2023.00107).  
 **Yuanyuan Yuan**, Qi Pang, and Shuai Wang.  
 In *45th IEEE/ACM International Conference on Software Engineering*, 2023.  
-[[preprint]](https://arxiv.org/abs/2112.01955), [[code]](https://github.com/Yuanyuan-Yuan/NeuraL-Coverage) <a href="https://github.com/Yuanyuan-Yuan/NeuraL-Coverage" target="_blank"><img src="https://img.shields.io/github/stars/Yuanyuan-Yuan/NeuraL-Coverage.svg?style=social&label=Star&maxAge=180"></a>
+[[extended version]](https://arxiv.org/abs/2112.01955), [[code]](https://github.com/Yuanyuan-Yuan/NeuraL-Coverage) <a href="https://github.com/Yuanyuan-Yuan/NeuraL-Coverage" target="_blank"><img src="https://img.shields.io/github/stars/Yuanyuan-Yuan/NeuraL-Coverage.svg?style=social&label=Star&maxAge=180"></a>
 
 - [**ASE**] [Unveiling Hidden DNN Defects with Decision-Based Metamorphic Testing](https://dl.acm.org/doi/abs/10.1145/3551349.3561157).  
 **Yuanyuan Yuan**, Qi Pang, and Shuai Wang.  
