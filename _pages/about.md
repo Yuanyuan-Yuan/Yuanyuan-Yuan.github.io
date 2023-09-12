@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Welcome to Yuanyuan' homepage!  
-*<font size="2"><u>Updated on 12 Sep. 2023</u></font>*
+<!-- *<font size="2"><u>Updated on 12 Sep. 2023</u></font>* -->
 
 I'm currently a final year Ph.D. student at CSE department, HKUST. I'm very fortunate and honored to work under the supervision of Prof. [Shuai Wang](https://www.cse.ust.hk/~shuaiw/). During my Ph.D. study, I also spent a wonderful year at ETH Zurich, supervised by Prof. [Zhendong Su](https://people.inf.ethz.ch/suz/). Before joining HKUST, I received my B.S. from Fudan University. 
 
@@ -143,3 +143,5 @@ In *International Conference on Learning Representations*, 2021.
   <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=58fqm6u2ofs&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33&amp;s=200" async="async"></script>
   <!-- <div style="display:inline-block;width:300px;"><script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=58fqm6u2ofs&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;br=5&amp;sx=0" async="async"></script></div> -->
 </p>
+
+*<font size="2"><u>Updated on 12 Sep. 2023</u></font>*
