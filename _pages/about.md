@@ -9,18 +9,20 @@ redirect_from:
 ---
 
 Welcome to Yuanyuan' homepage!  
-*<font size="2"><u>Updated on 22 June 2023</u></font>*
+*<font size="2"><u>Updated on 12 Sep. 2023</u></font>*
 
-Yuanyuan Yuan is a third-year Ph.D. student at HKUST, supervised by Prof. [Shuai Wang](https://www.cse.ust.hk/~shuaiw/). Before joining HKUST, he received his B.S. from Fudan University. His research focuses on software security.
+I'm currently a final year Ph.D. student at CSE department, HKUST. I'm very fortunate and honored to work under the supervision of Prof. [Shuai Wang](https://www.cse.ust.hk/~shuaiw/). During my Ph.D. study, I also spent a wonderful year at ETH Zurich, supervised by Prof. [Zhendong Su](https://people.inf.ethz.ch/suz/). Before joining HKUST, I received my B.S. from Fudan University. 
+
+My research aims to comprehensively harden and secure modern AI systems. I pursue this goal from the algorithm (e.g., new attacks), software (e.g., testing, verification), and hardware (e.g., side channel, low-level executable) perspectives.
 
 E-mail: yyuanaq [at] cse.ust.hk
 
-I'm currently a visiting student at the [AST lab](https://ast.ethz.ch/), ETH Zurich, under the supervision of Prof. [Zhendong Su](https://people.inf.ethz.ch/suz/).
+<!-- I'm currently a visiting student at the [AST lab](https://ast.ethz.ch/), ETH Zurich, under the supervision of Prof. [Zhendong Su](https://people.inf.ethz.ch/suz/). -->
 
 ## Education & Experience
 
-- **Visiting Researcher**. AST Lab, ETH Zurich. *Sep. 2022 - present*.
 - **Ph.D. in Computer Science and Engineering**. The Hong Kong University of Science and Technology. *Sep. 2020 - present*.
+- **Visiting Researcher**. [AST lab](https://ast.ethz.ch/), ETH Zurich. *Sep. 2022 - Sep. 2023*.
 - **B.S. in Computer Science**. Fudan University. *Sep. 2016 - July 2020*.
 
 ## Publications
