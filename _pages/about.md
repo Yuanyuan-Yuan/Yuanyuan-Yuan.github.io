@@ -25,11 +25,15 @@ E-mail: yyuanaq [at] cse.ust.hk
 - **Visiting Researcher**. [AST lab](https://ast.ethz.ch/), ETH Zurich. *Sep. 2022 - Sep. 2023*.
 - **B.S. in Computer Science**. Fudan University. *Sep. 2016 - July 2020*.
 
-## Publications
+## Selected Publications
 
 - [**NDSS**] <u>MPCDiff: Testing and Repairing MPC-Hardened Deep Learning Models</u>.  
 Qi Pang, **Yuanyuan Yuan**, and Shuai Wang.  
 In *31st Network and Distributed System Security Symposium*, 2024.
+
+- [**NeurIPS**] <u>Explain Any Concept: Segment Anything Meets Concept-Based Explanation</u>.  
+Ao Sun, Pingchuan Ma, **Yuanyuan Yuan**, and Shuai Wang.  
+In *37th Conference on Neural Information Processing Systems*, 2023.
 
 - [**Black Hat USA**] [BTD: Unleashing the Power of Decompilation for x86 Deep Neural Network Executables](https://www.blackhat.com/us-23/briefings/schedule/index.html#btd-unleashing-the-power-of-decompilation-for-x-deep-neural-network-executables-33028).  
 Zhibo Liu, **Yuanyuan Yuan**, Xiaofei Xie, Tianxiang Li, Wenqiang Li, and Shuai Wang.  
@@ -144,4 +148,4 @@ In *International Conference on Learning Representations*, 2021.
   <!-- <div style="display:inline-block;width:300px;"><script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=58fqm6u2ofs&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;br=5&amp;sx=0" async="async"></script></div> -->
 </p>
 
-*<font size="2"><u>Updated on 12 Sep. 2023</u></font>*
+*<font size="2"><u>Updated on 22 Sep. 2023</u></font>*
