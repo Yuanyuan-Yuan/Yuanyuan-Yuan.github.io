@@ -33,7 +33,8 @@ In *31st Network and Distributed System Security Symposium*, 2024.
 
 - [**NeurIPS**] <u>Explain Any Concept: Segment Anything Meets Concept-Based Explanation</u>.  
 Ao Sun, Pingchuan Ma, **Yuanyuan Yuan**, and Shuai Wang.  
-In *37th Conference on Neural Information Processing Systems*, 2023.
+In *37th Conference on Neural Information Processing Systems*, 2023.  
+[[preprint]](https://arxiv.org/pdf/2305.10289.pdf)
 
 - [**Black Hat USA**] [BTD: Unleashing the Power of Decompilation for x86 Deep Neural Network Executables](https://www.blackhat.com/us-23/briefings/schedule/index.html#btd-unleashing-the-power-of-decompilation-for-x-deep-neural-network-executables-33028).  
 Zhibo Liu, **Yuanyuan Yuan**, Xiaofei Xie, Tianxiang Li, Wenqiang Li, and Shuai Wang.  
