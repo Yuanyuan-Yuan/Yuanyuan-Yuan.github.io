@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to Yuanyuan' homepage!  
+Welcome to Yuanyuan's homepage!  
 <!-- *<font size="2"><u>Updated on 12 Sep. 2023</u></font>* -->
 
 I'm currently a final year Ph.D. student at CSE department, HKUST. I'm very fortunate and honored to work under the supervision of Prof. [Shuai Wang](https://www.cse.ust.hk/~shuaiw/). During my Ph.D. study, I also spent a wonderful year at ETH Zurich, supervised by Prof. [Zhendong Su](https://people.inf.ethz.ch/suz/). Before joining HKUST, I received my B.S. from Fudan University. 
