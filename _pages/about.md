@@ -29,7 +29,8 @@ E-mail: yyuanaq [at] cse.ust.hk
 
 - [**NDSS**] <u>MPCDiff: Testing and Repairing MPC-Hardened Deep Learning Models</u>.  
 Qi Pang, **Yuanyuan Yuan**, and Shuai Wang.  
-In *31st Network and Distributed System Security Symposium*, 2024.
+In *31st Network and Distributed System Security Symposium*, 2024.  
+[[code]](https://github.com/Qi-Pang/MPCDiff)
 
 - [**NeurIPS**] <u>Explain Any Concept: Segment Anything Meets Concept-Based Explanation</u>.  
 Ao Sun, Pingchuan Ma, **Yuanyuan Yuan**, and Shuai Wang.  
