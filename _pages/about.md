@@ -27,15 +27,20 @@ E-mail: yyuanaq [at] cse.ust.hk
 
 ## Selected Publications
 
-- [**NDSS**] <u>MPCDiff: Testing and Repairing MPC-Hardened Deep Learning Models</u>.  
+- [**TSE**] <u>Provably Valid and Diverse Mutations of Real-World Media Data for DNN Testing</u>.  
+**Yuanyuan Yuan**, Qi Pang, and Shuai Wang.  
+In *IEEE Transactions on Software Engineering*, 2024.  
+[[preprint]](https://arxiv.org/abs/2112.01956)
+
+- [**NDSS**] [MPCDiff: Testing and Repairing MPC-Hardened Deep Learning Models](https://www.ndss-symposium.org/ndss-paper/mpcdiff-testing-and-repairing-mpc-hardened-deep-learning-models/).  
 Qi Pang, **Yuanyuan Yuan**, and Shuai Wang.  
 In *31st Network and Distributed System Security Symposium*, 2024.  
 [[code]](https://github.com/Qi-Pang/MPCDiff)
 
-- [**NeurIPS**] <u>Explain Any Concept: Segment Anything Meets Concept-Based Explanation</u>.  
+- [**NeurIPS**] [Explain Any Concept: Segment Anything Meets Concept-Based Explanation](https://openreview.net/pdf?id=X6TBBsz9qi).  
 Ao Sun, Pingchuan Ma, **Yuanyuan Yuan**, and Shuai Wang.  
 In *37th Conference on Neural Information Processing Systems*, 2023.  
-[[preprint]](https://arxiv.org/pdf/2305.10289.pdf)
+[[code]](https://github.com/Jerry00917/samshap)
 
 - [**Black Hat USA**] [BTD: Unleashing the Power of Decompilation for x86 Deep Neural Network Executables](https://www.blackhat.com/us-23/briefings/schedule/index.html#btd-unleashing-the-power-of-decompilation-for-x-deep-neural-network-executables-33028).  
 Zhibo Liu, **Yuanyuan Yuan**, Xiaofei Xie, Tianxiang Li, Wenqiang Li, and Shuai Wang.  
@@ -150,4 +155,4 @@ In *International Conference on Learning Representations*, 2021.
   <!-- <div style="display:inline-block;width:300px;"><script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=58fqm6u2ofs&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;br=5&amp;sx=0" async="async"></script></div> -->
 </p>
 
-*<font size="2"><u>Updated on 22 Sep. 2023</u></font>*
+*<font size="2"><u>Updated on 25 Feb. 2024</u></font>*
