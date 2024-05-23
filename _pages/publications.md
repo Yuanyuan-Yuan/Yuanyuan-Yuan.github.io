@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Publications
-
 - [**TSE**] [Provably Valid and Diverse Mutations of Real-World Media Data for DNN Testing](https://ieeexplore.ieee.org/document/10462634).  
 **Yuanyuan Yuan**, Qi Pang, and Shuai Wang.  
 In *IEEE Transactions on Software Engineering*, 2024.  
