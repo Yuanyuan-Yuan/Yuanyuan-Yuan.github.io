@@ -17,6 +17,8 @@ Qi Pang, **Yuanyuan Yuan**, and Shuai Wang.
 In *31st Network and Distributed System Security Symposium*, 2024.  
 [[code]](https://github.com/Qi-Pang/MPCDiff)
 
+### 2023
+
 - [**NeurIPS**] [Explain Any Concept: Segment Anything Meets Concept-Based Explanation](https://openreview.net/pdf?id=X6TBBsz9qi).  
 Ao Sun, Pingchuan Ma, **Yuanyuan Yuan**, and Shuai Wang.  
 In *37th Conference on Neural Information Processing Systems*, 2023.  
@@ -64,6 +66,8 @@ $^\dagger$ Corresponding author.
 In *45th IEEE/ACM International Conference on Software Engineering*, 2023.  
 [[extended version]](https://arxiv.org/abs/2112.01955), [[code]](https://github.com/Yuanyuan-Yuan/NeuraL-Coverage) <a href="https://github.com/Yuanyuan-Yuan/NeuraL-Coverage" target="_blank"><img src="https://img.shields.io/github/stars/Yuanyuan-Yuan/NeuraL-Coverage.svg?style=social&label=Star&maxAge=180"></a>
 
+### 2022
+
 - [**ASE**] [Unveiling Hidden DNN Defects with Decision-Based Metamorphic Testing](https://dl.acm.org/doi/abs/10.1145/3551349.3561157).  
 **Yuanyuan Yuan**, Qi Pang, and Shuai Wang.  
 In *37th IEEE/ACM International Conference on Automated Software Engineering*, 2022.  
@@ -99,6 +103,8 @@ In *31st USENIX Security Symposium*, 2022.
 Zhibo Liu, **Yuanyuan Yuan**, Shuai Wang, and Yuyan Bao.  
 In *43rd IEEE Symposium on Security and Privacy*, 2022.  
 [[code]](https://github.com/monkbai/ir_lifting_data)
+
+### 2021
 
 - [**CVPR**] [Perception Matters: Detecting Perception Failures of VQA Models Using Metamorphic Testing](https://openaccess.thecvf.com/content/CVPR2021/html/Yuan_Perception_Matters_Detecting_Perception_Failures_of_VQA_Models_Using_Metamorphic_CVPR_2021_paper.html).  
 **Yuanyuan Yuan**, Shuai Wang, Mingyue Jiang, and Tsong Yueh Chen.  
