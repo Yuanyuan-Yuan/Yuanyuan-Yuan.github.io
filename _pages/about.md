@@ -17,8 +17,6 @@ My research aims to comprehensively harden and secure modern AI systems. I pursu
 
 E-mail: yyuanaq [at] cse.ust.hk
 
-My name is 袁渊源 in Chinese.
-
 <!-- I'm currently a visiting student at the [AST lab](https://ast.ethz.ch/), ETH Zurich, under the supervision of Prof. [Zhendong Su](https://people.inf.ethz.ch/suz/). -->
 
 ## Education & Experience
