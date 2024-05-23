@@ -11,13 +11,13 @@ redirect_from:
 <!-- Welcome to Yuanyuan's homepage!   -->
 <!-- *<font size="2"><u>Updated on 12 Sep. 2023</u></font>* -->
 
-## Yuanyuan Yuan (袁渊源)
-
 I'm currently a final year Ph.D. candidate at CSE department, HKUST. I'm very fortunate and honored to work under the supervision of Prof. [Shuai Wang](https://www.cse.ust.hk/~shuaiw/). During my Ph.D. journey, I also spent a wonderful year at ETH Zurich, supervised by Prof. [Zhendong Su](https://people.inf.ethz.ch/suz/). Before joining HKUST, I received my B.S. from Fudan University. 
 
 My research aims to comprehensively harden and secure modern AI systems. I pursue this goal primarily from the software and hardware perspectives.
 
 E-mail: yyuanaq [at] cse.ust.hk
+
+My name is 袁渊源 in Chinese.
 
 <!-- I'm currently a visiting student at the [AST lab](https://ast.ethz.ch/), ETH Zurich, under the supervision of Prof. [Zhendong Su](https://people.inf.ethz.ch/suz/). -->
 
