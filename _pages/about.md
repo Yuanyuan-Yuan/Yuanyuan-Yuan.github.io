@@ -25,7 +25,7 @@ E-mail: yyuanaq [at] cse.ust.hk
 - **Visiting Researcher**. [AST lab](https://ast.ethz.ch/), ETH Zurich. *Sep. 2022 - Sep. 2023*.
 - **B.S. in Computer Science**. Fudan University. *Sep. 2016 - July 2020*.
 
-## Selected Publications
+## Featured Publications
 
 - [**TSE**] [Provably Valid and Diverse Mutations of Real-World Media Data for DNN Testing](https://ieeexplore.ieee.org/document/10462634).  
 **Yuanyuan Yuan**, Qi Pang, and Shuai Wang.  
@@ -36,11 +36,6 @@ In *IEEE Transactions on Software Engineering*, 2024.
 Qi Pang, **Yuanyuan Yuan**, and Shuai Wang.  
 In *31st Network and Distributed System Security Symposium*, 2024.  
 [[code]](https://github.com/Qi-Pang/MPCDiff)
-
-- [**NeurIPS**] [Explain Any Concept: Segment Anything Meets Concept-Based Explanation](https://openreview.net/pdf?id=X6TBBsz9qi).  
-Ao Sun, Pingchuan Ma, **Yuanyuan Yuan**, and Shuai Wang.  
-In *37th Conference on Neural Information Processing Systems*, 2023.  
-[[code]](https://github.com/Jerry00917/samshap)
 
 - [**Black Hat USA**] [BTD: Unleashing the Power of Decompilation for x86 Deep Neural Network Executables](https://www.blackhat.com/us-23/briefings/schedule/index.html#btd-unleashing-the-power-of-decompilation-for-x-deep-neural-network-executables-33028).  
 Zhibo Liu, **Yuanyuan Yuan**, Xiaofei Xie, Tianxiang Li, Wenqiang Li, and Shuai Wang.  
@@ -93,21 +88,6 @@ In *37th IEEE/ACM International Conference on Automated Software Engineering*, 2
 Qi Pang, **Yuanyuan Yuan**, and Shuai Wang.  
 In *31st International Symposium on Software Testing and Analysis*, 2022.  
 [[code]](https://github.com/Qi-Pang/MDPFuzz)
-
-- [**TIFS**] [NeuralD: Detecting Indistinguishability Violations of Oblivious RAM with Neural Distinguishers](https://ieeexplore.ieee.org/document/9722877).  
-Pingchuan Ma, Zhibo Liu, **Yuanyuan Yuan**, and Shuai Wang.  
-In *IEEE Transactions on Information Forensics and Security*, 2022.  
-[[code]](https://github.com/pckennethma/NeuralD)
-
-- [**TSE**] [Enhancing DNN-Based Binary Code Function Search With Low-Cost Equivalence Checking](https://ieeexplore.ieee.org/document/9707874).  
-Huaijin Wang, Pingchuan Ma, **Yuanyuan Yuan**, Zhibo Liu, Shuai Wang, Qiyi Tang, Sen Nie, and Shi Wu.  
-In *IEEE Transactions on Software Engineering*, 2022.  
-[[code]](https://github.com/computer-analysis/BinUSE)
-
-- [**SIGMETRICS**] [Metamorphic Testing of Deep Learning Compilers](https://dl.acm.org/doi/abs/10.1145/3508035).  
-Dongwei Xiao, Zhibo Liu, **Yuanyuan Yuan**, Qi Pang, and Shuai Wang.  
-In *ACM Sigmetrics/Performance*, 2022.  
-[[code]](https://github.com/Wilbur-Django/Testing-DNN-Compilers)
 
 - [**USENIX Security**] [Automated Side Channel Analysis of Media Software with Manifold Learning](https://www.usenix.org/conference/usenixsecurity22/presentation/yuan).  
 **Yuanyuan Yuan**, Qi Pang, and Shuai Wang.  
