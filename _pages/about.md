@@ -27,7 +27,7 @@ E-mail: yyuanaq [at] cse.ust.hk
 
 ## Featured Publications
 
-*<font size="2">See full list [here](https://yuanyuan-yuan.github.io/publications/)</font>*
+*<font size="2">See full list <a href="https://yuanyuan-yuan.github.io/publications/">here</a></font>*
 
 - [**TSE**] [Provably Valid and Diverse Mutations of Real-World Media Data for DNN Testing](https://ieeexplore.ieee.org/document/10462634).  
 **Yuanyuan Yuan**, Qi Pang, and Shuai Wang.  
