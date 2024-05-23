@@ -13,7 +13,7 @@ Welcome to Yuanyuan's homepage!
 
 I'm currently a final year Ph.D. candidate at CSE department, HKUST. I'm very fortunate and honored to work under the supervision of Prof. [Shuai Wang](https://www.cse.ust.hk/~shuaiw/). During my Ph.D. journey, I also spent a wonderful year at ETH Zurich, supervised by Prof. [Zhendong Su](https://people.inf.ethz.ch/suz/). Before joining HKUST, I received my B.S. from Fudan University. 
 
-My research aims to comprehensively harden and secure modern AI systems. I pursue this goal from the algorithm (e.g., new attacks), software (e.g., testing, verification), and hardware (e.g., side channel, low-level executable) perspectives.
+My research aims to comprehensively harden and secure modern AI systems. I pursue this goal primarily from the software and hardware perspectives.
 
 E-mail: yyuanaq [at] cse.ust.hk
 
@@ -25,9 +25,9 @@ E-mail: yyuanaq [at] cse.ust.hk
 - **Visiting Researcher**. [AST lab](https://ast.ethz.ch/), ETH Zurich. *Sep. 2022 - Sep. 2023*.
 - **B.S. in Computer Science**. Fudan University. *Sep. 2016 - July 2020*.
 
-## Featured Publications
+## Featured Publications ([full list](https://yuanyuan-yuan.github.io/publications/))
 
-*<font size="2">See full list <a href="https://yuanyuan-yuan.github.io/publications/">here</a></font>*
+<!-- *<font size="2">See full list <a href="https://yuanyuan-yuan.github.io/publications/">here</a></font>* -->
 
 - [**TSE**] [Provably Valid and Diverse Mutations of Real-World Media Data for DNN Testing](https://ieeexplore.ieee.org/document/10462634).  
 **Yuanyuan Yuan**, Qi Pang, and Shuai Wang.  
