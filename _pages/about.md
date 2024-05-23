@@ -27,7 +27,7 @@ E-mail: yyuanaq [at] cse.ust.hk
 
 ## Selected Publications
 
-- [**TSE**] <u>Provably Valid and Diverse Mutations of Real-World Media Data for DNN Testing</u>.  
+- [**TSE**] [Provably Valid and Diverse Mutations of Real-World Media Data for DNN Testing](https://ieeexplore.ieee.org/document/10462634).  
 **Yuanyuan Yuan**, Qi Pang, and Shuai Wang.  
 In *IEEE Transactions on Software Engineering*, 2024.  
 [[preprint]](https://arxiv.org/abs/2112.01956)
@@ -57,10 +57,10 @@ In *30th Network and Distributed System Security Symposium*, 2023.
 $^\dagger$ Corresponding author.  
 [[project page]](https://sites.google.com/view/oob-sanitizer/), [[code]](https://github.com/yanzuochen/obsan)
 
-- [**USENIX Security**] <u>Precise and Generalized Robustness Certification for Neural Networks</u>.  
+- [**USENIX Security**] [Precise and Generalized Robustness Certification for Neural Networks](https://www.usenix.org/conference/usenixsecurity23/presentation/yuan-yuanyuan-certification).  
 **Yuanyuan Yuan**, Shuai Wang, and Zhendong Su.  
 In *32nd USENIX Security Symposium*, 2023.  
-[[preprint]](https://arxiv.org/pdf/2306.06747.pdf), [[code]](https://github.com/Yuanyuan-Yuan/GCert)
+[[extended version]](https://arxiv.org/pdf/2306.06747.pdf), [[code]](https://github.com/Yuanyuan-Yuan/GCert)
 
 - [**USENIX Security**] [CacheQL: Quantifying and Localizing Cache Side-Channel Vulnerabilities in Production Software](https://www.usenix.org/conference/usenixsecurity23/presentation/yuanyuanyuan).  
 **Yuanyuan Yuan**, Zhibo Liu, and Shuai Wang.  
@@ -139,7 +139,7 @@ In *International Conference on Learning Representations*, 2021.
 
 - **Program Committee**: USENIX Security 2023 (Artifact Evaluation), OSDI 2022 and USENIX ATC 2022 (Artifact Evaluation), ISSTA 2022 (Artifact Evaluation).
 
-- **Reviewer/Sub-/Co-reviewer**: USENIX Security 2023, ISSTA 2023, FSE 2023, ASE 2022, CCS 2022.
+<!-- - **Reviewer/Sub-/Co-reviewer**: USENIX Security 2023, ISSTA 2023, FSE 2023, ASE 2022, CCS 2022. -->
 <!-- POPL 2020 Artifact Evaluation, ICICS 2020, ICICS 2021, AsiaCCS 2021, AsiaCCS 2022, Journal of System and Software.  -->
 
 ## Teaching Experience
