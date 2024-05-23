@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+### 2024
+
 - [**TSE**] [Provably Valid and Diverse Mutations of Real-World Media Data for DNN Testing](https://ieeexplore.ieee.org/document/10462634).  
 **Yuanyuan Yuan**, Qi Pang, and Shuai Wang.  
 In *IEEE Transactions on Software Engineering*, 2024.  
@@ -103,7 +105,7 @@ In *43rd IEEE Symposium on Security and Privacy*, 2022.
 In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition*, 2021.  
 [[code]](https://github.com/MetaVQA/MetaVQA)
 
-1. [**ICLR**] [Private Image Reconstruction from System Side Channels Using Generative Models](https://openreview.net/forum?id=y06VOYLcQXa).  
+- [**ICLR**] [Private Image Reconstruction from System Side Channels Using Generative Models](https://openreview.net/forum?id=y06VOYLcQXa).  
 **Yuanyuan Yuan**, Shuai Wang, and Junping Zhang.  
 In *International Conference on Learning Representations*, 2021.  
 [[code]](https://github.com/genSCA/genSCA)
