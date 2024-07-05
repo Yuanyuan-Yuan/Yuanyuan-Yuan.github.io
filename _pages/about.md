@@ -29,6 +29,14 @@ E-mail: yyuanaq [at] cse.ust.hk
 
 <!-- *<font size="2">See full list <a href="https://yuanyuan-yuan.github.io/publications/">here</a></font>* -->
 
+- [**CCS**] HyperTheft: Thieving Model Weights from TEE-Shielded Neural Networks via Ciphertext Side Channels.  
+**Yuanyuan Yuan**, Zhibo Liu, Sen Deng, Yanzuo Chen, Shuai Wang, Yinqian Zhang, and Zhendong Su.  
+In *31st ACM Conference on Computer and Communications Security*, 2024.  
+
+- [**ISSTA**] See the Forest, not Trees: Unveiling and Escaping the Pitfalls of Error-Triggering Inputs in Neural Network Testing.  
+**Yuanyuan Yuan**, Shuai Wang, and Zhendong Su.  
+In *33rd International Symposium on Software Testing and Analysis*, 2024.  
+
 - [**TSE**] [Provably Valid and Diverse Mutations of Real-World Media Data for DNN Testing](https://ieeexplore.ieee.org/document/10462634).  
 **Yuanyuan Yuan**, Qi Pang, and Shuai Wang.  
 In *IEEE Transactions on Software Engineering*, 2024.  
@@ -82,6 +90,10 @@ Zhenlan Ji, Pingchuan Ma$^\dagger$, **Yuanyuan Yuan**$^\dagger$, and Shuai Wang.
 In *45th IEEE/ACM International Conference on Software Engineering*, 2023.  
 $^\dagger$ Corresponding author.  
 [[code]](https://github.com/ZhenlanJi/DL_CC)
+
+- [**CCS**] DeepCache: Revisiting Cache Side-Channel Attacks in Deep Neural Networks Executables.  
+Zhibo Liu, **Yuanyuan Yuan**, Yanzuo Chen, Sihang Hu, Tianxiang Li, and Shuai Wang.  
+In *31st ACM Conference on Computer and Communications Security*, 2024.  
 
 
 - [**NDSS**] [MPCDiff: Testing and Repairing MPC-Hardened Deep Learning Models](https://www.ndss-symposium.org/ndss-paper/mpcdiff-testing-and-repairing-mpc-hardened-deep-learning-models/).  
