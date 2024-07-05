@@ -7,17 +7,17 @@ author_profile: true
 
 ### 2024
 
-- [**CCS**] HyperTheft: Thieving Model Weights from TEE-Shielded Neural Networks via Ciphertext Side Channels.  
-**Yuanyuan Yuan**, Zhibo Liu, Sen Deng, Yanzuo Chen, Shuai Wang, Yinqian Zhang, and Zhendong Su.  
-In *31st ACM Conference on Computer and Communications Security*, 2024. 
-
-- [**CCS**] DeepCache: Revisiting Cache Side-Channel Attacks in Deep Neural Networks Executables.  
+- [**CCS**] <u>DeepCache: Revisiting Cache Side-Channel Attacks in Deep Neural Networks Executables</u>.  
 Zhibo Liu, **Yuanyuan Yuan**, Yanzuo Chen, Sihang Hu, Tianxiang Li, and Shuai Wang.  
 In *31st ACM Conference on Computer and Communications Security*, 2024.  
 
-- [**ISSTA**] See the Forest, not Trees: Unveiling and Escaping the Pitfalls of Error-Triggering Inputs in Neural Network Testing.  
+- [**CCS**] <u>HyperTheft: Thieving Model Weights from TEE-Shielded Neural Networks via Ciphertext Side Channels</u>.  
+**Yuanyuan Yuan**, Zhibo Liu, Sen Deng, Yanzuo Chen, Shuai Wang, Yinqian Zhang, and Zhendong Su.  
+In *31st ACM Conference on Computer and Communications Security*, 2024.  
+
+- [**ISSTA**] <u>See the Forest, not Trees: Unveiling and Escaping the Pitfalls of Error-Triggering Inputs in Neural Network Testing</u>.  
 **Yuanyuan Yuan**, Shuai Wang, and Zhendong Su.  
-In *33rd International Symposium on Software Testing and Analysis*, 2024. 
+In *33rd International Symposium on Software Testing and Analysis*, 2024.  
 
 - [**TSE**] [Provably Valid and Diverse Mutations of Real-World Media Data for DNN Testing](https://ieeexplore.ieee.org/document/10462634).  
 **Yuanyuan Yuan**, Qi Pang, and Shuai Wang.  
