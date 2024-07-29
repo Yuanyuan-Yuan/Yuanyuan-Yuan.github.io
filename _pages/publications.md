@@ -7,7 +7,7 @@ author_profile: true
 
 <!-- *<font size="2">$^\dagger$ indicates corresponding authors, i.e., works of junior students mentored by me. </font>* -->
 
-*$^\dagger$ indicates corresponding authors, i.e., works of junior students mentored by me.*
+*$^\dagger$ indicates corresponding authors, i.e., works of group members I mentored.*
 
 ### 2025
 
