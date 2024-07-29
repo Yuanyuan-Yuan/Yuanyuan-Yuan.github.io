@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+*<font size="2">$^\dagger$ indicates corresponding authors, i.e., works of junior students mentored by me. </font>*
+
 ### 2025
 
 - [**NDSS**] <u>Compiled Models, Built-In Exploits: Uncovering Pervasive Bit-Flip Attack Surfaces in DNN Executables</u>.  

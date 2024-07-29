@@ -29,6 +29,7 @@ E-mail: yyuanaq [at] cse.ust.hk
 
 <!-- *<font size="2">See full list <a href="https://yuanyuan-yuan.github.io/publications/">here</a></font>* -->
 
+
 - [**CCS**] <u>HyperTheft: Thieving Model Weights from TEE-Shielded Neural Networks via Ciphertext Side Channels</u>.  
 **Yuanyuan Yuan**, Zhibo Liu, Sen Deng, Yanzuo Chen, Shuai Wang, Yinqian Zhang, and Zhendong Su.  
 In *31st ACM Conference on Computer and Communications Security*, 2024. 
