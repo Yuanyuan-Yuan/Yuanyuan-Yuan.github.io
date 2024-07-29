@@ -5,6 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
+### 2025
+
+- [**NDSS**] <u>Compiled Models, Built-In Exploits: Uncovering Pervasive Bit-Flip Attack Surfaces in DNN Executables</u>.  
+Yanzuo Chen, Zhibo Liu, **Yuanyuan Yuan**$^\dagger$, Sihang Hu, Tianxiang Li, and Shuai Wang$^\dagger$.  
+In *32nd Network and Distributed System Security Symposium*, 2025.  
+$^\dagger$ Corresponding author.  
+
 ### 2024
 
 - [**CCS**] <u>DeepCache: Revisiting Cache Side-Channel Attacks in Deep Neural Networks Executables</u>.  

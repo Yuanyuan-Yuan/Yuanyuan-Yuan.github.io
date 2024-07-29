@@ -78,6 +78,10 @@ In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recogn
 In *International Conference on Learning Representations*, 2021.  
 [[code]](https://github.com/genSCA/genSCA)
 
+- [**NDSS**] <u>Compiled Models, Built-In Exploits: Uncovering Pervasive Bit-Flip Attack Surfaces in DNN Executables</u>.  
+Yanzuo Chen, Zhibo Liu, **Yuanyuan Yuan**$^\dagger$, Sihang Hu, Tianxiang Li, and Shuai Wang$^\dagger$.  
+In *32nd Network and Distributed System Security Symposium*, 2025.  
+$^\dagger$ Corresponding author.  
 
 - [**NDSS**] [OBSan: An Out-Of-Bound Sanitizer to Harden DNN Executables](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f103_paper.pdf).  
 Yanzuo Chen, **Yuanyuan Yuan**$^\dagger$, and Shuai Wang$^\dagger$.  
