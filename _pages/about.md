@@ -27,7 +27,7 @@ E-mail: yyuanaq [at] cse.ust.hk
 
 ## Featured Publications ([full list](https://yuanyuan-yuan.github.io/publications/))
 
-<!-- *<font size="2">See full list <a href="https://yuanyuan-yuan.github.io/publications/">here</a></font>* -->
+*$^\dagger$ indicates corresponding authors, i.e., works of group members I mentored.*
 
 
 - [**CCS**] <u>HyperTheft: Thieving Model Weights from TEE-Shielded Neural Networks via Ciphertext Side Channels</u>.  
