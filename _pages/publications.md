@@ -7,9 +7,13 @@ author_profile: true
 
 <!-- *<font size="2">$^\dagger$ indicates corresponding authors, i.e., works of junior students mentored by me. </font>* -->
 
-*$^\dagger$ indicates corresponding authors, i.e., works of group members I mentored.*
+*$^\dagger$ indicates corresponding authors, i.e., works of junior students I mentored.*
 
 ### 2025
+
+- [**IEEE S&P**] <u>CipherSteal: Stealing Input Data from TEE-Shielded Neural Networks with Ciphertext Side Channels</u>.  
+**Yuanyuan Yuan**, Zhibo Liu, Sen Deng, Yanzuo Chen, Shuai Wang, Yinqian Zhang, and Zhendong Su.  
+In *46th IEEE Symposium on Security and Privacy*, 2025.   
 
 - [**NDSS**] <u>Compiled Models, Built-In Exploits: Uncovering Pervasive Bit-Flip Attack Surfaces in DNN Executables</u>.  
 Yanzuo Chen, Zhibo Liu, **Yuanyuan Yuan**$^\dagger$, Sihang Hu, Tianxiang Li, and Shuai Wang$^\dagger$.  

@@ -27,8 +27,11 @@ E-mail: yyuanaq [at] cse.ust.hk
 
 ## Featured Publications ([full list](https://yuanyuan-yuan.github.io/publications/))
 
-*$^\dagger$ indicates corresponding authors, i.e., works of group members I mentored.*
+*$^\dagger$ indicates corresponding authors, i.e., works of junior students I mentored.*
 
+- [**IEEE S&P**] <u>CipherSteal: Stealing Input Data from TEE-Shielded Neural Networks with Ciphertext Side Channels</u>.  
+**Yuanyuan Yuan**, Zhibo Liu, Sen Deng, Yanzuo Chen, Shuai Wang, Yinqian Zhang, and Zhendong Su.  
+In *46th IEEE Symposium on Security and Privacy*, 2025.   
 
 - [**CCS**] <u>HyperTheft: Thieving Model Weights from TEE-Shielded Neural Networks via Ciphertext Side Channels</u>.  
 **Yuanyuan Yuan**, Zhibo Liu, Sen Deng, Yanzuo Chen, Shuai Wang, Yinqian Zhang, and Zhendong Su.  
