@@ -82,6 +82,11 @@ In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recogn
 In *International Conference on Learning Representations*, 2021.  
 [[code]](https://github.com/genSCA/genSCA)
 
+- [**NDSS**] <u>BitShield: Defending Against Bit-Flip Attacks on DNN Executables.</u>.  
+Yanzuo Chen, **Yuanyuan Yuan**$^\dagger$, Zhibo Liu, Sihang Hu, Tianxiang Li, and Shuai Wang$^\dagger$.  
+In *32nd Network and Distributed System Security Symposium*, 2025.  
+$^\dagger$ Corresponding author.  
+
 - [**NDSS**] <u>Compiled Models, Built-In Exploits: Uncovering Pervasive Bit-Flip Attack Surfaces in DNN Executables</u>.  
 Yanzuo Chen, Zhibo Liu, **Yuanyuan Yuan**$^\dagger$, Sihang Hu, Tianxiang Li, and Shuai Wang$^\dagger$.  
 In *32nd Network and Distributed System Security Symposium*, 2025.  

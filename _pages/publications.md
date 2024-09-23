@@ -11,6 +11,11 @@ author_profile: true
 
 ### 2025
 
+- [**NDSS**] <u>BitShield: Defending Against Bit-Flip Attacks on DNN Executables.</u>.  
+Yanzuo Chen, **Yuanyuan Yuan**$^\dagger$, Zhibo Liu, Sihang Hu, Tianxiang Li, and Shuai Wang$^\dagger$.  
+In *32nd Network and Distributed System Security Symposium*, 2025.  
+$^\dagger$ Corresponding author.  
+
 - [**IEEE S&P**] <u>CipherSteal: Stealing Input Data from TEE-Shielded Neural Networks with Ciphertext Side Channels</u>.  
 **Yuanyuan Yuan**, Zhibo Liu, Sen Deng, Yanzuo Chen, Shuai Wang, Yinqian Zhang, and Zhendong Su.  
 In *46th IEEE Symposium on Security and Privacy*, 2025.   
