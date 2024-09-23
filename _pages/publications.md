@@ -14,7 +14,7 @@ author_profile: true
 - [**NDSS**] <u>BitShield: Defending Against Bit-Flip Attacks on DNN Executables.</u>.  
 Yanzuo Chen, **Yuanyuan Yuan**$^\dagger$, Zhibo Liu, Sihang Hu, Tianxiang Li, and Shuai Wang$^\dagger$.  
 In *32nd Network and Distributed System Security Symposium*, 2025.  
-$^\dagger$ Corresponding author.  
+$^\dagger$ Corresponding authors.  
 
 - [**IEEE S&P**] <u>CipherSteal: Stealing Input Data from TEE-Shielded Neural Networks with Ciphertext Side Channels</u>.  
 **Yuanyuan Yuan**, Zhibo Liu, Sen Deng, Yanzuo Chen, Shuai Wang, Yinqian Zhang, and Zhendong Su.  
@@ -23,7 +23,7 @@ In *46th IEEE Symposium on Security and Privacy*, 2025.
 - [**NDSS**] <u>Compiled Models, Built-In Exploits: Uncovering Pervasive Bit-Flip Attack Surfaces in DNN Executables</u>.  
 Yanzuo Chen, Zhibo Liu, **Yuanyuan Yuan**$^\dagger$, Sihang Hu, Tianxiang Li, and Shuai Wang$^\dagger$.  
 In *32nd Network and Distributed System Security Symposium*, 2025.  
-$^\dagger$ Corresponding author.  
+$^\dagger$ Corresponding authors.  
 
 ### 2024
 
@@ -68,7 +68,7 @@ In *44th IEEE Symposium on Security and Privacy*, 2023.
 - [**NDSS**] [OBSan: An Out-Of-Bound Sanitizer to Harden DNN Executables](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f103_paper.pdf).  
 Yanzuo Chen, **Yuanyuan Yuan**$^\dagger$, and Shuai Wang$^\dagger$.  
 In *30th Network and Distributed System Security Symposium*, 2023.  
-$^\dagger$ Corresponding author.  
+$^\dagger$ Corresponding authors.  
 [[project page]](https://sites.google.com/view/oob-sanitizer/), [[code]](https://github.com/yanzuochen/obsan)
 
 - [**USENIX Security**] [Precise and Generalized Robustness Certification for Neural Networks](https://www.usenix.org/conference/usenixsecurity23/presentation/yuan-yuanyuan-certification).  
@@ -90,7 +90,7 @@ In *32nd USENIX Security Symposium*, 2023.
 - [**ICSE**] [CC: Causality-Aware Coverage Criterion for Deep Neural Networks](https://dl.acm.org/doi/pdf/10.1109/ICSE48619.2023.00153).  
 Zhenlan Ji, Pingchuan Ma$^\dagger$, **Yuanyuan Yuan**$^\dagger$, and Shuai Wang.  
 In *45th IEEE/ACM International Conference on Software Engineering*, 2023.  
-$^\dagger$ Corresponding author.  
+$^\dagger$ Corresponding authors.  
 [[code]](https://github.com/ZhenlanJi/DL_CC)
 
 - [**ICSE**] [Revisiting Neuron Coverage for DNN Testing: A Layer-Wise and Distribution-Aware Criterion](https://dl.acm.org/doi/pdf/10.1109/ICSE48619.2023.00107).  

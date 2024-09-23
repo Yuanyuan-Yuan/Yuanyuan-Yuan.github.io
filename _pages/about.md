@@ -11,7 +11,10 @@ redirect_from:
 <!-- Welcome to Yuanyuan's homepage!   -->
 <!-- *<font size="2"><u>Updated on 12 Sep. 2023</u></font>* -->
 
-I'm currently a final year Ph.D. candidate at CSE department, HKUST. I'm very fortunate and honored to work under the supervision of Prof. [Shuai Wang](https://www.cse.ust.hk/~shuaiw/). During my Ph.D. journey, I also spent a wonderful year at ETH Zurich, supervised by Prof. [Zhendong Su](https://people.inf.ethz.ch/suz/). Before joining HKUST, I received my B.S. from Fudan University. 
+<!-- I'm currently a final year Ph.D. candidate at CSE department, HKUST. I'm very fortunate and honored to work under the supervision of Prof. [Shuai Wang](https://www.cse.ust.hk/~shuaiw/). During my Ph.D. journey, I also spent a wonderful year at ETH Zurich, supervised by Prof. [Zhendong Su](https://people.inf.ethz.ch/suz/). Before joining HKUST, I received my B.S. from Fudan University.  -->
+
+I will be joining ETH Zurich as a postdoctoral researcher in Oct. 2024, working with Prof. [Zhendong Su](https://people.inf.ethz.ch/suz/). I received my Ph.D. from HKUST in 2024, supervised by Prof. [Shuai Wang](https://www.cse.ust.hk/~shuaiw/). During my Ph.D. journey, I also spent a wonderful year at ETH Zurich
+as a visiting researcher, from Sep. 2022 to Sep. 2023. Before joining HKUST, I received my B.S. from Fudan University in 2020.
 
 My research aims to comprehensively harden and secure modern AI systems. I pursue this goal primarily from the software and hardware perspectives.
 
@@ -21,7 +24,7 @@ E-mail: yyuanaq [at] cse.ust.hk
 
 ## Education & Experience
 
-- **Ph.D. in Computer Science and Engineering**. The Hong Kong University of Science and Technology. *Sep. 2020 - present*.
+- **Ph.D. in Computer Science and Engineering**. The Hong Kong University of Science and Technology. *Sep. 2020 - Sep. 2024*.
 - **Visiting Researcher**. [AST lab](https://ast.ethz.ch/), ETH Zurich. *Sep. 2022 - Sep. 2023*.
 - **B.S. in Computer Science**. Fudan University. *Sep. 2016 - July 2020*.
 
@@ -85,23 +88,23 @@ In *International Conference on Learning Representations*, 2021.
 - [**NDSS**] <u>BitShield: Defending Against Bit-Flip Attacks on DNN Executables.</u>.  
 Yanzuo Chen, **Yuanyuan Yuan**$^\dagger$, Zhibo Liu, Sihang Hu, Tianxiang Li, and Shuai Wang$^\dagger$.  
 In *32nd Network and Distributed System Security Symposium*, 2025.  
-$^\dagger$ Corresponding author.  
+$^\dagger$ Corresponding authors.  
 
 - [**NDSS**] <u>Compiled Models, Built-In Exploits: Uncovering Pervasive Bit-Flip Attack Surfaces in DNN Executables</u>.  
 Yanzuo Chen, Zhibo Liu, **Yuanyuan Yuan**$^\dagger$, Sihang Hu, Tianxiang Li, and Shuai Wang$^\dagger$.  
 In *32nd Network and Distributed System Security Symposium*, 2025.  
-$^\dagger$ Corresponding author.  
+$^\dagger$ Corresponding authors.  
 
 - [**NDSS**] [OBSan: An Out-Of-Bound Sanitizer to Harden DNN Executables](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f103_paper.pdf).  
 Yanzuo Chen, **Yuanyuan Yuan**$^\dagger$, and Shuai Wang$^\dagger$.  
 In *30th Network and Distributed System Security Symposium*, 2023.  
-$^\dagger$ Corresponding author.  
+$^\dagger$ Corresponding authors.  
 [[project page]](https://sites.google.com/view/oob-sanitizer/), [[code]](https://github.com/yanzuochen/obsan)
 
 - [**ICSE**] [CC: Causality-Aware Coverage Criterion for Deep Neural Networks](https://dl.acm.org/doi/pdf/10.1109/ICSE48619.2023.00153).  
 Zhenlan Ji, Pingchuan Ma$^\dagger$, **Yuanyuan Yuan**$^\dagger$, and Shuai Wang.  
 In *45th IEEE/ACM International Conference on Software Engineering*, 2023.  
-$^\dagger$ Corresponding author.  
+$^\dagger$ Corresponding authors.  
 [[code]](https://github.com/ZhenlanJi/DL_CC)
 
 - [**CCS**] <u>DeepCache: Revisiting Cache Side-Channel Attacks in Deep Neural Networks Executables</u>.  
@@ -164,4 +167,4 @@ In *43rd IEEE Symposium on Security and Privacy*, 2022.
   <!-- <div style="display:inline-block;width:300px;"><script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=58fqm6u2ofs&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;br=5&amp;sx=0" async="async"></script></div> -->
 </p>
 
-*<font size="2"><u>Last updated: 5 July 2024</u></font>*
+*<font size="2"><u>Last updated: 23 Sep. 2024</u></font>*
