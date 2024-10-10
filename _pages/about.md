@@ -17,7 +17,10 @@ I am a postdoctoral researcher in the [Advanced Software Technologies (AST) lab]
 
 My research aims to comprehensively harden and secure modern AI systems. I pursue this goal primarily from the software and hardware perspectives.
 
-E-mail: yuanyuan.yuan [at] inf.ethz.ch, yyuanaq [at] cse.ust.hk
+E-mail: yuanyuan.yuan [at] inf.ethz.ch
+
+<!-- E-mail: yyuanaq [at] cse.ust.hk -->
+
 
 <!-- I'm currently a visiting student at the [AST lab](https://ast.ethz.ch/), ETH Zurich, under the supervision of Prof. [Zhendong Su](https://people.inf.ethz.ch/suz/). -->
 
