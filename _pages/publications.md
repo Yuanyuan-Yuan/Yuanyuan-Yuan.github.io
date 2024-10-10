@@ -11,7 +11,7 @@ author_profile: true
 
 ### 2025
 
-- [**NDSS**] <u>BitShield: Defending Against Bit-Flip Attacks on DNN Executables.</u>.  
+- [**NDSS**] <u>BitShield: Defending Against Bit-Flip Attacks on DNN Executables</u>.  
 Yanzuo Chen, **Yuanyuan Yuan**$^\dagger$, Zhibo Liu, Sihang Hu, Tianxiang Li, and Shuai Wang$^\dagger$.  
 In *32nd Network and Distributed System Security Symposium*, 2025.  
 $^\dagger$ Corresponding authors.  
