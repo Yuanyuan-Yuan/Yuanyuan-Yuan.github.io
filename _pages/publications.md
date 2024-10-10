@@ -27,6 +27,10 @@ $^\dagger$ Corresponding authors.
 
 ### 2024
 
+- [**Black Hat EU**] <u>The Devil is in the (Micro-) Architectures: Uncovering New Side-Channel and Bit-Flip Attack Surfaces in DNN Executables.</u>.  
+Yanzuo Chen, Zhibo Liu, **Yuanyuan Yuan**, Sihang Hu, Tianxiang Li, and Shuai Wang.  
+In *24th Black Hat Europe*, 2024.
+
 - [**CCS**] <u>DeepCache: Revisiting Cache Side-Channel Attacks in Deep Neural Networks Executables</u>.  
 Zhibo Liu, **Yuanyuan Yuan**, Yanzuo Chen, Sihang Hu, Tianxiang Li, and Shuai Wang.  
 In *31st ACM Conference on Computer and Communications Security*, 2024.  
@@ -43,6 +47,11 @@ In *33rd International Symposium on Software Testing and Analysis*, 2024.
 **Yuanyuan Yuan**, Qi Pang, and Shuai Wang.  
 In *IEEE Transactions on Software Engineering*, 2024.  
 [[preprint]](https://arxiv.org/abs/2112.01956)
+
+- [**IEEE S\&P**] [No Privacy Left Outside: On the (In-)Security of TEE-Shielded DNN Partition Defenses](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a052/1RjEarlPFew).  
+Ziqi Zhang, Chen Gong, Yifeng Cai, Yuanyuan Yuan, Bingyan Liu, Ding Li, Yao Guo, and Xiangqun Chen.  
+In *45th IEEE Symposium on Security and Privacy*, 2024.  
+[[code]](https://github.com/ziqi-zhang/TEESlice-artifact)
 
 - [**NDSS**] [MPCDiff: Testing and Repairing MPC-Hardened Deep Learning Models](https://www.ndss-symposium.org/ndss-paper/mpcdiff-testing-and-repairing-mpc-hardened-deep-learning-models/).  
 Qi Pang, **Yuanyuan Yuan**, and Shuai Wang.  

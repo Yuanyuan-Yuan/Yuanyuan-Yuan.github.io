@@ -13,22 +13,22 @@ redirect_from:
 
 <!-- I'm currently a final year Ph.D. candidate at CSE department, HKUST. I'm very fortunate and honored to work under the supervision of Prof. [Shuai Wang](https://www.cse.ust.hk/~shuaiw/). During my Ph.D. journey, I also spent a wonderful year at ETH Zurich, supervised by Prof. [Zhendong Su](https://people.inf.ethz.ch/suz/). Before joining HKUST, I received my B.S. from Fudan University.  -->
 
-I will be joining ETH Zurich as a postdoctoral researcher in Oct. 2024, working with Prof. [Zhendong Su](https://people.inf.ethz.ch/suz/). I received my Ph.D. from HKUST in 2024, supervised by Prof. [Shuai Wang](https://www.cse.ust.hk/~shuaiw/). During my Ph.D. journey, I also spent a wonderful year at ETH Zurich
-as a visiting researcher, from Sep. 2022 to Sep. 2023. Before joining HKUST, I received my B.S. from Fudan University in 2020.
+I am a postdoctoral researcher in the Advanced Software Technologies (AST) lab at ETH Zurich, mentored by Prof. [Zhendong Su](https://people.inf.ethz.ch/suz/). I received the Ph.D. degree from the Hong Kong University of Science and Technology (HKUST) in 2024, supervised by Prof. [Shuai Wang](https://www.cse.ust.hk/~shuaiw/), and the B.S. degree from Fudan University in 2020.
 
 My research aims to comprehensively harden and secure modern AI systems. I pursue this goal primarily from the software and hardware perspectives.
 
-E-mail: yyuanaq [at] cse.ust.hk
+E-mail: yuanyuan.yuan [at] inf.ethz.ch, yyuanaq [at] cse.ust.hk
 
 <!-- I'm currently a visiting student at the [AST lab](https://ast.ethz.ch/), ETH Zurich, under the supervision of Prof. [Zhendong Su](https://people.inf.ethz.ch/suz/). -->
 
 ## Education & Experience
 
+- **Postdoctoral Researcher**. [AST lab](https://ast.ethz.ch/), ETH Zurich. *Oct. 2024 - present*.
 - **Ph.D. in Computer Science and Engineering**. The Hong Kong University of Science and Technology. *Sep. 2020 - Sep. 2024*.
 - **Visiting Researcher**. [AST lab](https://ast.ethz.ch/), ETH Zurich. *Sep. 2022 - Sep. 2023*.
 - **B.S. in Computer Science**. Fudan University. *Sep. 2016 - July 2020*.
 
-## Featured Publications ([full list](https://yuanyuan-yuan.github.io/publications/))
+## Selected Publications ([full list](https://yuanyuan-yuan.github.io/publications/))
 
 *$^\dagger$ indicates corresponding authors, i.e., works of junior students I mentored.*
 
@@ -107,7 +107,7 @@ In *45th IEEE/ACM International Conference on Software Engineering*, 2023.
 $^\dagger$ Corresponding authors.  
 [[code]](https://github.com/ZhenlanJi/DL_CC)
 
-- [**CCS**] <u>DeepCache: Revisiting Cache Side-Channel Attacks in Deep Neural Networks Executables</u>.  
+<!-- - [**CCS**] <u>DeepCache: Revisiting Cache Side-Channel Attacks in Deep Neural Networks Executables</u>.  
 Zhibo Liu, **Yuanyuan Yuan**, Yanzuo Chen, Sihang Hu, Tianxiang Li, and Shuai Wang.  
 In *31st ACM Conference on Computer and Communications Security*, 2024.  
 
@@ -139,7 +139,7 @@ In *31st International Symposium on Software Testing and Analysis*, 2022.
 - [**IEEE S&P**] [SoK: Demystifying Binary Lifters Through the Lens of Downstream Applications](https://www.computer.org/csdl/proceedings-article/sp/2022/131600a453/1wKCev3wlbO).  
 Zhibo Liu, **Yuanyuan Yuan**, Shuai Wang, and Yuyan Bao.  
 In *43rd IEEE Symposium on Security and Privacy*, 2022.  
-[[code]](https://github.com/monkbai/ir_lifting_data)
+[[code]](https://github.com/monkbai/ir_lifting_data) -->
 
 
 <!-- ## Talks
