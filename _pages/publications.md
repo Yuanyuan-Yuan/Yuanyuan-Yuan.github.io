@@ -27,7 +27,7 @@ $^\dagger$ Corresponding authors.
 
 ### 2024
 
-- [**Black Hat EU**] <u>The Devil is in the (Micro-) Architectures: Uncovering New Side-Channel and Bit-Flip Attack Surfaces in DNN Executables.</u>.  
+- [**Black Hat EU**] <u>The Devil is in the (Micro-) Architectures: Uncovering New Side-Channel and Bit-Flip Attack Surfaces in DNN Executables</u>.  
 Yanzuo Chen, Zhibo Liu, **Yuanyuan Yuan**, Sihang Hu, Tianxiang Li, and Shuai Wang.  
 In *24th Black Hat Europe*, 2024.
 
@@ -49,7 +49,7 @@ In *IEEE Transactions on Software Engineering*, 2024.
 [[preprint]](https://arxiv.org/abs/2112.01956)
 
 - [**IEEE S&P**] [No Privacy Left Outside: On the (In-)Security of TEE-Shielded DNN Partition Defenses](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a052/1RjEarlPFew).  
-Ziqi Zhang, Chen Gong, Yifeng Cai, Yuanyuan Yuan, Bingyan Liu, Ding Li, Yao Guo, and Xiangqun Chen.  
+Ziqi Zhang, Chen Gong, Yifeng Cai, **Yuanyuan Yuan**, Bingyan Liu, Ding Li, Yao Guo, and Xiangqun Chen.  
 In *45th IEEE Symposium on Security and Privacy*, 2024.  
 [[code]](https://github.com/ziqi-zhang/TEESlice-artifact)
 
