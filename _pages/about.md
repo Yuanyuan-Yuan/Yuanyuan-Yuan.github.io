@@ -13,7 +13,7 @@ redirect_from:
 
 <!-- I'm currently a final year Ph.D. candidate at CSE department, HKUST. I'm very fortunate and honored to work under the supervision of Prof. [Shuai Wang](https://www.cse.ust.hk/~shuaiw/). During my Ph.D. journey, I also spent a wonderful year at ETH Zurich, supervised by Prof. [Zhendong Su](https://people.inf.ethz.ch/suz/). Before joining HKUST, I received my B.S. from Fudan University.  -->
 
-I am a postdoctoral researcher in the Advanced Software Technologies (AST) lab at ETH Zurich, mentored by Prof. [Zhendong Su](https://people.inf.ethz.ch/suz/). I received the Ph.D. degree from the Hong Kong University of Science and Technology (HKUST) in 2024, supervised by Prof. [Shuai Wang](https://www.cse.ust.hk/~shuaiw/), and the B.S. degree from Fudan University in 2020.
+I am a postdoctoral researcher in the [Advanced Software Technologies (AST) lab](https://ast.ethz.ch/) at ETH Zurich, mentored by Prof. [Zhendong Su](https://people.inf.ethz.ch/suz/). I received the Ph.D. degree from the Hong Kong University of Science and Technology (HKUST) in 2024, supervised by Prof. [Shuai Wang](https://www.cse.ust.hk/~shuaiw/), and the B.S. degree from Fudan University in 2020.
 
 My research aims to comprehensively harden and secure modern AI systems. I pursue this goal primarily from the software and hardware perspectives.
 
@@ -167,4 +167,4 @@ In *43rd IEEE Symposium on Security and Privacy*, 2022.
   <!-- <div style="display:inline-block;width:300px;"><script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=58fqm6u2ofs&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;br=5&amp;sx=0" async="async"></script></div> -->
 </p>
 
-*<font size="2"><u>Last updated: 23 Sep. 2024</u></font>*
+*<font size="2"><u>Last updated: 10 Oct. 2024</u></font>*
