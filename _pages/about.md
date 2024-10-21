@@ -47,7 +47,8 @@ In *31st ACM Conference on Computer and Communications Security*, 2024.
 
 - [**ISSTA**] [See the Forest, not Trees: Unveiling and Escaping the Pitfalls of Error-Triggering Inputs in Neural Network Testing](https://dl.acm.org/doi/abs/10.1145/3650212.3680385).  
 **Yuanyuan Yuan**, Shuai Wang, and Zhendong Su.  
-In *33rd International Symposium on Software Testing and Analysis*, 2024.
+In *33rd International Symposium on Software Testing and Analysis*, 2024.  
+[[preprint]](https://yuanyuan-yuan.github.io/files/issta24-EP.pdf)
 
 - [**TSE**] [Provably Valid and Diverse Mutations of Real-World Media Data for DNN Testing](https://ieeexplore.ieee.org/document/10462634).  
 **Yuanyuan Yuan**, Qi Pang, and Shuai Wang.  
@@ -99,6 +100,7 @@ $^\dagger$ Corresponding authors.
 Yanzuo Chen, Zhibo Liu, **Yuanyuan Yuan**$^\dagger$, Sihang Hu, Tianxiang Li, and Shuai Wang$^\dagger$.  
 In *32nd Network and Distributed System Security Symposium*, 2025.  
 $^\dagger$ Corresponding authors.  
+[[preprint]](https://yuanyuan-yuan.github.io/files/ndss25-exe-BFA.pdf)
 
 - [**NDSS**] [OBSan: An Out-Of-Bound Sanitizer to Harden DNN Executables](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f103_paper.pdf).  
 Yanzuo Chen, **Yuanyuan Yuan**$^\dagger$, and Shuai Wang$^\dagger$.  
