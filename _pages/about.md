@@ -38,12 +38,14 @@ E-mail: yuanyuan.yuan [at] inf.ethz.ch
 - [**IEEE S&P**] <u>CipherSteal: Stealing Input Data from TEE-Shielded Neural Networks with Ciphertext Side Channels</u>.  
 **Yuanyuan Yuan**, Zhibo Liu, Sen Deng, Yanzuo Chen, Shuai Wang, Yinqian Zhang, and Zhendong Su.  
 In *46th IEEE Symposium on Security and Privacy*, 2025.   
+[[preprint]](https://yuanyuan-yuan.github.io/files/sp25-Cipher-Steal.pdf)
 
 - [**CCS**] <u>HyperTheft: Thieving Model Weights from TEE-Shielded Neural Networks via Ciphertext Side Channels</u>.  
 **Yuanyuan Yuan**, Zhibo Liu, Sen Deng, Yanzuo Chen, Shuai Wang, Yinqian Zhang, and Zhendong Su.  
-In *31st ACM Conference on Computer and Communications Security*, 2024. 
+In *31st ACM Conference on Computer and Communications Security*, 2024.  
+[[preprint]](https://yuanyuan-yuan.github.io/files/ccs24-HyperTheft.pdf)
 
-- [**ISSTA**] <u>See the Forest, not Trees: Unveiling and Escaping the Pitfalls of Error-Triggering Inputs in Neural Network Testing</u>.  
+- [**ISSTA**] [See the Forest, not Trees: Unveiling and Escaping the Pitfalls of Error-Triggering Inputs in Neural Network Testing](https://dl.acm.org/doi/abs/10.1145/3650212.3680385).  
 **Yuanyuan Yuan**, Shuai Wang, and Zhendong Su.  
 In *33rd International Symposium on Software Testing and Analysis*, 2024.
 

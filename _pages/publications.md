@@ -19,11 +19,13 @@ $^\dagger$ Corresponding authors.
 - [**IEEE S&P**] <u>CipherSteal: Stealing Input Data from TEE-Shielded Neural Networks with Ciphertext Side Channels</u>.  
 **Yuanyuan Yuan**, Zhibo Liu, Sen Deng, Yanzuo Chen, Shuai Wang, Yinqian Zhang, and Zhendong Su.  
 In *46th IEEE Symposium on Security and Privacy*, 2025.   
+[[preprint]](https://yuanyuan-yuan.github.io/files/sp25-Cipher-Steal.pdf)
 
 - [**NDSS**] <u>Compiled Models, Built-In Exploits: Uncovering Pervasive Bit-Flip Attack Surfaces in DNN Executables</u>.  
 Yanzuo Chen, Zhibo Liu, **Yuanyuan Yuan**$^\dagger$, Sihang Hu, Tianxiang Li, and Shuai Wang$^\dagger$.  
 In *32nd Network and Distributed System Security Symposium*, 2025.  
 $^\dagger$ Corresponding authors.  
+[[preprint]](https://yuanyuan-yuan.github.io/files/ndss25-exe-BFA.pdf)
 
 ### 2024
 
@@ -34,12 +36,14 @@ In *24th Black Hat Europe*, 2024.
 - [**CCS**] <u>DeepCache: Revisiting Cache Side-Channel Attacks in Deep Neural Networks Executables</u>.  
 Zhibo Liu, **Yuanyuan Yuan**, Yanzuo Chen, Sihang Hu, Tianxiang Li, and Shuai Wang.  
 In *31st ACM Conference on Computer and Communications Security*, 2024.  
+[[preprint]](https://yuanyuan-yuan.github.io/files/ccs24-DeepCache.pdf)
 
 - [**CCS**] <u>HyperTheft: Thieving Model Weights from TEE-Shielded Neural Networks via Ciphertext Side Channels</u>.  
 **Yuanyuan Yuan**, Zhibo Liu, Sen Deng, Yanzuo Chen, Shuai Wang, Yinqian Zhang, and Zhendong Su.  
 In *31st ACM Conference on Computer and Communications Security*, 2024.  
+[[preprint]](https://yuanyuan-yuan.github.io/files/ccs24-HyperTheft.pdf)
 
-- [**ISSTA**] <u>See the Forest, not Trees: Unveiling and Escaping the Pitfalls of Error-Triggering Inputs in Neural Network Testing</u>.  
+- [**ISSTA**] [See the Forest, not Trees: Unveiling and Escaping the Pitfalls of Error-Triggering Inputs in Neural Network Testing](https://dl.acm.org/doi/abs/10.1145/3650212.3680385).  
 **Yuanyuan Yuan**, Shuai Wang, and Zhendong Su.  
 In *33rd International Symposium on Software Testing and Analysis*, 2024.  
 
