@@ -7,9 +7,15 @@ author_profile: true
 
 <!-- *<font size="2">$^\dagger$ indicates corresponding authors, i.e., works of junior students mentored by me. </font>* -->
 
+
 *$^\dagger$ indicates corresponding authors, i.e., works of junior students I mentored.*
 
-Security Big 4: IEEE S&P ($\times$ 4), USENIX Security ($\times$ 4)
+### Highlights
+
+- **Security Big 4**: IEEE S&P ($\times$ 4), USENIX Security ($\times$ 4), CCS ($\times$ 2), NDSS ($\times$ 4)
+
+- Black Hat USA, Black Hat Europe
+
 
 ### 2025
 
