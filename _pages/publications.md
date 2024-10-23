@@ -9,6 +9,10 @@ author_profile: true
 
 *$^\dagger$ indicates corresponding authors, i.e., works of junior students I mentored.*
 
+```
+Security Big 4: IEEE S&P ($\times$ 4), USENIX Security ($\times$ 4)
+```
+
 ### 2025
 
 - [**NDSS**] <u>BitShield: Defending Against Bit-Flip Attacks on DNN Executables</u>.  
