@@ -14,7 +14,7 @@ author_profile: true
 
 - **Security Big 4**: IEEE S&P ($\times$ 4), USENIX Security ($\times$ 4), CCS ($\times$ 2), NDSS ($\times$ 4)
 
-- Black Hat USA, Black Hat Europe
+- **Industrial**: Black Hat USA, Black Hat Europe
 
 
 ### 2025
