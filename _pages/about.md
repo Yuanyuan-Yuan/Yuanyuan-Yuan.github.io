@@ -82,7 +82,7 @@ In *37th IEEE/ACM International Conference on Automated Software Engineering*, 2
 - [**USENIX Security**] [Automated Side Channel Analysis of Media Software with Manifold Learning](https://www.usenix.org/conference/usenixsecurity22/presentation/yuan).  
 **Yuanyuan Yuan**, Qi Pang, and Shuai Wang.  
 In *31st USENIX Security Symposium*, 2022.  
-🌟 **Artifact Evaluation Badges**: Available; Functional; Reproduced.    
+🎖 **Artifact Evaluation Badges**: Available; Functional; Reproduced.    
 [[extended version]](https://arxiv.org/pdf/2112.04947.pdf), [[code]](https://github.com/Yuanyuan-Yuan/Manifold-SCA) <a href="https://github.com/Yuanyuan-Yuan/Manifold-SCA" target="_blank"><img src="https://img.shields.io/github/stars/Yuanyuan-Yuan/Manifold-SCA.svg?style=social&label=Star&maxAge=180"></a>
 
 - [**CVPR**] [Perception Matters: Detecting Perception Failures of VQA Models Using Metamorphic Testing](https://openaccess.thecvf.com/content/CVPR2021/html/Yuan_Perception_Matters_Detecting_Perception_Failures_of_VQA_Models_Using_Metamorphic_CVPR_2021_paper.html).  
@@ -139,7 +139,7 @@ In *44th IEEE Symposium on Security and Privacy*, 2023.
 - [**USENIX Security**] [Decompiling x86 Deep Neural Network Executables](https://www.usenix.org/conference/usenixsecurity23/presentation/liuzhibo).  
 Zhibo Liu, **Yuanyuan Yuan**, Shuai Wang, Xiaofei Xie, and Lei Ma.  
 In *32nd USENIX Security Symposium*, 2023.  
-🌟 **Artifact Evaluation Badges**: Available; Functional; Reproduced.  
+🎖 **Artifact Evaluation Badges**: Available; Functional; Reproduced.  
 [[extended version]](https://arxiv.org/pdf/2210.01075.pdf), [[code]](https://github.com/monkbai/DNN-decompiler) <a href="https://github.com/monkbai/DNN-decompiler" target="_blank"><img src="https://img.shields.io/github/stars/monkbai/DNN-decompiler.svg?style=social&label=Star&maxAge=180"></a>
 
 - [**ISSTA**] [MDPFuzz: Testing Models Solving Markov Decision Processes](https://dl.acm.org/doi/abs/10.1145/3533767.3534388).  
