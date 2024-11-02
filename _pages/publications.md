@@ -105,7 +105,7 @@ In *32nd USENIX Security Symposium*, 2023.
 - [**USENIX Security**] [Decompiling x86 Deep Neural Network Executables](https://www.usenix.org/conference/usenixsecurity23/presentation/liuzhibo).  
 Zhibo Liu, **Yuanyuan Yuan**, Shuai Wang, Xiaofei Xie, and Lei Ma.  
 In *32nd USENIX Security Symposium*, 2023.  
-🌟 **Artifact Evaluation Badges**: Available; Functional; Reproduced.  
+🏅 **Artifact Evaluation Badges**: Available; Functional; Reproduced.  
 [[extended version]](https://arxiv.org/pdf/2210.01075.pdf), [[code]](https://github.com/monkbai/DNN-decompiler) <a href="https://github.com/monkbai/DNN-decompiler" target="_blank"><img src="https://img.shields.io/github/stars/monkbai/DNN-decompiler.svg?style=social&label=Star&maxAge=180"></a>
 
 - [**ICSE**] [CC: Causality-Aware Coverage Criterion for Deep Neural Networks](https://dl.acm.org/doi/pdf/10.1109/ICSE48619.2023.00153).  
@@ -149,7 +149,7 @@ In *ACM Sigmetrics/Performance*, 2022.
 - [**USENIX Security**] [Automated Side Channel Analysis of Media Software with Manifold Learning](https://www.usenix.org/conference/usenixsecurity22/presentation/yuan).  
 **Yuanyuan Yuan**, Qi Pang, and Shuai Wang.  
 In *31st USENIX Security Symposium*, 2022.  
-🌟 **Artifact Evaluation Badges**: Available; Functional; Reproduced.    
+🏅 **Artifact Evaluation Badges**: Available; Functional; Reproduced.    
 [[extended version]](https://arxiv.org/pdf/2112.04947.pdf), [[code]](https://github.com/Yuanyuan-Yuan/Manifold-SCA) <a href="https://github.com/Yuanyuan-Yuan/Manifold-SCA" target="_blank"><img src="https://img.shields.io/github/stars/Yuanyuan-Yuan/Manifold-SCA.svg?style=social&label=Star&maxAge=180"></a>
 
 - [**IEEE S&P**] [SoK: Demystifying Binary Lifters Through the Lens of Downstream Applications](https://www.computer.org/csdl/proceedings-article/sp/2022/131600a453/1wKCev3wlbO).  
