@@ -27,8 +27,12 @@ E-mail: yuanyuan.yuan [at] inf.ethz.ch
 ## Education & Experience
 
 - **Postdoctoral Researcher**. [AST lab](https://ast.ethz.ch/), ETH Zurich. *Oct. 2024 - present*.
-- **Ph.D. in Computer Science and Engineering**. The Hong Kong University of Science and Technology. *Sep. 2020 - Sep. 2024*.
+
+- **Ph.D. in Computer Science and Engineering**. The Hong Kong University of Science and Technology. *Sep. 2020 - Sep. 2024*.  
+🎓**Thesis:** [Side-Channel Analysis for AI Infrastructures](https://yuanyuan-yuan.github.io/files/phd-thesis.pdf)
+
 - **Visiting Researcher**. [AST lab](https://ast.ethz.ch/), ETH Zurich. *Sep. 2022 - Sep. 2023*.
+
 - **B.S. in Computer Science**. Fudan University. *Sep. 2016 - July 2020*.
 
 ## Selected Publications ([full list](https://yuanyuan-yuan.github.io/publications/))
