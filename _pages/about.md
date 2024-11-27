@@ -164,7 +164,6 @@ In *43rd IEEE Symposium on Security and Privacy*, 2022.
 ## Teaching Experience
 
 - **Guest Lecturer**: *Automated Software Testing*. ETH Zurich, Spring 2023.
-
 - **Teaching Assistant**: *COMP3632: Principles of Cybersecurity*. HKUST, Fall 2021.
 - **Teaching Assistant**: *COMP3632: Principles of Cybersecurity*. HKUST, Spring 2021.
 - **Teaching Assistant**: *Introduction to Computer System*. Fudan University, Fall 2018.
