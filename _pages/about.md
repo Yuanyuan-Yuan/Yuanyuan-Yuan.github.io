@@ -17,7 +17,7 @@ My research focuses on the **safety** (i.e., addressing unintentional defects an
 From the software perspective, I employ software *testing* and *verification*, two fundamental and complementary techniques, to enhance the safety of AI systems.
 From the hardware perspective, I analyze hardware activities in AI systems to uncover new *attack* vectors, such as **secret leakage** and **fault injection**, and propose effective *defenses* against them to improve the security.
 
-E-mail: yuanyuan.yuan [at] inf.ethz.ch
+*E-mail: yuanyuan.yuan [at] inf.ethz.ch*
 
 ## Education & Experience
 
