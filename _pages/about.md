@@ -8,21 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-<!-- Welcome to Yuanyuan's homepage!   -->
-<!-- *<font size="2"><u>Updated on 12 Sep. 2023</u></font>* -->
+I am a postdoctoral researcher in the [Advanced Software Technologies (AST) lab](https://ast.ethz.ch/) at ETH Zurich, mentored by Prof. [Zhendong Su](https://people.inf.ethz.ch/suz/). 
+I obtained my Ph.D. in Computer Science and Engineering from The Hong Kong University of Science and Technology (HKUST) in 2024 under the supervision of Prof. [Shuai Wang](https://www.cse.ust.hk/~shuaiw/).
+Prior to that, I received my B.S. in Computer Science from Fudan University in 2020.
 
-<!-- I'm currently a final year Ph.D. candidate at CSE department, HKUST. I'm very fortunate and honored to work under the supervision of Prof. [Shuai Wang](https://www.cse.ust.hk/~shuaiw/). During my Ph.D. journey, I also spent a wonderful year at ETH Zurich, supervised by Prof. [Zhendong Su](https://people.inf.ethz.ch/suz/). Before joining HKUST, I received my B.S. from Fudan University.  -->
+My research focuses on the **safety** (i.e., addressing unintentional defects and ensuring reliable behaviors) and **security** (i.e., uncovering and mitigating intentional attacks and privacy breaches) of **AI systems**. My long-term goal is to strengthen AI systems' safety and security across a range of conventional and emerging scenarios. Over the past several years, I have been pursuing this goal primarily from **software** and **hardware** perspectives.
 
-I am a postdoctoral researcher in the [Advanced Software Technologies (AST) lab](https://ast.ethz.ch/) at ETH Zurich, mentored by Prof. [Zhendong Su](https://people.inf.ethz.ch/suz/). I received the Ph.D. degree from the Hong Kong University of Science and Technology (HKUST) in 2024, supervised by Prof. [Shuai Wang](https://www.cse.ust.hk/~shuaiw/), and the B.S. degree from Fudan University in 2020.
+From the software perspective, I employ software *testing* and *verification*, two fundamental and complementary techniques, to enhance the safety of AI systems.
 
-My research aims to comprehensively harden and secure modern AI systems. I pursue this goal primarily from the software and hardware perspectives.
+From the hardware perspective, I analyze hardware activities in AI systems to uncover new *attack* vectors, such as **secret leakage** and **fault injection**, and propose effective *defenses* against them to improve the security.
 
 E-mail: yuanyuan.yuan [at] inf.ethz.ch
-
-<!-- E-mail: yyuanaq [at] cse.ust.hk -->
-
-
-<!-- I'm currently a visiting student at the [AST lab](https://ast.ethz.ch/), ETH Zurich, under the supervision of Prof. [Zhendong Su](https://people.inf.ethz.ch/suz/). -->
 
 ## Education & Experience
 
