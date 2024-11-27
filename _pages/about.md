@@ -33,7 +33,7 @@ E-mail: yuanyuan.yuan [at] inf.ethz.ch
 
 ## Selected Publications ([full list](https://yuanyuan-yuan.github.io/publications/))
 
-*$^\dagger$ indicates corresponding authors, i.e., works of junior students I mentored.*
+*$^\dagger$ indicates corresponding authors, i.e., first-author works of junior students I mentored.*
 
 - [**IEEE S&P**] <u>CipherSteal: Stealing Input Data from TEE-Shielded Neural Networks with Ciphertext Side Channels</u>.  
 **Yuanyuan Yuan**, Zhibo Liu, Sen Deng, Yanzuo Chen, Shuai Wang, Yinqian Zhang, and Zhendong Su.  
