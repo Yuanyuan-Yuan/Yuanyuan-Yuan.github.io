@@ -15,7 +15,6 @@ Prior to that, I received my B.S. in Computer Science from Fudan University in 2
 My research focuses on the **safety** (i.e., addressing unintentional defects and ensuring reliable behaviors) and **security** (i.e., uncovering and mitigating intentional attacks and privacy breaches) of **AI systems**. My long-term goal is to strengthen AI systems' safety and security across a range of conventional and emerging scenarios. Over the past several years, I have been pursuing this goal primarily from **software** and **hardware** perspectives.
 
 From the software perspective, I employ software *testing* and *verification*, two fundamental and complementary techniques, to enhance the safety of AI systems.
-
 From the hardware perspective, I analyze hardware activities in AI systems to uncover new *attack* vectors, such as **secret leakage** and **fault injection**, and propose effective *defenses* against them to improve the security.
 
 E-mail: yuanyuan.yuan [at] inf.ethz.ch
@@ -164,6 +163,8 @@ In *43rd IEEE Symposium on Security and Privacy*, 2022.
 
 ## Teaching Experience
 
+- **Guest Lecturer**: *Automated Software Testing*. ETH Zurich, Spring 2023.
+
 - **Teaching Assistant**: *COMP3632: Principles of Cybersecurity*. HKUST, Fall 2021.
 - **Teaching Assistant**: *COMP3632: Principles of Cybersecurity*. HKUST, Spring 2021.
 - **Teaching Assistant**: *Introduction to Computer System*. Fudan University, Fall 2018.
@@ -173,4 +174,4 @@ In *43rd IEEE Symposium on Security and Privacy*, 2022.
   <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=58fqm6u2ofs&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33&amp;s=200" async="async"></script>
 </p> -->
 
-*<font size="2"><u>Last updated: 13 Nov. 2024</u></font>*
+*<font size="2"><u>Last updated: 27 Nov. 2024</u></font>*
