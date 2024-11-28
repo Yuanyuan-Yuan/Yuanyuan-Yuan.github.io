@@ -39,7 +39,7 @@ From the hardware perspective, I analyze hardware activities in AI systems to un
 
 *$^\dagger$ indicates corresponding authors, i.e., first-author works of junior students I mentored.*
 
-- [**IEEE S&P '25**] <u>CipherSteal: Stealing Input Data from TEE-Shielded Neural Networks with Ciphertext Side Channels</u>.  
+- [**IEEE S&P 25**] <u>CipherSteal: Stealing Input Data from TEE-Shielded Neural Networks with Ciphertext Side Channels</u>.  
 **Yuanyuan Yuan**, Zhibo Liu, Sen Deng, Yanzuo Chen, Shuai Wang, Yinqian Zhang, and Zhendong Su.  
 In *46th IEEE Symposium on Security and Privacy*, 2025.   
 [[preprint]](https://yuanyuan-yuan.github.io/files/sp25-Cipher-Steal.pdf)
