@@ -14,7 +14,7 @@ Prior to that, I received my B.S. in Computer Science from Fudan University in 2
 
 *E-mail: yuanyuan.yuan [at] inf.ethz.ch*
 
-### Research Interests
+## Research Interests
 
 My research focuses on the ***safety*** (i.e., addressing *unintentional* defects and ensuring reliable behaviors) and ***security*** (i.e., uncovering and mitigating *intentional* attacks and privacy breaches) of ***AI systems***. My long-term goal is to strengthen AI systems' safety and security across a range of conventional and emerging scenarios. Over the past several years, I have been pursuing this goal primarily from ***software*** and ***hardware*** perspectives.
 
@@ -39,7 +39,7 @@ From the hardware perspective, I analyze hardware activities in AI systems to un
 
 *$^\dagger$ indicates corresponding authors, i.e., first-author works of junior students I mentored.*
 
-- [**IEEE S&P 25**] <u>CipherSteal: Stealing Input Data from TEE-Shielded Neural Networks with Ciphertext Side Channels</u>.  
+- [**IEEE S&P'25**] <u>CipherSteal: Stealing Input Data from TEE-Shielded Neural Networks with Ciphertext Side Channels</u>.  
 **Yuanyuan Yuan**, Zhibo Liu, Sen Deng, Yanzuo Chen, Shuai Wang, Yinqian Zhang, and Zhendong Su.  
 In *46th IEEE Symposium on Security and Privacy*, 2025.   
 [[preprint]](https://yuanyuan-yuan.github.io/files/sp25-Cipher-Steal.pdf)
