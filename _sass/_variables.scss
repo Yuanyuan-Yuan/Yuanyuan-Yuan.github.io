@@ -29,9 +29,12 @@
    $calisto                    : "Calisto MT", serif;
    $garamond                   : Garamond, serif;
    
-   $global-font-family         : $sans-serif;
-   $header-font-family         : $sans-serif;
-   $caption-font-family        : $serif;
+   // $global-font-family         : $sans-serif;
+   // $header-font-family         : $sans-serif;
+   // $caption-font-family        : $serif;
+   $global-font-family         : $myfont;
+   $header-font-family         : $myfont;
+   $caption-font-family        : $myfont;
    
    /* type scale */
    $type-size-1                : 2.441em;  // ~39.056px
