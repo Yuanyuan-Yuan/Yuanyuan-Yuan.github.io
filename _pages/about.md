@@ -99,6 +99,7 @@ In *International Conference on Learning Representations*, 2021.
 Yanzuo Chen, **Yuanyuan Yuan**$^\dagger$, Zhibo Liu, Sihang Hu, Tianxiang Li, and Shuai Wang$^\dagger$.  
 In *32nd Network and Distributed System Security Symposium*, 2025.  
 $^\dagger$ Corresponding authors.  
+[[preprint]](https://yuanyuan-yuan.github.io/files/ndss25-BitShield.pdf)
 
 - [**NDSS 25a**] <u>Compiled Models, Built-In Exploits: Uncovering Pervasive Bit-Flip Attack Surfaces in DNN Executables</u>.  
 Yanzuo Chen, Zhibo Liu, **Yuanyuan Yuan**$^\dagger$, Sihang Hu, Tianxiang Li, and Shuai Wang$^\dagger$.  
@@ -138,4 +139,4 @@ $^\dagger$ Corresponding authors.
   <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=58fqm6u2ofs&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33&amp;s=200" async="async"></script>
 </p> -->
 
-*<font size="2"><u>Last updated: 28 Nov. 2024</u></font>*
+*<font size="2"><u>Last updated: 9 Dec. 2024</u></font>*
