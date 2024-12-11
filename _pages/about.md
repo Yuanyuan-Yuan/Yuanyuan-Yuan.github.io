@@ -44,10 +44,10 @@ From the hardware perspective, I analyze hardware activities in AI systems to un
 In *46th IEEE Symposium on Security and Privacy*, 2025.   
 [[preprint]](https://yuanyuan-yuan.github.io/files/sp25-Cipher-Steal.pdf)
 
-- [**CCS 24**] <u>HyperTheft: Thieving Model Weights from TEE-Shielded Neural Networks via Ciphertext Side Channels</u>.  
+- [**CCS 24**] [HyperTheft: Thieving Model Weights from TEE-Shielded Neural Networks via Ciphertext Side Channels](https://dl.acm.org/doi/pdf/10.1145/3658644.3690317).  
 **Yuanyuan Yuan**, Zhibo Liu, Sen Deng, Yanzuo Chen, Shuai Wang, Yinqian Zhang, and Zhendong Su.  
 In *31st ACM Conference on Computer and Communications Security*, 2024.  
-[[preprint]](https://yuanyuan-yuan.github.io/files/ccs24-HyperTheft.pdf)
+[[extended version]](https://yuanyuan-yuan.github.io/files/ccs24-HyperTheft-full.pdf)
 
 - [**ISSTA 24**] [See the Forest, not Trees: Unveiling and Escaping the Pitfalls of Error-Triggering Inputs in Neural Network Testing](https://dl.acm.org/doi/abs/10.1145/3650212.3680385).  
 **Yuanyuan Yuan**, Shuai Wang, and Zhendong Su.  
