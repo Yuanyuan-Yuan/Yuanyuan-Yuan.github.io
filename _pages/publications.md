@@ -23,6 +23,7 @@ author_profile: true
 Yanzuo Chen, **Yuanyuan Yuan**$^\dagger$, Zhibo Liu, Sihang Hu, Tianxiang Li, and Shuai Wang$^\dagger$.  
 In *32nd Network and Distributed System Security Symposium*, 2025.  
 $^\dagger$ Corresponding authors.  
+[[preprint]](https://yuanyuan-yuan.github.io/files/ndss25-BitShield.pdf)
 
 - [**IEEE S&P**] <u>CipherSteal: Stealing Input Data from TEE-Shielded Neural Networks with Ciphertext Side Channels</u>.  
 **Yuanyuan Yuan**, Zhibo Liu, Sen Deng, Yanzuo Chen, Shuai Wang, Yinqian Zhang, and Zhendong Su.  
@@ -46,10 +47,10 @@ Zhibo Liu, **Yuanyuan Yuan**, Yanzuo Chen, Sihang Hu, Tianxiang Li, and Shuai Wa
 In *31st ACM Conference on Computer and Communications Security*, 2024.  
 [[preprint]](https://yuanyuan-yuan.github.io/files/ccs24-DeepCache.pdf)
 
-- [**CCS**] <u>HyperTheft: Thieving Model Weights from TEE-Shielded Neural Networks via Ciphertext Side Channels</u>.  
+- [**CCS**] [HyperTheft: Thieving Model Weights from TEE-Shielded Neural Networks via Ciphertext Side Channels](https://dl.acm.org/doi/pdf/10.1145/3658644.3690317).  
 **Yuanyuan Yuan**, Zhibo Liu, Sen Deng, Yanzuo Chen, Shuai Wang, Yinqian Zhang, and Zhendong Su.  
 In *31st ACM Conference on Computer and Communications Security*, 2024.  
-[[preprint]](https://yuanyuan-yuan.github.io/files/ccs24-HyperTheft.pdf)
+[[extended version]](https://yuanyuan-yuan.github.io/files/ccs24-HyperTheft-full.pdf)
 
 - [**ISSTA**] [See the Forest, not Trees: Unveiling and Escaping the Pitfalls of Error-Triggering Inputs in Neural Network Testing](https://dl.acm.org/doi/abs/10.1145/3650212.3680385).  
 **Yuanyuan Yuan**, Shuai Wang, and Zhendong Su.  
