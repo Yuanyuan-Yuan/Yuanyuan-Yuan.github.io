@@ -122,13 +122,14 @@ $^\dagger$ Corresponding authors.
 
 ## Academic Services
 
-- **Program Committee**: DeepTest 2025, USENIX Security 2023 (Artifact Evaluation), OSDI 2022 and USENIX ATC 2022 (Artifact Evaluation), ISSTA 2022 (Artifact Evaluation).
+- **Program Committee**: ICSE 2026, DeepTest 2025, USENIX Security 2023 (Artifact Evaluation), OSDI 2022 and USENIX ATC 2022 (Artifact Evaluation), ISSTA 2022 (Artifact Evaluation).
 
 - **External Reviewer**: IEEE S&P 2024, USENIX Security 2024, ISSTA 2024, FSE 2024, USENIX Security 2023, ISSTA 2023, FSE 2023, ASE 2022, CCS 2022.
 <!-- POPL 2020 Artifact Evaluation, ICICS 2020, ICICS 2021, AsiaCCS 2021, AsiaCCS 2022, Journal of System and Software.  -->
 
 ## Teaching Experience
 
+- **Teaching Assistant**: *Compiler Design*. ETH Zurich, Fall 2024.
 - **Guest Lecturer**: *Automated Software Testing*. ETH Zurich, Spring 2023.
 - **Teaching Assistant**: *COMP3632: Principles of Cybersecurity*. HKUST, Fall 2021.
 - **Teaching Assistant**: *COMP3632: Principles of Cybersecurity*. HKUST, Spring 2021.
