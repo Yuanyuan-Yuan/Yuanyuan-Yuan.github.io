@@ -31,7 +31,7 @@ From the hardware perspective, I analyze hardware activities in AI systems to un
 
 - **Ph.D. in Computer Science and Engineering**. HKUST. *Sep. 2020 - Sep. 2024*.  
 🎓 **Thesis:** [Side Channel Analysis for AI Infrastructures](https://yuanyuan-yuan.github.io/files/phd-thesis.pdf)  
-🏆 **Best PhD Dissertation Award 2024** (one awardee per year), CSE, HKUST
+🏆 <span style="color:red">**Best PhD Dissertation Award 2024**</span> (one awardee per year), CSE, HKUST
 
 - **Visiting Researcher**. [AST lab](https://ast.ethz.ch/), ETH Zurich. *Sep. 2022 - Sep. 2023*.
 
