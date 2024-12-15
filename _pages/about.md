@@ -14,7 +14,7 @@ Prior to that, I received my B.S. in Computer Science from Fudan University in 2
 
 *E-mail: yuanyuan.yuan [at] inf.ethz.ch*
 
-🌟 <span style="color:red">I am on the academic job market! Please feel free to contact me!</span>
+🌟 <span style="color:red">I am on the academic job market! Please feel free to contact me if you are interested.</span>
 
 ## Research Interests
 
