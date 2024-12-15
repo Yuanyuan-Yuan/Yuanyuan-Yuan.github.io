@@ -14,6 +14,8 @@ Prior to that, I received my B.S. in Computer Science from Fudan University in 2
 
 *E-mail: yuanyuan.yuan [at] inf.ethz.ch*
 
+🌟 <span style="color:red">I am on the academic job market! Please feel free to contact me!</span>
+
 ## Research Interests
 
 My research focuses on the ***safety*** (i.e., addressing *unintentional* defects and ensuring reliable behaviors) and ***security*** (i.e., uncovering and mitigating *intentional* attacks and privacy breaches) of ***AI systems***. My long-term goal is to strengthen AI systems' safety and security across a range of conventional and emerging scenarios. Over the past several years, I have been pursuing this goal primarily from ***software*** and ***hardware*** perspectives.
