@@ -28,6 +28,7 @@ $^\dagger$ Corresponding authors.
 - [**IEEE S&P**] <u>CipherSteal: Stealing Input Data from TEE-Shielded Neural Networks with Ciphertext Side Channels</u>.  
 **Yuanyuan Yuan**, Zhibo Liu, Sen Deng, Yanzuo Chen, Shuai Wang, Yinqian Zhang, and Zhendong Su.  
 In *46th IEEE Symposium on Security and Privacy*, 2025.   
+🏆 <span style="color:red">**Distinguished Paper Award**</span>  
 [[preprint]](https://yuanyuan-yuan.github.io/files/sp25-Cipher-Steal.pdf)
 
 - [**NDSS**] <u>Compiled Models, Built-In Exploits: Uncovering Pervasive Bit-Flip Attack Surfaces in DNN Executables</u>.  

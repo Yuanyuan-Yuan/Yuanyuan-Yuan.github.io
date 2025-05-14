@@ -14,7 +14,7 @@ Prior to that, I received my B.S. in Computer Science from Fudan University in 2
 
 *E-mail: yuanyuan.yuan [at] inf.ethz.ch*
 
-🌟 <span style="color:red">**I am currently on the academic job market** and would be delighted to connect! Please feel free to reach out if you're interested.</span>
+🌟 <span style="color:red">**I am on the academic job market** and would be delighted to connect! Please feel free to reach out if you're interested.</span>
 
 ## Research Interests
 
@@ -44,6 +44,7 @@ From the hardware perspective, I analyze hardware activities in AI systems to un
 - [**IEEE S&P 25**] <u>CipherSteal: Stealing Input Data from TEE-Shielded Neural Networks with Ciphertext Side Channels</u>.  
 **Yuanyuan Yuan**, Zhibo Liu, Sen Deng, Yanzuo Chen, Shuai Wang, Yinqian Zhang, and Zhendong Su.  
 In *46th IEEE Symposium on Security and Privacy*, 2025.   
+🏆 <span style="color:red">**Distinguished Paper Award**</span>  
 [[preprint]](https://yuanyuan-yuan.github.io/files/sp25-Cipher-Steal.pdf)
 
 - [**CCS 24**] [HyperTheft: Thieving Model Weights from TEE-Shielded Neural Networks via Ciphertext Side Channels](https://dl.acm.org/doi/pdf/10.1145/3658644.3690317).  
@@ -124,13 +125,16 @@ $^\dagger$ Corresponding authors.
 
 ## Academic Services
 
-- **Program Committee**: ICSE 2026, DeepTest 2025, USENIX Security 2023 (Artifact Evaluation), OSDI 2022 and USENIX ATC 2022 (Artifact Evaluation), ISSTA 2022 (Artifact Evaluation).
+- **Program Committee**: ICSE 2026, LMPL 2025, DeepTest 2025, USENIX Security 2023 (Artifact Evaluation), OSDI 2022 and USENIX ATC 2022 (Artifact Evaluation), ISSTA 2022 (Artifact Evaluation).
 
-- **External Reviewer**: IEEE S&P 2024, USENIX Security 2024, ISSTA 2024, FSE 2024, USENIX Security 2023, ISSTA 2023, FSE 2023, ASE 2022, CCS 2022.
-<!-- POPL 2020 Artifact Evaluation, ICICS 2020, ICICS 2021, AsiaCCS 2021, AsiaCCS 2022, Journal of System and Software.  -->
+- **Reviewer**: IEEE Transactions on Software Engineering, IEEE Transactions on Dependable and Secure Computing.
+
+<!-- - **External Reviewer**: IEEE S&P 2024, USENIX Security 2024, ISSTA 2024, FSE 2024, USENIX Security 2023, ISSTA 2023, FSE 2023, ASE 2022, CCS 2022. -->
 
 ## Teaching Experience
 
+- **Teaching Assistant**: *Automated Software Testing*. ETH Zurich, Spring 2025.
+- **Teaching Assistant**: *Research Topics in Software Engineering*. ETH Zurich, Spring 2025.
 - **Teaching Assistant**: *Compiler Design*. ETH Zurich, Fall 2024.
 - **Guest Lecturer**: *Automated Software Testing*. ETH Zurich, Spring 2023.
 - **Teaching Assistant**: *COMP3632: Principles of Cybersecurity*. HKUST, Fall 2021.
@@ -142,4 +146,4 @@ $^\dagger$ Corresponding authors.
   <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=58fqm6u2ofs&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33&amp;s=200" async="async"></script>
 </p> -->
 
-*<font size="2"><u>Last updated: 15 Dec. 2024</u></font>*
+*<font size="2"><u>Last updated: 14 May 2025</u></font>*
