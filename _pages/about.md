@@ -123,6 +123,13 @@ $^\dagger$ Corresponding authors.
 [[code]](https://github.com/ZhenlanJi/DL_CC)
 
 
+## Awards
+
+- 🏆 **Distinguished Paper Award**, IEEE Symposium on Security and Privacy, 2025.
+
+- 🏆 **Best PhD Dissertation Award** (one awardee per year), Department of Computer Science and Engineering, HKUST, 2024.
+
+
 ## Academic Services
 
 - **Program Committee**: ICSE 2026, LMPL 2025, DeepTest 2025, USENIX Security 2023 (Artifact Evaluation), OSDI 2022 and USENIX ATC 2022 (Artifact Evaluation), ISSTA 2022 (Artifact Evaluation).
