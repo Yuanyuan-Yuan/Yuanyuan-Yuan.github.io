@@ -10,11 +10,11 @@ author_profile: true
 
 *$^\dagger$ indicates corresponding authors, i.e., first-author works of junior students I mentored.*
 
-### Highlights
+<!-- ### Highlights
 
 - **Security Big 4**: IEEE S&P ($\times$ 4), USENIX Security ($\times$ 4), CCS ($\times$ 2), NDSS ($\times$ 4)
 
-- **Industrial**: Black Hat USA, Black Hat Europe
+- **Industrial**: Black Hat USA, Black Hat Europe -->
 
 
 ### 2025
