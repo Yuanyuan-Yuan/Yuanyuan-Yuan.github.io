@@ -44,11 +44,11 @@ Yanzuo Chen, Zhibo Liu, **Yuanyuan Yuan**, Sihang Hu, Tianxiang Li, and Shuai Wa
 In *24th Black Hat Europe*, 2024.  
 [[white paper]](https://yanzuo.ch/bh24), [[slides]](https://i.blackhat.com/EU-24/Presentations/EU-24-Chen-DevilIsInMicroArchitectures.pdf?_gl=1*24s182*_gcl_au*MTQwNjU0NDMyMC4xNzQ2MjAwMzk0*_ga*OTY3NjE1NDM4LjE3NDYyMDAzOTE.*_ga_K4JK67TFYV*czE3NDc5MTEyMzEkbzMkZzEkdDE3NDc5MTEzMzckajE5JGwwJGgwJGRHemlOQnB0alM1TnVnQ3hCZW9ROWo0T0xmUk5tZW5peXFR&_ga=2.31782843.489905144.1747903663-967615438.1746200391)
 
-- [**CCS**] <u>DeepCache: Revisiting Cache Side-Channel Attacks in Deep Neural Networks Executables</u>.  
+- [**CCS**] [DeepCache: Revisiting Cache Side-Channel Attacks in Deep Neural Networks Executables](https://yuanyuan-yuan.github.io/files/ccs24-DeepCache.pdf).  
 Zhibo Liu, **Yuanyuan Yuan**, Yanzuo Chen, Sihang Hu, Tianxiang Li, and Shuai Wang.  
 In *31st ACM Conference on Computer and Communications Security*, 2024.  
 🏅 **Presented at Black Hat Europe.**  
-[[preprint]](https://yuanyuan-yuan.github.io/files/ccs24-DeepCache.pdf)
+[[code]](https://github.com/monkbai/DeepCache)
 
 - [**CCS**] [HyperTheft: Thieving Model Weights from TEE-Shielded Neural Networks via Ciphertext Side Channels](https://dl.acm.org/doi/pdf/10.1145/3658644.3690317).  
 **Yuanyuan Yuan**, Zhibo Liu, Sen Deng, Yanzuo Chen, Shuai Wang, Yinqian Zhang, and Zhendong Su.  
