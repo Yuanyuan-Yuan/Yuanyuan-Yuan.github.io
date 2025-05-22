@@ -99,18 +99,18 @@ In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recogn
 In *International Conference on Learning Representations*, 2021.  
 [[code]](https://github.com/genSCA/genSCA)
 
-- [**NDSS 25b**] <u>BitShield: Defending Against Bit-Flip Attacks on DNN Executables</u>.  
+- [**NDSS 25b**] [BitShield: Defending Against Bit-Flip Attacks on DNN Executables](https://www.ndss-symposium.org/wp-content/uploads/2025-1463-paper.pdf).  
 Yanzuo Chen, **Yuanyuan Yuan**$^\dagger$, Zhibo Liu, Sihang Hu, Tianxiang Li, and Shuai Wang$^\dagger$.  
 In *32nd Network and Distributed System Security Symposium*, 2025.  
 $^\dagger$ Corresponding authors.  
-[[preprint]](https://yuanyuan-yuan.github.io/files/ndss25-BitShield.pdf)
+[[preprint]](https://yuanyuan-yuan.github.io/files/ndss25-BitShield.pdf), [[code]](https://github.com/yanzuochen/bitshield)
 
-- [**NDSS 25a**] <u>Compiled Models, Built-In Exploits: Uncovering Pervasive Bit-Flip Attack Surfaces in DNN Executables</u>.  
+- [**NDSS 25a**] [Compiled Models, Built-In Exploits: Uncovering Pervasive Bit-Flip Attack Surfaces in DNN Executables](https://www.ndss-symposium.org/wp-content/uploads/2025-419-paper.pdf).  
 Yanzuo Chen, Zhibo Liu, **Yuanyuan Yuan**$^\dagger$, Sihang Hu, Tianxiang Li, and Shuai Wang$^\dagger$.  
 In *32nd Network and Distributed System Security Symposium*, 2025.  
 🏅 **Presented at Black Hat Europe.**  
 $^\dagger$ Corresponding authors.  
-[[preprint]](https://yuanyuan-yuan.github.io/files/ndss25-exe-BFA.pdf)
+[[preprint]](https://yuanyuan-yuan.github.io/files/ndss25-exe-BFA.pdf), [[code]](https://github.com/yanzuochen/debfa)
 
 - [**NDSS 23**] [OBSan: An Out-Of-Bound Sanitizer to Harden DNN Executables](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f103_paper.pdf).  
 Yanzuo Chen, **Yuanyuan Yuan**$^\dagger$, and Shuai Wang$^\dagger$.  
