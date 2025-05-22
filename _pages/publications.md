@@ -7,7 +7,6 @@ author_profile: true
 
 <!-- *<font size="2">$^\dagger$ indicates corresponding authors, i.e., works of junior students mentored by me. </font>* -->
 
-
 *$^\dagger$ indicates corresponding authors, i.e., first-author works of junior students I mentored.*
 
 <!-- ### Highlights
@@ -19,11 +18,11 @@ author_profile: true
 
 ### 2025
 
-- [**NDSS**] <u>BitShield: Defending Against Bit-Flip Attacks on DNN Executables</u>.  
+- [**NDSS 25b**] [BitShield: Defending Against Bit-Flip Attacks on DNN Executables](https://www.ndss-symposium.org/wp-content/uploads/2025-1463-paper.pdf).  
 Yanzuo Chen, **Yuanyuan Yuan**$^\dagger$, Zhibo Liu, Sihang Hu, Tianxiang Li, and Shuai Wang$^\dagger$.  
 In *32nd Network and Distributed System Security Symposium*, 2025.  
 $^\dagger$ Corresponding authors.  
-[[preprint]](https://yuanyuan-yuan.github.io/files/ndss25-BitShield.pdf)
+[[preprint]](https://yuanyuan-yuan.github.io/files/ndss25-BitShield.pdf), [[code]](https://github.com/yanzuochen/bitshield)
 
 - [**IEEE S&P**] <u>CipherSteal: Stealing Input Data from TEE-Shielded Neural Networks with Ciphertext Side Channels</u>.  
 **Yuanyuan Yuan**, Zhibo Liu, Sen Deng, Yanzuo Chen, Shuai Wang, Yinqian Zhang, and Zhendong Su.  
@@ -31,21 +30,24 @@ In *46th IEEE Symposium on Security and Privacy*, 2025.
 🏆 <span style="color:red">**Distinguished Paper Award**</span>  
 [[preprint]](https://yuanyuan-yuan.github.io/files/sp25-Cipher-Steal.pdf)
 
-- [**NDSS**] <u>Compiled Models, Built-In Exploits: Uncovering Pervasive Bit-Flip Attack Surfaces in DNN Executables</u>.  
+- [**NDSS 25a**] [Compiled Models, Built-In Exploits: Uncovering Pervasive Bit-Flip Attack Surfaces in DNN Executables](https://www.ndss-symposium.org/wp-content/uploads/2025-419-paper.pdf).  
 Yanzuo Chen, Zhibo Liu, **Yuanyuan Yuan**$^\dagger$, Sihang Hu, Tianxiang Li, and Shuai Wang$^\dagger$.  
 In *32nd Network and Distributed System Security Symposium*, 2025.  
 $^\dagger$ Corresponding authors.  
-[[preprint]](https://yuanyuan-yuan.github.io/files/ndss25-exe-BFA.pdf)
+🏅 **Presented at Black Hat Europe.**  
+[[preprint]](https://yuanyuan-yuan.github.io/files/ndss25-exe-BFA.pdf), [[code]](https://github.com/yanzuochen/debfa)
 
 ### 2024
 
 - [**Black Hat EU**] <u>The Devil is in the (Micro-) Architectures: Uncovering New Side-Channel and Bit-Flip Attack Surfaces in DNN Executables</u>.  
 Yanzuo Chen, Zhibo Liu, **Yuanyuan Yuan**, Sihang Hu, Tianxiang Li, and Shuai Wang.  
-In *24th Black Hat Europe*, 2024.
+In *24th Black Hat Europe*, 2024.  
+[[white paper]](https://yanzuo.ch/bh24), [[slides]](https://i.blackhat.com/EU-24/Presentations/EU-24-Chen-DevilIsInMicroArchitectures.pdf?_gl=1*24s182*_gcl_au*MTQwNjU0NDMyMC4xNzQ2MjAwMzk0*_ga*OTY3NjE1NDM4LjE3NDYyMDAzOTE.*_ga_K4JK67TFYV*czE3NDc5MTEyMzEkbzMkZzEkdDE3NDc5MTEzMzckajE5JGwwJGgwJGRHemlOQnB0alM1TnVnQ3hCZW9ROWo0T0xmUk5tZW5peXFR&_ga=2.31782843.489905144.1747903663-967615438.1746200391)
 
 - [**CCS**] <u>DeepCache: Revisiting Cache Side-Channel Attacks in Deep Neural Networks Executables</u>.  
 Zhibo Liu, **Yuanyuan Yuan**, Yanzuo Chen, Sihang Hu, Tianxiang Li, and Shuai Wang.  
 In *31st ACM Conference on Computer and Communications Security*, 2024.  
+🏅 **Presented at Black Hat Europe.**  
 [[preprint]](https://yuanyuan-yuan.github.io/files/ccs24-DeepCache.pdf)
 
 - [**CCS**] [HyperTheft: Thieving Model Weights from TEE-Shielded Neural Networks via Ciphertext Side Channels](https://dl.acm.org/doi/pdf/10.1145/3658644.3690317).  
@@ -81,7 +83,8 @@ In *37th Conference on Neural Information Processing Systems*, 2023.
 
 - [**Black Hat USA**] [BTD: Unleashing the Power of Decompilation for x86 Deep Neural Network Executables](https://www.blackhat.com/us-23/briefings/schedule/index.html#btd-unleashing-the-power-of-decompilation-for-x-deep-neural-network-executables-33028).  
 Zhibo Liu, **Yuanyuan Yuan**, Xiaofei Xie, Tianxiang Li, Wenqiang Li, and Shuai Wang.  
-In *26th Black Hat USA*, 2023.
+In *26th Black Hat USA*, 2023.  
+[[white paper]](https://yuanyuan-yuan.github.io/files/BH23-decompielr.pdf), [[slides]](https://i.blackhat.com/BH-US-23/Presentations/US-23-ZhiboLiu-BTD-Unleashing-the-Power.pdf)
 
 - [**IEEE S&P**] [ADI: Adversarial Dominating Inputs in Vertical Federated Learning Systems](https://www.computer.org/csdl/proceedings-article/sp/2023/933600b875/1NrbZgBwxa0).  
 Qi Pang, **Yuanyuan Yuan**, Shuai Wang, and Wenting Zheng.  
@@ -108,6 +111,7 @@ In *32nd USENIX Security Symposium*, 2023.
 Zhibo Liu, **Yuanyuan Yuan**, Shuai Wang, Xiaofei Xie, and Lei Ma.  
 In *32nd USENIX Security Symposium*, 2023.  
 🏅 **Artifact Evaluation Badges**: Available; Functional; Reproduced.  
+🏅 **Presented at Black Hat USA.**  
 [[extended version]](https://arxiv.org/pdf/2210.01075.pdf), [[code]](https://github.com/monkbai/DNN-decompiler) <a href="https://github.com/monkbai/DNN-decompiler" target="_blank"><img src="https://img.shields.io/github/stars/monkbai/DNN-decompiler.svg?style=social&label=Star&maxAge=180"></a>
 
 - [**ICSE**] [CC: Causality-Aware Coverage Criterion for Deep Neural Networks](https://dl.acm.org/doi/pdf/10.1109/ICSE48619.2023.00153).  
