@@ -12,7 +12,8 @@ I am a postdoctoral researcher in the [Advanced Software Technologies (AST) lab]
 I obtained my Ph.D. in Computer Science and Engineering from The Hong Kong University of Science and Technology (HKUST) in 2024 under the supervision of Prof. [Shuai Wang](https://www.cse.ust.hk/~shuaiw/).
 Prior to that, I received my B.S. in Computer Science from Fudan University in 2020.
 
-*E-mail: yuanyuan.yuan [at] inf.ethz.ch*
+*E-mail: yuanyuan.yuan@inf.ethz.ch*  
+~~*yyuanaq@cse.ust.hk*~~ (expired)
 
 🌟 <span style="color:red">**I am on the academic job market** and would be delighted to connect! Please feel free to reach out if you're interested.</span>
 
