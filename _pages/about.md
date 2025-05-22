@@ -147,9 +147,26 @@ In *32nd USENIX Security Symposium*, 2023.
 
 ## Academic Services
 
-- **Program Committee**: ICSE 2026, LMPL 2025 (co-hosted with ICFP/SPLASH), DeepTest 2025 (co-hosted with ICSE), USENIX Security 2023 (Artifact Evaluation), OSDI 2022 and USENIX ATC 2022 (Artifact Evaluation), ISSTA 2022 (Artifact Evaluation).
+<!-- - **Program Committee**: ICSE 2026, LMPL 2025 (co-hosted with ICFP/SPLASH), DeepTest 2025 (co-hosted with ICSE), USENIX Security 2023 (Artifact Evaluation), OSDI 2022 and USENIX ATC 2022 (Artifact Evaluation), ISSTA 2022 (Artifact Evaluation).
 
-- **Reviewer**: IEEE Transactions on Software Engineering, IEEE Transactions on Dependable and Secure Computing.
+- **Reviewer**: IEEE Transactions on Software Engineering, IEEE Transactions on Dependable and Secure Computing. -->
+
+- **Program Committee**: ICSE 2026.
+
+- **Program Committee**: LMPL 2025 (co-hosted with ICFP/SPLASH 2025).
+
+- **Program Committee**: DeepTest 2025 (co-hosted with ICSE 2025).
+
+- **Reviewer**: IEEE Transactions on Software Engineering 2025.
+
+- **Reviewer**: IEEE Transactions on Dependable and Secure Computing 2025.
+
+- **Artifact Evaluation Committee**: USENIX Security 2023.
+
+- **Artifact Evaluation Committee**: OSDI and USENIX ATC 2022.
+
+- **Artifact Evaluation Committee**: ISSTA 2022.
+
 
 <!-- - **External Reviewer**: IEEE S&P 2024, USENIX Security 2024, ISSTA 2024, FSE 2024, USENIX Security 2023, ISSTA 2023, FSE 2023, ASE 2022, CCS 2022. -->
 
