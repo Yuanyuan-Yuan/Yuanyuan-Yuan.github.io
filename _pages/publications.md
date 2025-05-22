@@ -39,7 +39,7 @@ $^\dagger$ Corresponding authors.
 
 ### 2024
 
-- [**Black Hat EU**] <u>The Devil is in the (Micro-) Architectures: Uncovering New Side-Channel and Bit-Flip Attack Surfaces in DNN Executables</u>.  
+- [**Black Hat EU**] [The Devil is in the (Micro-) Architectures: Uncovering New Side-Channel and Bit-Flip Attack Surfaces in DNN Executables](https://www.blackhat.com/eu-24/briefings/schedule/#the-devil-is-in-the-micro--architectures-uncovering-new-side-channel-and-bit-flip-attack-surfaces-in-dnn-executables-42018).  
 Yanzuo Chen, Zhibo Liu, **Yuanyuan Yuan**, Sihang Hu, Tianxiang Li, and Shuai Wang.  
 In *24th Black Hat Europe*, 2024.  
 [[white paper]](https://yanzuo.ch/bh24), [[slides]](https://i.blackhat.com/EU-24/Presentations/EU-24-Chen-DevilIsInMicroArchitectures.pdf?_gl=1*24s182*_gcl_au*MTQwNjU0NDMyMC4xNzQ2MjAwMzk0*_ga*OTY3NjE1NDM4LjE3NDYyMDAzOTE.*_ga_K4JK67TFYV*czE3NDc5MTEyMzEkbzMkZzEkdDE3NDc5MTEzMzckajE5JGwwJGgwJGRHemlOQnB0alM1TnVnQ3hCZW9ROWo0T0xmUk5tZW5peXFR&_ga=2.31782843.489905144.1747903663-967615438.1746200391)
