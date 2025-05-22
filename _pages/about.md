@@ -124,6 +124,19 @@ In *45th IEEE/ACM International Conference on Software Engineering*, 2023.
 $^\dagger$ Corresponding authors.  
 [[code]](https://github.com/ZhenlanJi/DL_CC)
 
+- [**CCS**] [DeepCache: Revisiting Cache Side-Channel Attacks in Deep Neural Networks Executables](https://yuanyuan-yuan.github.io/files/ccs24-DeepCache.pdf).  
+Zhibo Liu, **Yuanyuan Yuan**, Yanzuo Chen, Sihang Hu, Tianxiang Li, and Shuai Wang.  
+In *31st ACM Conference on Computer and Communications Security*, 2024.  
+🏅 **Presented at Black Hat Europe.**  
+[[code]](https://github.com/monkbai/DeepCache)
+
+- [**USENIX Security**] [Decompiling x86 Deep Neural Network Executables](https://www.usenix.org/conference/usenixsecurity23/presentation/liuzhibo).  
+Zhibo Liu, **Yuanyuan Yuan**, Shuai Wang, Xiaofei Xie, and Lei Ma.  
+In *32nd USENIX Security Symposium*, 2023.  
+🏅 **Artifact Evaluation Badges**: Available; Functional; Reproduced.  
+🏅 **Presented at Black Hat USA.**  
+[[extended version]](https://arxiv.org/pdf/2210.01075.pdf), [[code]](https://github.com/monkbai/DNN-decompiler) <a href="https://github.com/monkbai/DNN-decompiler" target="_blank"><img src="https://img.shields.io/github/stars/monkbai/DNN-decompiler.svg?style=social&label=Star&maxAge=180"></a>
+
 
 ## Awards
 
