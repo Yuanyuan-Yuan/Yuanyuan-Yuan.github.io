@@ -18,7 +18,7 @@ author_profile: true
 
 ### 2025
 
-- [**NDSS 25b**] [BitShield: Defending Against Bit-Flip Attacks on DNN Executables](https://www.ndss-symposium.org/wp-content/uploads/2025-1463-paper.pdf).  
+- [**NDSS**] [BitShield: Defending Against Bit-Flip Attacks on DNN Executables](https://www.ndss-symposium.org/wp-content/uploads/2025-1463-paper.pdf).  
 Yanzuo Chen, **Yuanyuan Yuan**$^\dagger$, Zhibo Liu, Sihang Hu, Tianxiang Li, and Shuai Wang$^\dagger$.  
 In *32nd Network and Distributed System Security Symposium*, 2025.  
 $^\dagger$ Corresponding authors.  
@@ -30,7 +30,7 @@ In *46th IEEE Symposium on Security and Privacy*, 2025.
 🏆 <span style="color:red">**Distinguished Paper Award**</span>  
 [[preprint]](https://yuanyuan-yuan.github.io/files/sp25-Cipher-Steal.pdf)
 
-- [**NDSS 25a**] [Compiled Models, Built-In Exploits: Uncovering Pervasive Bit-Flip Attack Surfaces in DNN Executables](https://www.ndss-symposium.org/wp-content/uploads/2025-419-paper.pdf).  
+- [**NDSS**] [Compiled Models, Built-In Exploits: Uncovering Pervasive Bit-Flip Attack Surfaces in DNN Executables](https://www.ndss-symposium.org/wp-content/uploads/2025-419-paper.pdf).  
 Yanzuo Chen, Zhibo Liu, **Yuanyuan Yuan**$^\dagger$, Sihang Hu, Tianxiang Li, and Shuai Wang$^\dagger$.  
 In *32nd Network and Distributed System Security Symposium*, 2025.  
 $^\dagger$ Corresponding authors.  
