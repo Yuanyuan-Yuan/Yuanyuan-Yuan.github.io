@@ -155,6 +155,7 @@ In *32nd USENIX Security Symposium*, 2023.
 - **Program Committee**: LAMPS 2025 (co-hosted with CCS 2025).
 - **Program Committee**: LMPL 2025 (co-hosted with ICFP/SPLASH 2025).
 - **Program Committee**: DeepTest 2025 (co-hosted with ICSE 2025).
+- **Reviewer**: ACM Transactions on Software Engineering and Methodology 2025.
 - **Reviewer**: IEEE Transactions on Software Engineering 2025.
 - **Reviewer**: IEEE Transactions on Dependable and Secure Computing 2025.
 - **Artifact Evaluation Committee**: USENIX Security 2023.
