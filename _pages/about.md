@@ -147,23 +147,39 @@ In *32nd USENIX Security Symposium*, 2023.
 
 ## Academic Services
 
-<!-- - **Program Committee**: ICSE 2026, LMPL 2025 (co-hosted with ICFP/SPLASH), DeepTest 2025 (co-hosted with ICSE), USENIX Security 2023 (Artifact Evaluation), OSDI 2022 and USENIX ATC 2022 (Artifact Evaluation), ISSTA 2022 (Artifact Evaluation).
-
 - **Reviewer**: IEEE Transactions on Software Engineering, IEEE Transactions on Dependable and Secure Computing. -->
 
-- **Program Committee**: ICSE 2026.
-<!-- - **Program Committee**: LAMPS 2025 (co-hosted with CCS 2025). -->
-<!-- - **Program Committee**: LMPL 2025 (co-hosted with ICFP/SPLASH 2025). -->
-<!-- - **Program Committee**: DeepTest 2025 (co-hosted with ICSE 2025). -->
-- **Reviewer**: ACM TOSEM, IEEE TSE, IEEE TDSC.
-<!-- - **Reviewer**: IEEE Transactions on Software Engineering 2025. -->
-<!-- - **Reviewer**: IEEE Transactions on Dependable and Secure Computing 2025. -->
-- **Artifact Evaluation Committee**: USENIX Security 2023, OSDI and USENIX ATC 2022, ISSTA 2022.
-<!-- - **Artifact Evaluation Committee**: OSDI and USENIX ATC 2022. -->
-<!-- - **Artifact Evaluation Committee**: ISSTA 2022. -->
+- **Program Committee**: 
+  
+  The ACM Conference on Computer and Communications Security (CCS), 2026
 
+  International Conference on Software Engineering (ICSE), 2026
 
-<!-- - **External Reviewer**: IEEE S&P 2024, USENIX Security 2024, ISSTA 2024, FSE 2024, USENIX Security 2023, ISSTA 2023, FSE 2023, ASE 2022, CCS 2022. -->
+  Workshop on Language Models and Programming Languages (LMPL@SPLASH), 2025
+
+  Workshop on Large AI Systems and Models with Privacy and Security Analysis (LAMPS@CCS), 2025
+
+  Workshop on Deep Learning for Testing and Testing for Deep Learning (DeepTest@ICSE), 2025
+
+- **Reviewer**:
+
+  ACM Transactions on Software Engineering and Methodology (TOSEM), 2025
+
+  IEEE Transactions on Software Engineering (TSE), 2025
+
+  IEEE Transactions on Dependable and Secure Computing (TDSC), 2025
+
+  Empirical Software Engineering (ESE), 2025
+
+- **Artifact Evaluation Committee**: 
+
+  USENIX Security Symposium (USENIX Security), 2023
+
+  International Symposium on Software Testing and Analysis (ISSTA), 2022
+
+  USENIX Symposium on Operating Systems Design and Implementation (OSDI), 2022
+
+  USENIX Annual Technical Conference (ATC), 2022
 
 ## Teaching Experience
 
