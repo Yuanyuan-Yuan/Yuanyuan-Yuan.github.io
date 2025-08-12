@@ -147,23 +147,20 @@ In *32nd USENIX Security Symposium*, 2023.
 
 ## Academic Services
 
-- **Program Committee**: 
-  
+- **Program Committee**:  
   The ACM Conference on Computer and Communications Security (CCS), 2026  
   International Conference on Software Engineering (ICSE), 2026  
   Workshop on Language Models and Programming Languages (LMPL@SPLASH), 2025  
   Workshop on Large AI Systems and Models with Privacy and Security Analysis (LAMPS@CCS), 2025  
   Workshop on Deep Learning for Testing and Testing for Deep Learning (DeepTest@ICSE), 2025
 
-- **Reviewer**:
-
+- **Reviewer**:  
   ACM Transactions on Software Engineering and Methodology (TOSEM), 2025  
   IEEE Transactions on Software Engineering (TSE), 2025  
   IEEE Transactions on Dependable and Secure Computing (TDSC), 2025  
   Empirical Software Engineering (ESE), 2025
 
-- **Artifact Evaluation Committee**: 
-
+- **Artifact Evaluation Committee**:  
   USENIX Security Symposium (USENIX Security), 2023  
   International Symposium on Software Testing and Analysis (ISSTA), 2022  
   USENIX Symposium on Operating Systems Design and Implementation (OSDI), 2022  
