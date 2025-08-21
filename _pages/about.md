@@ -148,11 +148,12 @@ In *32nd USENIX Security Symposium*, 2023.
 ## Academic Services
 
 - **Program Committee**:  
-  The ACM Conference on Computer and Communications Security (CCS), 2026  
+  USENIX Security Symposium (USENIX Security), 2026  
+  ACM Conference on Computer and Communications Security (CCS), 2026  
   International Conference on Software Engineering (ICSE), 2026  
-  Workshop on Language Models and Programming Languages (LMPL@SPLASH), 2025  
+  <!-- Workshop on Language Models and Programming Languages (LMPL@SPLASH), 2025  
   Workshop on Large AI Systems and Models with Privacy and Security Analysis (LAMPS@CCS), 2025  
-  Workshop on Deep Learning for Testing and Testing for Deep Learning (DeepTest@ICSE), 2025
+  Workshop on Deep Learning for Testing and Testing for Deep Learning (DeepTest@ICSE), 2025 -->
 
 - **Reviewer**:  
   ACM Transactions on Software Engineering and Methodology (TOSEM), 2025  
