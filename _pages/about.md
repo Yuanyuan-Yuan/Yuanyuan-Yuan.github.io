@@ -71,7 +71,8 @@ In *32nd USENIX Security Symposium*, 2023.
 - [**USENIX Security 23a**] [CacheQL: Quantifying and Localizing Cache Side-Channel Vulnerabilities in Production Software](https://www.usenix.org/conference/usenixsecurity23/presentation/yuanyuanyuan).  
 **Yuanyuan Yuan**, Zhibo Liu, and Shuai Wang.  
 In *32nd USENIX Security Symposium*, 2023.  
-[[extended version]](https://arxiv.org/pdf/2209.14952.pdf), [[findings]](https://sites.google.com/view/cache-ql#h.pgsarsaxsdsv), [[code]](https://github.com/Yuanyuan-Yuan/CacheQL)
+[[extended version]](https://arxiv.org/pdf/2209.14952.pdf), [[findings]](https://sites.google.com/view/cache-ql#h.pgsarsaxsdsv), [[code]](https://github.com/Yuanyuan-Yuan/CacheQL) <a href="https://github.com/Yuanyuan-Yuan/CacheQL" target="_blank"><img src="https://img.shields.io/github/stars/Yuanyuan-Yuan/CacheQL.svg?style=social&label=Star&maxAge=180"></a>
+
 
 - [**ICSE 23a**] [Revisiting Neuron Coverage for DNN Testing: A Layer-Wise and Distribution-Aware Criterion](https://dl.acm.org/doi/pdf/10.1109/ICSE48619.2023.00107).  
 **Yuanyuan Yuan**, Qi Pang, and Shuai Wang.  
@@ -159,7 +160,7 @@ In *32nd USENIX Security Symposium*, 2023.
   ACM Transactions on Software Engineering and Methodology (TOSEM), 2025  
   IEEE Transactions on Software Engineering (TSE), 2025  
   IEEE Transactions on Dependable and Secure Computing (TDSC), 2025  
-  Empirical Software Engineering (ESE), 2025
+  Empirical Software Engineering (EMSE), 2025
 
 - **Artifact Evaluation Committee**:  
   USENIX Security Symposium (USENIX Security), 2023  
@@ -169,9 +170,9 @@ In *32nd USENIX Security Symposium*, 2023.
 
 ## Teaching Experience
 
+- **Teaching Assistant**: *Compiler Design*. ETH Zurich, Fall 2025, Fall 2024.  
 - **Teaching Assistant**: *Automated Software Testing*. ETH Zurich, Spring 2025.
 - **Teaching Assistant**: *Research Topics in Software Engineering*. ETH Zurich, Spring 2025.
-- **Teaching Assistant**: *Compiler Design*. ETH Zurich, Fall 2024.
 - **Guest Lecturer**: *Automated Software Testing*. ETH Zurich, Spring 2023.
 - **Teaching Assistant**: *COMP3632: Principles of Cybersecurity*. HKUST, Fall 2021.
 - **Teaching Assistant**: *COMP3632: Principles of Cybersecurity*. HKUST, Spring 2021.
@@ -182,4 +183,4 @@ In *32nd USENIX Security Symposium*, 2023.
   <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=58fqm6u2ofs&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33&amp;s=200" async="async"></script>
 </p> -->
 
-*<font size="2"><u>Last updated: 22 May 2025</u></font>*
+*<font size="2"><u>Last updated: 08 Oct 2025</u></font>*
