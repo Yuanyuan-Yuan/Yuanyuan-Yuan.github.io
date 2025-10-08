@@ -18,6 +18,11 @@ author_profile: true
 
 ### 2025
 
+- [**DL4C@NeurIPS**] <u>Is Your Benchmark (Still) Useful? Dynamic Benchmarking for Code Language Models</u>.  
+Batu Guan, Xiao Wu, **Yuanyuan Yuan**, and Shaohua Li.  
+In *4th Deep Learning for Code Workshop @ NeurIPS*, 2025.  
+[[preprint]](https://arxiv.org/pdf/2503.06643)
+
 - [**NDSS**] [BitShield: Defending Against Bit-Flip Attacks on DNN Executables](https://www.ndss-symposium.org/wp-content/uploads/2025-1463-paper.pdf).  
 Yanzuo Chen, **Yuanyuan Yuan**$^\dagger$, Zhibo Liu, Sihang Hu, Tianxiang Li, and Shuai Wang$^\dagger$.  
 In *32nd Network and Distributed System Security Symposium*, 2025.  
