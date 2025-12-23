@@ -10,7 +10,7 @@ redirect_from:
 
 I am a tenure-track assistant professor in the School of Software at Tsinghua University. My research mainly focuses on the ***safety*** and ***security*** of ***AI systems***.
 
-*E-mail: yyyuan@mail.tsinghua.edu.cn*  
+*E-mail: yyyuan@tsinghua.edu.cn*  
 
 <span style="color:red">**Openings:**</span> I am looking for self-motivated students (**Post-doc, PhD, Master, and Undergraduate**) with research interests in Security, AI, and Software Engineering. If you are interested in joining my group, please drop me an email with your CV and transcripts.
 
