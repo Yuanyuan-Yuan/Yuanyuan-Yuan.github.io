@@ -8,14 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher in the [Advanced Software Technologies (AST) lab](https://ast.ethz.ch/) at ETH Zurich, mentored by Prof. [Zhendong Su](https://people.inf.ethz.ch/suz/). 
-I obtained my Ph.D. in Computer Science and Engineering from The Hong Kong University of Science and Technology (HKUST) in 2024 under the supervision of Prof. [Shuai Wang](https://www.cse.ust.hk/~shuaiw/).
-Prior to that, I received my B.S. in Computer Science from Fudan University in 2020.
+I am a tenure-track assistant professor in the School of Software at Tsinghua University. My research mainly focuses on the ***safety*** and ***security*** of ***AI systems***.
 
-*E-mail: yuanyuan.yuan@inf.ethz.ch*  
-<!-- ~~*yyuanaq@cse.ust.hk*~~ (expired) -->
+*E-mail: yyyuan@mail.tsinghua.edu.cn*  
 
-<!-- 🌟 <span style="color:red">**I am on the academic job market** and would be delighted to connect! Please feel free to reach out if you're interested.</span> -->
+<span style="color:red">**Openings:**</span> I am looking for self-motivated students (**Post-doc, PhD, Master, and Undergraduate**) with research interests in Security, AI, and Software Engineering. If you are interested in joining my group, please drop me an email with your CV and transcripts.
+
+Before joining Tsinghua University, I was a post-doc researcher at ETH Zurich, working with Prof. [Zhendong Su](https://people.inf.ethz.ch/suz/). I obtained my Ph.D. in Computer Science and Engineering from The Hong Kong University of Science and Technology (HKUST) in 2024 under the supervision of Prof. [Shuai Wang](https://www.cse.ust.hk/~shuaiw/), and my B.S. in Computer Science from Fudan University in 2020.
 
 <!-- ## Research Interests
 
@@ -28,7 +27,9 @@ From the hardware perspective, I analyze hardware activities in AI systems to un
 
 ## Education & Experience
 
-- **Postdoctoral Researcher**. [AST lab](https://ast.ethz.ch/), ETH Zurich. *Oct. 2024 - present*.
+- **Assistant Professor**. School of Software, Tsinghua University. *Dec. 2025 - present*.
+
+- **Postdoctoral Researcher**. [AST lab](https://ast.ethz.ch/), ETH Zurich. *Oct. 2024 - Dec. 2025*.
 
 - **Ph.D. in Computer Science and Engineering**. HKUST. *Sep. 2020 - Sep. 2024*.  
 🎓 **Thesis:** [Side Channel Analysis for AI Infrastructures](https://yuanyuan-yuan.github.io/files/phd-thesis.pdf)  
@@ -40,7 +41,7 @@ From the hardware perspective, I analyze hardware activities in AI systems to un
 
 ## Selected Publications ([full list](https://yuanyuan-yuan.github.io/publications/))
 
-*$^\dagger$ indicates corresponding authors, i.e., first-author publications of students I mentored.*
+*$^\dagger$ indicates (co-)corresponding authors.*
 
 - [**IEEE S&P 25**] <u>CipherSteal: Stealing Input Data from TEE-Shielded Neural Networks with Ciphertext Side Channels</u>.  
 **Yuanyuan Yuan**, Zhibo Liu, Sen Deng, Yanzuo Chen, Shuai Wang, Yinqian Zhang, and Zhendong Su.  
@@ -168,7 +169,7 @@ In *32nd USENIX Security Symposium*, 2023.
   USENIX Symposium on Operating Systems Design and Implementation (OSDI), 2022  
   USENIX Annual Technical Conference (ATC), 2022
 
-## Teaching Experience
+<!-- ## Teaching Experience
 
 - **Teaching Assistant**: *Compiler Design*. ETH Zurich, Fall 2025, Fall 2024.  
 - **Teaching Assistant**: *Automated Software Testing*. ETH Zurich, Spring 2025.
@@ -176,11 +177,11 @@ In *32nd USENIX Security Symposium*, 2023.
 - **Guest Lecturer**: *Automated Software Testing*. ETH Zurich, Spring 2023.
 - **Teaching Assistant**: *COMP3632: Principles of Cybersecurity*. HKUST, Fall 2021.
 - **Teaching Assistant**: *COMP3632: Principles of Cybersecurity*. HKUST, Spring 2021.
-- **Teaching Assistant**: *Introduction to Computer System*. Fudan University, Fall 2018.
+- **Teaching Assistant**: *Introduction to Computer System*. Fudan University, Fall 2018. -->
 
 
 <!-- <p align="center">
   <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=58fqm6u2ofs&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33&amp;s=200" async="async"></script>
 </p> -->
 
-*<font size="2"><u>Last updated: 08 Oct 2025</u></font>*
+<!-- *<font size="2"><u>Last updated: 23 Dec 2025</u></font>* -->
