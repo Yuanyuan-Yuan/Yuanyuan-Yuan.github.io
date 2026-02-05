@@ -161,7 +161,7 @@ In *32nd USENIX Security Symposium*, 2023.
 
 - **Reviewer**:  
   ACM Transactions on Software Engineering and Methodology (TOSEM), 2026, 2025  
-  IEEE Transactions on Dependable and Secure Computing (TDSC), 2026, 2025. 
+  IEEE Transactions on Dependable and Secure Computing (TDSC), 2026, 2025  
   IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026  
   IEEE Transactions on Software Engineering (TSE), 2025  
   Empirical Software Engineering (EMSE), 2025
