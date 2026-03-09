@@ -10,7 +10,7 @@ redirect_from:
 
 I am a tenure-track assistant professor in the School of Software at Tsinghua University. My research mainly focuses on the ***safety*** and ***security*** of ***AI systems***.
 
-Before joining Tsinghua University, I was a post-doc researcher at ETH Zurich, working with Prof. [Zhendong Su](https://people.inf.ethz.ch/suz/). I obtained my Ph.D. degree from HKUST in 2024 under the supervision of Prof. [Shuai Wang](https://www.cse.ust.hk/~shuaiw/), and my B.S. degree from Fudan University in 2020.
+Before joining Tsinghua University, I was a post-doc researcher at ETH Zurich, working with Prof. Zhendong Su. I obtained my Ph.D. degree from HKUST in 2024 under the supervision of Prof. Shuai Wang, and my B.S. degree from Fudan University in 2020.
 
 *E-mail: yyyuan@tsinghua.edu.cn*  
  
