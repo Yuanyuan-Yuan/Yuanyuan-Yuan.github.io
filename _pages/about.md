@@ -151,7 +151,7 @@ In *32nd USENIX Security Symposium*, 2023.
 ## Academic Services
 
 - **Program Committee**:  
-  IEEE Security & Privacy (S&P), 2027
+  IEEE Security & Privacy (S&P), 2027  
   USENIX Security Symposium (USENIX Security), 2026  
   ACM Conference on Computer and Communications Security (CCS), 2026  
   ACM International Conference on the Foundations of Software Engineering (FSE), 2027  
