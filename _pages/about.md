@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a tenure-track assistant professor in the School of Software at Tsinghua University. My research mainly focuses on the ***safety*** and ***security*** of ***AI systems***.
+Yuanyuan Yuan is a tenure-track assistant professor in the School of Software at Tsinghua University. His research mainly focuses on the ***safety*** and ***security*** of ***AI systems***.
 
-Before joining Tsinghua University, I was a post-doc researcher at ETH Zurich, working with Prof. Zhendong Su. I obtained my Ph.D. degree from HKUST in 2024 under the supervision of Prof. Shuai Wang, and my B.S. degree from Fudan University in 2020.
+Before joining Tsinghua University, he was a post-doc researcher at ETH Zurich, working with Prof. Zhendong Su. He obtained his Ph.D. degree from HKUST in 2024 under the supervision of Prof. Shuai Wang, and his B.S. degree from Fudan University in 2020.
 
 *E-mail: yyyuan@tsinghua.edu.cn*  
  
