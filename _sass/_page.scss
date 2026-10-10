@@ -18,9 +18,11 @@
 
 .page {
   @include breakpoint($large) {
-    @include span(10 of 12 last);
+    @include span(10 of 12);
+    float: none;
+    margin: 0 auto;
     @include prefix(0.5 of 12);
-    @include suffix(2 of 12);
+    @include suffix(0.5 of 12);
   }
 
   .page__inner-wrap {
@@ -50,10 +52,10 @@
 
 .page__content {
 
-  h2 {
-    padding-bottom: 0.5em;
-    border-bottom: 1px solid $border-color;
-  }
+  // h2 {
+  //   padding-bottom: 0.5em;
+  //   border-bottom: 1px solid $border-color;
+  // }
 
   p, li, dl {
     font-size: 1em;
@@ -398,4 +400,20 @@
   margin-bottom: 10px;
   font-size: $type-size-6;
   text-transform: uppercase;
+}
+
+.page__content > h1 {
+  display: flex;
+  align-items: center;
+  gap: 0.7em;
+  border-bottom: 0;
+  padding-bottom: 0;
+  margin-top: 4rem;     
+  margin-bottom: 1rem;
+
+  &::after {
+    content: "";
+    flex: 1;
+    border-top: 1px solid #dedbd5;
+  }
 }

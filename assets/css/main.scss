@@ -10,7 +10,7 @@
  *
 */
 
-@import "vendor/breakpoint/breakpoint"; // media query mixins
+@import "vendor/breakpoint/breakpoint"; /* media query mixins */
 @import "variables";
 @import "mixins";
 @import "vendor/susy/susy";
@@ -39,3 +39,97 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+
+.home-profile {
+  display: grid;
+  justify-items: center;
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.home-profile__photo {
+  display: block;
+  width: 200px;
+  max-width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  object-position: center top;
+  border-radius: 12px;
+}
+
+.home-profile__summary {
+  min-width: 0;
+  text-align: center;
+}
+
+.home-profile__summary h1 {
+  margin: 0 0 1rem;
+}
+
+.home-profile__summary p {
+  margin: 0 0 1rem;
+}
+
+.home-profile__links {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1.25rem;
+}
+
+.home-profile__links a {
+  font-size: 1.4rem;
+  line-height: 1;
+  text-decoration: none;
+}
+
+@include breakpoint($medium) {
+  .home-profile {
+    grid-template-columns: 200px minmax(0, 1fr);
+    justify-items: stretch;
+    align-items: center;
+    gap: 4rem;
+  }
+
+  .home-profile__summary {
+    text-align: left;
+  }
+
+  .home-profile__links {
+    justify-content: flex-start;
+  }
+}
+
+:lang(zh-CN) {
+  font-family: "Songti SC", "STSong", "SimSun", "Noto Serif CJK SC", serif;
+}
+
+.home-profile__name-zh {
+  margin-left: 0.3em;
+  font-size: 1em;
+  font-weight: inherit;
+  white-space: nowrap;
+}
+
+@font-face {
+  font-family: "Site Song";
+  src: local("Songti SC"),
+       local("STSong"),
+       local("SimSun"),
+       local("Noto Serif CJK SC");
+  unicode-range: U+3000-303F, U+3400-4DBF, U+4E00-9FFF,
+                 U+F900-FAFF, U+FF00-FFEF, U+20000-2FA1F;
+}
+
+#main {
+  padding-top: 2rem;
+}
+
+html {
+  scroll-padding-top: 120px;
+}
+
+body {
+  padding-bottom: 0;
+}

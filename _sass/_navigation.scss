@@ -175,8 +175,8 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  background: $background-color;
-
+  // background: $background-color;
+  background: transparent;
   a {
     display: block;
     margin: 0 1rem;
@@ -197,7 +197,8 @@
     border: 0;
     outline: none;
     background-color: $primary-color;
-    color: #fff;
+    // color: #fff;
+    color: transparent;
     cursor: pointer;
   }
 

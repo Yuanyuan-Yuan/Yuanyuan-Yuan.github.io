@@ -1,3 +1,8 @@
 <!-- start custom footer snippets -->
-<a href="/sitemap/">Sitemap</a>
+{% assign home = site.pages | where: "permalink", "/" | first %}
+{% if home.footer_text %}
+  <div class="page__footer-copyright">
+    {{ home.footer_text | markdownify }}
+  </div>
+{% endif %}
 <!-- end custom footer snippets -->
