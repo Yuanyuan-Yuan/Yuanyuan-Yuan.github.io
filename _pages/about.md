@@ -22,7 +22,7 @@ footer_text: |
     <h1>{{ site.author.name }} <span class="home-profile__name-zh" lang="zh-CN">(袁渊源)</span></h1>
 
     <p>
-      Assistant Professor<br>
+      Assistant Professor (Tenure-Track)<br>
       School of Software, Tsinghua University<br>
       E-mail: yyyuan@tsinghua.edu.cn<br>
       <span lang="zh-CN">国家级青年人才</span>
