@@ -57,8 +57,9 @@ My research focuses on the safety and security of AI systems, both in the digita
 
 Before joining Tsinghua University, I was a post-doc researcher at ETH Zurich (2024-2025), working with Prof. [Zhendong Su](https://people.inf.ethz.ch/suz/). I obtained my Ph.D. degree from HKUST in 2024 under the supervision of Prof. [Shuai Wang](https://www.cse.ust.hk/~shuaiw/), and my B.S. degree from Fudan University in 2020.
 
- 
-> **Openings:** I am always looking for self-motivated students (Post-doc, PhD, Master, and Undergraduate). If you are interested in joining my group, please drop me an email with your CV and transcripts.
+<blockquote markdown="1" style="background-color: #eef7ff; padding: 1rem 1rem 0.1rem;">
+**Openings:** I am looking for PhD and Master students for Fall 2028. I am also recruiting Post-doc and RAs with flexible start dates. If you are interested, please drop me an email with your CV.
+</blockquote>
 
 # Team
 {: #team }
