@@ -133,7 +133,8 @@ In *26th Black Hat Europe*, 2026.
 
 - [**CCS**] <u>PathMark: Protecting Intellectual Property of Mixture-of-expert LLMs via Path Watermarks</u>.  
 Yudong Gao, Qingyue Wang$^\dagger$, **Yuanyuan Yuan**$^\dagger$, Ruixuan Huang, Linghan Chen, Zimo Ji, and Shuai Wang.  
-In *33rd ACM Conference on Computer and Communications Security*, 2026.
+In *33rd ACM Conference on Computer and Communications Security*, 2026.  
+[[preprint]](https://arxiv.org/abs/2607.03688)
 
 - [**TOSEM**] <u>How Multi-Modal LLMs Reshape Visual Deep Learning Testing: A Comprehensive Study Through the Lens of Image Mutation</u>.  
 Liwen Wang, **Yuanyuan Yuan**$^\dagger$, Ao Sun, Zongjie Li, Pingchuan Ma, Daoyuan Wu, and Shuai Wang$^\dagger$.  
