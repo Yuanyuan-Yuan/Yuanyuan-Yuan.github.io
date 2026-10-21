@@ -118,9 +118,13 @@ Before joining Tsinghua University, I was a post-doc researcher at ETH Zurich (2
 {: #publications }
 *$^\dagger$ indicates (co-)corresponding authors.*
 
+- [**ICSE**] <u>SkillReducer: Structure-aware Debloating of LLM Agent Skills</u>.  
+Yudong Gao, Zongjie Li, **Yuanyuan Yuan**, Zimo Ji, Pingchuan Ma, and Shuai Wang.  
+In *49th IEEE/ACM International Conference on Software Engineering*, 2027.  
+[[preprint]](https://arxiv.org/abs/2603.29919)
 
 - [**IEEE S&P**] <u>SEED: Eliciting Internal Safety for Jailbreak Defense in Large Reasoning Models via Exploratory Decoding</u>.  
-Yujue Wang, Quan Zhang$^\dagger$, Gwihwan Go, Chijin Zhou, **Yuanyuan Yuan**$^\dagger$, Heyuan Shi, Yu Jiang.  
+Yujue Wang, Quan Zhang$^\dagger$, Gwihwan Go, Chijin Zhou, **Yuanyuan Yuan**$^\dagger$, Heyuan Shi, and Yu Jiang.  
 In *48th IEEE Symposium on Security and Privacy*, 2027.
 
 - [**Black Hat EU**] <u>Rooting Your Robots: Breaking Authentication Across Quadruped and Humanoid Robots</u>.  
