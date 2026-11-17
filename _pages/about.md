@@ -81,7 +81,7 @@ Before joining Tsinghua University, I was a post-doc researcher at ETH Zurich (2
 
 ### Program Committee:
 
-- **2027:** IEEE S&P, USENIX Security, FSE, ICSE
+- **2027:** IEEE S&P, USENIX Security, CCS, FSE, ICSE
 - **2026:** USENIX Security, CCS, ICSE, ISSTA
 - **2025:** LMPL@SPLASH, LAMPS@CCS, DeepTest@ICSE
 - **2023:** USENIX Security (AE)
@@ -95,6 +95,8 @@ Before joining Tsinghua University, I was a post-doc researcher at ETH Zurich (2
 
 # Selected Awards
 {: #awards }
+
+- 🏆 **Top Reviewer Award**, ACM Conference on Computer and Communications Security (CCS), 2026.
 
 - 🏆 **Distinguished Paper Award**, IEEE Symposium on Security and Privacy (S&P), 2025.
 
